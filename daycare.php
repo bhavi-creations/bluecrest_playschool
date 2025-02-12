@@ -1,5 +1,5 @@
 <?php
-   include "./includes/header.php";
+   include "header.php";
    ?>
    
     <!-- Breadcrumnd Banner Start -->
@@ -46,12 +46,12 @@ Helps children learn patience and empathy through group activities.
       </div>
       </div>
    </div>
-   <div class="row">
-      <div class="col-md-5 col-12">
-      <img src="assets/img/school/2.png" alt="img" style="height:300px">
+   <div class="row mt-5">
+      <div class="col-md-6 col-12">
+      <img src="assets/img/school/2.png" alt="img" style="height:300px;width:350px">
 
       </div>
-      <div class="col-md-7 col-12 mb-5">
+      <div class="col-md-6 col-12 mb-5">
          <p class="family letter_space mb-3">
          Prepares Children for Formal Schooling: Helps build a foundation for future academic learning.
 Encourages Independence: Teaches kids to function in a structured setting without parental assistance.
@@ -85,5 +85,4 @@ Choosing the Right Playschool Daycare</p>
 </div>
 
 
-<?php include "./includes/footer.php"; 
-?>
+<?php include 'footer.php'; ?>

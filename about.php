@@ -27,7 +27,7 @@
 
     <!-- Aboutv1 Section Start -->
 
-    <section class="about-sectionv1 space-top overflow-hidden space-bottom">
+    <section class="about-sectionv1 space-top overflow-hidden space-bottom hero_bg">
         <div class="container">
             <div class="row align-items-center g-4">
                 <div class="col-lg-6 col-md-6 col-sm-6">
@@ -51,7 +51,7 @@
                             <div class="academy-box2 gra-border round10 wow fadeInUp" data-wow-delay="1600">
                                 <div class="content">
                                     <h3 class="text">
-                                        <span class="count ">10</span>+
+                                        <span class="count ">3</span>+
                                     </h3>
                                     <p>years of experiences</p>
                                 </div>
@@ -72,7 +72,7 @@
                             BlueCrest  School offers a comprehensive early childhood education program designed to foster holistic development in young learners. The school's playgroup and nursery sections provide a nurturing environment where children engage in activities that promote cognitive, social, emotional, and physical growth.
 
 
- The curriculum includes storytelling, music, and art to stimulate creativity and language skills</p>
+ The curriculum includes storytelling, music, and art to stimulate creativity and language skills.</p>
 
 
  <p>

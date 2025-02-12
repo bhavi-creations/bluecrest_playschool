@@ -1,5 +1,5 @@
 <?php
-   include "./includes/header.php";
+   include "header.php";
    ?>
   <!-- Breadcrumnd Banner Start -->
   <section class="breadcrumnd-banner cmn-bg overflow-hidden  mb-5">
@@ -46,14 +46,14 @@ Outdoor games, running, yoga, and free play.
 
       <div class="">
       <!-- <img src="assets/img/.png" alt="img" class="img-fluid" style="height:400px"> -->
-      <img src="assets/img/portfolio/8.png" alt="img" style="height:400px">
+      <img src="assets/img/portfolio/8.png" alt="img" style="height:400px" class="img-fluid">
 
       </div>
       </div>
    </div>
    <div class="row">
       <div class="col-md-5 col-12 mb-5">
-      <img src="assets/img/portfolio/6.png" alt="img">
+      <img src="assets/img/portfolio/6.png" alt="img" class="img-fluid">
 
       </div>
       <div class="col-md-7 col-12 mb-5">
@@ -196,7 +196,7 @@ Mindfulness exercises, yoga, and fitness training.
                     
          </div>
          <div class="col-md-5 col-12 mb-5">
-      <img src="assets/img/portfolio/1.png" alt="img">
+      <img src="assets/img/portfolio/1.png" alt="img" class="img-fluid">
 
       </div>
                           
@@ -204,5 +204,4 @@ Mindfulness exercises, yoga, and fitness training.
 </div>
 
 
-<?php include "./includes/footer.php"; 
-?>
+<?php include 'footer.php'; ?>

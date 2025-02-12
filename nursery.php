@@ -1,5 +1,5 @@
 <?php
-   include "./includes/header.php";
+   include "header.php";
    ?>
   <!-- Breadcrumnd Banner Start -->
   <section class="breadcrumnd-banner cmn-bg overflow-hidden mb-5">
@@ -39,7 +39,7 @@ Helps children express their feelings and build confidence.
 
       <div class="">
       <!-- <img src="assets/img/.png" alt="img" class="img-fluid" style="height:400px"> -->
-      <img src="assets/img/portfolio/7.png" alt="img" style="height:300px">
+      <img src="assets/img/portfolio/7.png" alt="img" style="height:300px" class="img-fluid">
 
       </div>
       </div>
@@ -49,11 +49,11 @@ Helps children express their feelings and build confidence.
 <section class="">
    <div class="container">
      <div class="row ">
-        <div class="col-md-5 col-12 mb-5 mt-5">
-      <img src="assets/img/nursery1.png" alt="img">
+        <div class="col-md-6 col-12 mb-5 mt-5">
+      <img src="assets/img/nursery1.png" alt="img" class="img-fluid">
 
       </div>
-      <div class="col-md-7 col-12 mt-5 mb-5">
+      <div class="col-md-6 col-12 mt-5 mb-5">
          <p class="family letter_space">
          Physical Development
 
@@ -95,5 +95,4 @@ Boosts Cognitive Skills Encourages curiosity, problem-solving, and logical think
 </section>
 
 
-<?php include "./includes/footer.php"; 
-?>
+<?php include 'footer.php'; ?>

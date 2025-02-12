@@ -1,5 +1,5 @@
 <?php
-   include "./includes/header.php";
+   include "header.php";
    ?>
    
 <div class="container">
@@ -91,5 +91,4 @@ You agree that the original English text shall prevail in the case of a dispute.
     </div>
 </div>
 
-<?php include "./includes/footer.php"; 
-?>
+<?php include 'footer.php'; ?>

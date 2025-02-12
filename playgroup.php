@@ -1,5 +1,5 @@
 <?php
-   include "./includes/header.php";
+   include "header.php";
    ?>
   <!-- Breadcrumnd Banner Start -->
   <section class="breadcrumnd-banner cmn-bg overflow-hidden  mb-5">
@@ -48,17 +48,17 @@ Strengthens parent-child bonding through interactive sessions.
 
       <div class="">
       <!-- <img src="assets/img/.png" alt="img" class="img-fluid" style="height:400px"> -->
-      <img src="assets/img/portfolio/4.png" alt="img" style="height:300px">
+      <img src="assets/img/portfolio/4.png" alt="img" style="height:300px" class="img-fluid">
 
       </div>
       </div>
    </div>
    <div class="row">
-      <div class="col-md-5 col-12 mb-5">
-      <img src="assets/img/playgroup.png" alt="img">
+      <div class="col-md-6 col-12 mb-5">
+      <img src="assets/img/playgroup.png" alt="img" class="img-fluid">
 
       </div>
-      <div class="col-md-7 col-12 mb-5">
+      <div class="col-md-6 col-12 mb-5">
          <p class="family letter_space">
          Prepares Children for Formal Schooling: Helps build a foundation for future academic learning.
 Encourages Independence: Teaches kids to function in a structured setting without parental assistance.
@@ -96,5 +96,4 @@ Would you like more details on a specific aspect, such as curriculum design or d
 </div>
 
 
-<?php include "./includes/footer.php"; 
-?>
+<?php include 'footer.php'; ?>

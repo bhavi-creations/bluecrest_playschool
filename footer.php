@@ -125,11 +125,11 @@
         </div>
 
 
-          <div class="footer-bottom top">
+          <div class="footer-bottom foot_bg">
             <div class="container">
                 <div
                     class="footer-wrapper d-md-flex d-grid gap-md-0 gap-2 align-items-center justify-content-md-between justify-content-center text-md-start text-center ">
-                    <p class="wow fadeInLeft color-2" data-wow-delay=".3s">
+                    <p class="wow fadeInLeft color-2 text-white up" data-wow-delay=".3s">
                    <a href="terms.php">
                         Terms & conditions
                    </a>
@@ -138,7 +138,7 @@
                   </a>    
                   </p>
 
-                    <ul class="footer-menu wow fadeInRight" data-wow-delay=".5s">
+                    <ul class="footer-menu wow fadeInRight up" data-wow-delay=".5s">
                         <li>
                         <a href="https://bhavicreations.com/" target="_blank"
               style="text-decoration: none; color: #ffffff; display: flex; align-items: center;">
@@ -154,13 +154,32 @@
                     </ul>
                 </div>
             </div> 
+
+
+            <a href="https://api.whatsapp.com/send?phone=9848424956" style="color: #fff;" class="whatsapp-link" target="_blank">
+            <i class="fab fa-whatsapp"></i>
+        </a>
             <a href="#" id="scrollUp" class="scroll-icon">
                 <i class="fa-solid fa-arrow-up scn_bg"></i>
             </a>
           </div>
 
-      
-          
+          <!-- <a href="#" class="btn btn-secondary btn-lg-square back-to-top"><i class="fa fa-arrow-up"></i></a> -->
+
+          <!-- <script>
+            $(document).ready(function() {
+
+                $(`[unique-script-id="w-w-dm-id"] .btn-box`).click(function() {
+                    $(this).parent().children(".overlay").show();
+
+                });
+
+
+                $(`[unique-script-id="w-w-dm-id"] .close`).click(function() {
+                    $(`[unique-script-id="w-w-dm-id"] .overlay`).hide();
+                });
+            });
+        </script> -->
         <!-- Element -->
         <img src="assets/img/footer/f-apple.png" alt="img" class="footer-apple position-absolute">
         <img src="assets/img/footer/f-cut.png" alt="img" class="footer-cut position-absolute">
