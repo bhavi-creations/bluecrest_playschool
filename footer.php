@@ -27,9 +27,9 @@
                     <div class=" col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".5s">
                         <div class="single-footer-widget">
                             <div class="widget-head">
-                                <h4 class="white">Pages</h4>
+                                <h4 class="white text-white">Pages</h4>
                             </div>
-                            <ul class="list-area">
+                            <ul class="list-area text-white">
                             <li>
                                     <a href="index.php">
                                         Home
@@ -62,9 +62,9 @@
                     <div class=" col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".5s">
                         <div class="single-footer-widget">
                             <div class="widget-head">
-                                <h4 class="white">Quick Links</h4>
+                                <h4 class="white text-white">Quick Links</h4>
                             </div>
-                            <ul class="list-area">
+                            <ul class="list-area text-white">
                             <li>
                                     <a href="daycare.php">
                                         Daycare
@@ -100,9 +100,9 @@
                     <div class=" col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".5s">
                         <div class="single-footer-widget">
                             <div class="widget-head">
-                                <h4 class="white">Contact Us</h4>
+                                <h4 class="white text-white">Contact Us</h4>
                             </div>
-                            <ul class="list-area list-contact">
+                            <ul class="list-area list-contact text-white">
                                 <li>
                                     <i class="fa-solid fa-location-dot scn_bg text-white"></i>
                                     <span class="lited">
