@@ -78,7 +78,7 @@
                             </span>
                             <h3 class="m-title wow fadeInUp black" data-wow-delay=".3s">
                                 Invest in education invest <br>
-                                in the future
+                                in the future.
                             </h3>
                             <p class="wow fadeInUp" data-wow-delay=".4s">
                             Education is more than just acquiring knowledge; it is the foundation for personal growth, economic progress, and societal development. Investing in education is an investment in a brighter, more prosperous future for individuals and communities alike.
