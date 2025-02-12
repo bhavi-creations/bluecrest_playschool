@@ -202,39 +202,7 @@ Mindfulness exercises, yoga, and fitness training.
                           
    </div>
 </div>
-<section class="stay-section pt-50 pb-50 cmn-bg overflow-hidden position-relative stay_bg">
-        <div class="container ">
-            <div class="row justify-content-between align-items-center g-4">
-                <div class="col-lg-5 col-md-6 col-sm-7">
-                    <div class="stay-content">
-                        <div class="section-title">
-                            <span class="sub-title wow fadeInUp black text">
-                                Stay With Us
-                            </span>
-                            <h3 class="m-title wow fadeInUp black mb-sm-3 mb-2" data-wow-delay=".3s">
-                                The path to success starts with education
-                            </h3>
-                            <p class="mb-24 pra wow fadeInUp" data-wow-delay=".4s">
-                            At [The BlueCrest School], we create a loving and nurturing environment where your little one learns, plays, and grows every day. With our fun-filled activities, caring teachers, and a safe space to explore, your child’s first learning experience will be full of joy and excitement!
-                            </p>
-                            <a href="contact.php" class="theme-btn round100 p2-bg py-3">
-                            <button class="btn_bg">
-                                    Read More
-                                </button>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 me-xl-5 col-sm-5">
-                    <div class="stay-thumb w-100">
-                        <img src="assets/img/Untitled_design__23_-removebg-preview.png" alt="img" class="w-100">
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Element-->
-        <img src="assets/img/aservices/stay-shape.png" alt="img" class="stay-element">
-    </section>
+
 
 <?php include "./includes/footer.php"; 
 ?>

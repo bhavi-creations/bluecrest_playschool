@@ -46,7 +46,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="blog.php">
+                                    <a href="blogs.php">
                                         Blog
                                     </a>
                                 </li>

@@ -40,16 +40,7 @@
 </head>
 
 <body>
-
-    <!-- Preloader Start -->
-    <!-- <div id="preloader" class="preloader">
-        <span></span>
-        <span></span>
-        <span class="man-pre">
-            <img src="assets/img/aservices/sertd-shape.png" alt="img">
-        </span>
-    </div> -->
-
+ 
     <!-- Offcanvas Area Start -->
     <div class="fix-area">
         <div class="offcanvas__info">
@@ -136,7 +127,7 @@
             <div class="header-top-wrapper">
                 <ul class="contact-list">
                     <li>
-                        <i class="fal fa-map-marker-alt"><span class="family">7993116666,7993118888</span></i>
+                        <i class="fal fa-phone"><span class="family"> 7993116666,7993118888</span></i>
                         
                     </li>
                     <li>
@@ -205,7 +196,7 @@
                                         </li>
 
                                         <li>
-                                            <a href="blog.php">
+                                            <a href="blogs.php">
                                                 Blog
                                               
                                             </a>

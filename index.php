@@ -1,6 +1,6 @@
 
 <?php
-   include "./includes/header.php";
+   include "header.php";
    ?>
 
     <!-- Search Area Start -->
@@ -1277,109 +1277,95 @@ Focus on play-based learning, storytelling, and outdoor activities
         </div>
     </section>
 
-    <!-- Blogv1 Section Start -->
-    <section class="blog-sectionv1 section-padding overflow-hidden">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-8 col-sm-9">
-                    <div class="section-title mb-60">
-                        <span class="sub-title wow fadeInUp p5-clr text">Latest Blog And News</span>
-                        <h3 class="m-title wow fadeInUp black" data-wow-delay=".3s">
-                            Wonderworks Child Development Center Discovery Kids Preschool
-                        </h3>
-                    </div>
-                </div>
-            </div>
-            <div class="row align-items-center">
-                <div class="col-xl-6 col-lg-6 col-md-7">
-                    <div class="news-small-items mb-24 wow fadeInUp" data-wow-delay=".4s">
-                        <div class="news-thumb">
-                            <img src="assets/img/blogs/1.png" alt="img">
-                        </div>
-                        <div class="news-content">
-                            <ul>
-                                <li>
-                                    <i class="fa-solid fa-calendar-days"></i>
-                                    October 19, 2024
-                                </li>
-                                <li>
-                                    <i class="fa-regular fa-user"></i> By admin
-                                </li>
-                            </ul>
-                            <h4>
-                                <a href="blog-details.php">
-                                    Empowering Children Through Education the a Igniting
-                                </a>
-                            </h4>
-                            <a href="blog.php" class="readmore d-flex align-items-center gap-2">
-                                Read More
-                                <span class="arrows mt-1">
-                                    <i class="fa-solid fa-arrow-right"></i>
-                                </span>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="news-small-items wow fadeInUp" data-wow-delay=".6s">
-                        <div class="news-thumb">
-                            <img src="assets/img/blogs/2.png" alt="img">
-                        </div>
-                        <div class="news-content">
-                            <ul>
-                                <li>
-                                    <i class="fa-solid fa-calendar-days"></i>
-                                    October 19, 2024
-                                </li>
-                                <li>
-                                    <i class="fa-regular fa-user"></i> By admin
-                                </li>
-                            </ul>
-                            <h4>
-                                <a href="blog-details.php">
-                                    Joyful Journeys Childcare and EducationIgniting Curiosity
-                                </a>
-                            </h4>
-                            <a href="blog.php" class="readmore d-flex align-items-center gap-2">
-                                Read More
-                                <span class="arrows mt-1">
-                                    <i class="fa-solid fa-arrow-right"></i>
-                                </span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-6 col-lg-6 col-md-5 wow fadeInUp mt-md-0 mt-3" data-wow-delay=".3s">
-                    <div class="news-small-items news-single-items d-grid gap-0 p-0 overflow-hidden">
-                        <div class="news-thumbig">
-                            <img src="assets/img/blogs/3.png" alt="img">
-                        </div>
-                        <div class="news-content">
-                            <ul>
-                                <li>
-                                    <i class="fa-solid fa-calendar-days"></i>
-                                    October 19, 2024
-                                </li>
-                                <li>
-                                    <i class="fa-regular fa-user"></i> By admin
-                                </li>
-                            </ul>
-                            <h4>
-                                <a href="blog-details.php">
-                                    Joyful Journeys Childcare and EducationIgniting Curiosity
-                                </a>
-                            </h4>
-                            <a href="blog.php" class="readmore d-flex align-items-center gap-2">
-                                Read More
-                                <span class="arrows mt-1">
-                                    <i class="fa-solid fa-arrow-right"></i>
-                                </span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="stay-section pt-50 pb-50 cmn-bg overflow-hidden position-relative stay_bg">
+    <section class="blog_section  py-5">
+     <div class="container">
+       <div class="section-title text-center">
+
+         <h2 class="ask_heading mb-5">Blogs & articles </h2>
+
+       </div>
+     </div>
+
+     <div class="container">
+       <div class="row">
+
+         <?php
+          include './db.connection/db_connection.php';
+
+          // Fetch latest 3 blogs with video
+          $sql = "SELECT id, title, main_content, main_image, video FROM blogs ORDER BY created_at DESC LIMIT 3";
+          $result = $conn->query($sql);
+
+          if ($result->num_rows > 0) {
+            echo "<div class='row'>"; // Start row for card layout
+
+            while ($row = $result->fetch_assoc()) {
+              $blog_id = $row['id'];
+              $title = $row['title'];
+              $main_content = $row['main_content'];
+              $main_image = $row['main_image'];
+              $video = $row['video'];
+
+              echo "<div class='col-md-4 mb-4'>"; // Create 3 equal-width columns for medium devices
+              echo "<div class='card h-100'>"; // Start card
+
+              // Display the blog title
+              echo "<div class='card-body'>";
+
+
+              // Display video if available
+              if (!empty($video)) {
+                $video_path = "./admin/uploads/videos/{$video}";
+                echo "<video class='main-video img-fluid' controls>
+                    <source src='{$video_path}' type='video/mp4'>
+                    Your browser does not support the video tag.
+                  </video>";
+              }
+              // If no video, display main image
+              elseif (!empty($main_image)) {
+                $main_image_path = "./admin/uploads/photos/{$main_image}";
+                echo "<img class='card-img-top img-fluid' src='{$main_image_path}' alt='Blog Image'>";
+              }
+              echo "<h5 class='card-title my-3'>" . htmlspecialchars($title) . "</h5>";
+              // Display a short portion of the blog content
+              echo "<p class='card-text'>" . substr($main_content, 0, 90) . "...</p>";
+
+              // Link to full blog post
+              echo "<a href='fullblog.php?id={$blog_id}' class='btn btn-primary'>Read more</a>";
+
+              echo "</div>"; // End card body
+              echo "</div>"; // End card
+              echo "</div>"; // End column
+            }
+
+            echo "</div>"; // End row
+          } else {
+            echo "No blog posts found.";
+          }
+
+          $conn->close();
+          ?>
+
+
+
+         <div class="mt-5 d-none d-md-block">
+           <a href="blogs.php" style="text-decoration: none;">
+             <p class="view_more_btn mb-5 d-flex flex-row justify-content-start">View More<i
+                 class="fa-solid fa-arrow-right mt-1"></i></p>
+           </a>
+         </div>
+
+         <div class="d-flex flex-row justify-content-center mt-4">
+           <a href="blogs.php" style="text-decoration: none;">
+             <p class="view_more_btn d-md-none">View More<i class="fa-solid fa-arrow-right"></i></p>
+           </a>
+         </div>
+
+       </div>
+     </div>
+
+   </section>
+    <!-- <section class="stay-section pt-50 pb-50 cmn-bg overflow-hidden position-relative stay_bg">
         <div class="container ">
             <div class="row justify-content-between align-items-center g-4">
                 <div class="col-lg-5 col-md-6 col-sm-7">
@@ -1410,8 +1396,8 @@ Focus on play-based learning, storytelling, and outdoor activities
             </div>
         </div>
         <!-- Element-->
-        <img src="assets/img/aservices/stay-shape.png" alt="img" class="stay-element">
-    </section>
+        <!--<img src="assets/img/aservices/stay-shape.png" alt="img" class="stay-element">
+    </section> -->
 
     <!--<< Inspair Section Start >>-->
     <!-- <section class="inspair-section position-relative overflow-hidden">
@@ -1445,5 +1431,4 @@ Focus on play-based learning, storytelling, and outdoor activities
         </div>
     </section> -->
 
-    <?php include "./includes/footer.php"; 
-?>
+    <?php include 'footer.php'; ?>

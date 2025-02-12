@@ -29,24 +29,7 @@ $result = $stmt->get_result();
 
 <?php include 'header.php'; ?>
 
-
-
-<div class="breadcumb-wrapper ">
-  <div class="parallax" data-parallax-image="assets/img/about/krishnadentaure_blogs_page.png"></div>
-  <div class="container z-index-common">
-    <div class="breadcumb-content">
-      <h1 class="breadcumb-title">Blogs</h1>
-      <div class="breadcumb-menu-wrap">
-        <i class="far fa-home-lg"></i>
-        <ul class="breadcumb-menu">
-          <li><a href="index.php">Home</a></li>
-          <li class="active">Blogs</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
-
+ 
 
 
 
@@ -55,12 +38,12 @@ $result = $stmt->get_result();
   <div class="container">
     <div class="filter_buttons redirect_section mt-5">
       <a href="blogs.php?service="><button class="redirect_blog_srivice">All</button></a>
-      <a href="blogs.php?service=Root Canal"><button class="redirect_blog_srivice">Root Canal</button></a>
-      <a href="blogs.php?service=Wisdom Tooth Removal"><button class="redirect_blog_srivice">Wisdom Tooth Removal</button></a>
-      <a href="blogs.php?service=Bad Breath Treatment"><button class="redirect_blog_srivice">Bad Breath Treatment</button></a>
-      <a href="blogs.php?service=Gum Treatment"><button class="redirect_blog_srivice"> Gum Treatment</button></a>
-      <a href="blogs.php?service=Teeth Cleaning"><button class="redirect_blog_srivice">Teeth Cleaning </button></a>
-      <a href="blogs.php?service=Orthodontic Treatment"><button class="redirect_blog_srivice">Orthodontic Treatment</button></a>
+      <a href="blogs.php?service=Day care"><button class="redirect_blog_srivice">Day care</button></a>
+      <a href="blogs.php?service=PlayGroup"><button class="redirect_blog_srivice">PlayGroup</button></a>
+      <a href="blogs.php?service=Nursery"><button class="redirect_blog_srivice">Nursery</button></a>
+      <a href="blogs.php?service=LKG-UKG"><button class="redirect_blog_srivice">LKG-UKG</button></a>
+      <a href="blogs.php?service=Grade 1 to 5"><button class="redirect_blog_srivice">Grade 1 To 5</button></a>
+      <!-- <a href="blogs.php?service=Orthodontic Treatment"><button class="redirect_blog_srivice">Orthodontic Treatment</button></a>
       <a href="blogs.php?service=Dental Crown & Bridge"><button class="redirect_blog_srivice"> Dental Crown & Bridge</button></a>
       <a href="blogs.php?service=Invisible Aligners"><button class="redirect_blog_srivice">Invisible Aligners </button></a>
       <a href="blogs.php?service=Dental Veneers"><button class="redirect_blog_srivice">Dental Veneers</button></a>
@@ -70,7 +53,7 @@ $result = $stmt->get_result();
       <a href="blogs.php?service=Dentures"><button class="redirect_blog_srivice">Dentures  </button></a>
       <a href="blogs.php?service=Fluoride Application & Dental Sealant"><button class="redirect_blog_srivice">Fluoride Application & Dental Sealant</button></a>
       <a href="blogs.php?service=Full Mouth Rehabilitation Treatment"><button class="redirect_blog_srivice"> Full Mouth Rehabilitation Treatment</button></a>
-      
+       -->
       <!-- <a href="blogs.php?service=Laser Gum"><button class="redirect_blog_srivice">Laser & Gum</button></a>
       <a href="blogs.php?service=Tooth Extraction"><button class="redirect_blog_srivice">Tooth Extraction</button></a>
       <a href="blogs.php?service=Tooth Cleaning"><button class="redirect_blog_srivice">Tooth Cleaning</button></a>
