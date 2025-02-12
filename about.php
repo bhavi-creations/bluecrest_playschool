@@ -72,7 +72,7 @@
                             BlueCrest  School offers a comprehensive early childhood education program designed to foster holistic development in young learners. The school's playgroup and nursery sections provide a nurturing environment where children engage in activities that promote cognitive, social, emotional, and physical growth.
 
 
- The curriculum includes storytelling, music, and art to stimulate creativity and language skills.</p>
+ The curriculum includes storytelling, music, and art to stimulate creativity and language skills</p>
 
 
  <p>
