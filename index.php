@@ -900,7 +900,7 @@
     </section> -->
 
     <!-- Faq Section Start -->
-    <section class="faq-sectionv mt-60 overflow-hidden space-bottom">
+    <!-- <section class="faq-sectionv mt-60 overflow-hidden space-bottom">
         <div class="container">
             <div class="row align-items-center g-4">
                 <div class="col-lg-6 col-md-5">
@@ -994,7 +994,7 @@ Focus on play-based learning, storytelling, and outdoor activities
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!-- professional Section Start -->
     <!-- <section class="professional-sectionv1 overflow-hidden mt-2 space-bottom position-relative">
@@ -1131,7 +1131,7 @@ Focus on play-based learning, storytelling, and outdoor activities
                             <a href="about.php" class="theme-btn p3-bg py-3">
                                 <button class="btn_bg">
                                     Learn More
-</button>
+                                </button>
                             </a>
                         </div>
                     </div>
@@ -1213,7 +1213,7 @@ Focus on play-based learning, storytelling, and outdoor activities
     </section>
 
     <!-- Testimonial V1 Section Start -->
-    <section class="testimonial-sectionv1 section-padding overflow-hidden white-bg">
+    <!-- <section class="testimonial-sectionv1 section-padding overflow-hidden white-bg">
         <div class="container">
             <div class="row g-2 justify-content-between mb-60">
                 <div class="col-lg-4 col-md-5">
@@ -1276,96 +1276,211 @@ Focus on play-based learning, storytelling, and outdoor activities
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
+    <section>
+            <div class="container ">
+                <div class="container-fluid py-5">
+                <div class="">
+                    <div class="section-title">
+                        <span class="sub-title wow fadeInUp p5-clr text text-center">
+                            Clients Testimonial
+                        </span>
+                        <h3 class="m-title wow fadeInUp black text-center" data-wow-delay=".3s">
+                            Unlocking the Power of Wonderworks Child
+                        </h3>
+                    </div>
+                </div>
+                <!-- <h2 class="text-center  partner text-uppercase text-secondary fs-1 about  contact_text">Our Banking Partners</h2> -->
+                <div class="custom-slide-container swiper">
+                    <div class="custom-slide-content">
+                        <div class="custom-card-wrapper swiper-wrapper py-5 sliders">
 
-    <section class="blog_section  py-5">
-     <div class="container">
-       <div class="section-title text-center">
+                            <div class="custom-card custom_card_bg_two swiper-slide col-12 col-md-6 col-lg-4">
+                            <div class="testimonial-item01">
+                                        <div class="d-flex align-items-center justify-content-between gap-1">
+                                            <div class="man-info d-flex align-items-center">
+                                                <div class="thumb">
+                                                    <img src="assets/img/alexa.png" alt="" class="radius">
+                                                </div>
+                                                <div class="cont">
+                                                    <h4 class="black mb-1">
+                                                        Alex smith
+                                                    </h4>
+                                                    <span class="black fw-normal">
+                                                        Marketing manager
+                                                    </span>
+                                                </div>
+                                            </div>
+                                            <img src="assets/img/atestimonial/quote.png" alt="img" class="quote-testi">
+                                        </div>
+                                        <p class="pra mt-24 mb-40">
+                                            Their product exceeded his my routi expectations. The the quality and
+                                            attention to detail a the a
+                                            most outstanding and
+                                            it has become an essential most a education the man who can do
+                                        </p>
+                                        <div class="ratting-area d-flex align-items-center gap-2">
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star-half-alt"></i>
+                                        </div>
+                                    </div>                            </div>
 
-         <h2 class="ask_heading mb-5">Blogs & articles </h2>
+                            <div class="custom-card custom_card_bg_two swiper-slide col-12 col-md-6 col-lg-4">
+                            <div class="testimonial-item01">
+                                        <div class="d-flex align-items-center justify-content-between gap-1">
+                                            <div class="man-info d-flex align-items-center">
+                                                <div class="thumb">
+                                                    <img src="assets/img/alexa.png" alt="" class="radius">
+                                                </div>
+                                                <div class="cont">
+                                                    <h4 class="black mb-1">
+                                                        Alex smith
+                                                    </h4>
+                                                    <span class="black fw-normal">
+                                                        Marketing manager
+                                                    </span>
+                                                </div>
+                                            </div>
+                                            <img src="assets/img/atestimonial/quote.png" alt="img" class="quote-testi">
+                                        </div>
+                                        <p class="pra mt-24 mb-40">
+                                            Their product exceeded his my routi expectations. The the quality and
+                                            attention to detail a the a
+                                            most outstanding and
+                                            it has become an essential most a education the man who can do
+                                        </p>
+                                        <div class="ratting-area d-flex align-items-center gap-2">
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star-half-alt"></i>
+                                        </div>
+                                    </div>         
 
-       </div>
-     </div>
+                            </div>
 
-     <div class="container">
-       <div class="row">
+                            <div class="custom-card custom_card_bg_two swiper-slide col-12 col-md-6 col-lg-4">
 
-         <?php
-          include './db.connection/db_connection.php';
+                            <div class="testimonial-item01">
+                                        <div class="d-flex align-items-center justify-content-between gap-1">
+                                            <div class="man-info d-flex align-items-center">
+                                                <div class="thumb">
+                                                    <img src="assets/img/alexa.png" alt="" class="radius">
+                                                </div>
+                                                <div class="cont">
+                                                    <h4 class="black mb-1">
+                                                        Alex smith
+                                                    </h4>
+                                                    <span class="black fw-normal">
+                                                        Marketing manager
+                                                    </span>
+                                                </div>
+                                            </div>
+                                            <img src="assets/img/atestimonial/quote.png" alt="img" class="quote-testi">
+                                        </div>
+                                        <p class="pra mt-24 mb-40">
+                                            Their product exceeded his my routi expectations. The the quality and
+                                            attention to detail a the a
+                                            most outstanding and
+                                            it has become an essential most a education the man who can do
+                                        </p>
+                                        <div class="ratting-area d-flex align-items-center gap-2">
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star-half-alt"></i>
+                                        </div>
+                                    </div>         
+                            </div>
 
-          // Fetch latest 3 blogs with video
-          $sql = "SELECT id, title, main_content, main_image, video FROM blogs ORDER BY created_at DESC LIMIT 3";
-          $result = $conn->query($sql);
-
-          if ($result->num_rows > 0) {
-            echo "<div class='row'>"; // Start row for card layout
-
-            while ($row = $result->fetch_assoc()) {
-              $blog_id = $row['id'];
-              $title = $row['title'];
-              $main_content = $row['main_content'];
-              $main_image = $row['main_image'];
-              $video = $row['video'];
-
-              echo "<div class='col-md-4 mb-4'>"; // Create 3 equal-width columns for medium devices
-              echo "<div class='card h-100'>"; // Start card
-
-              // Display the blog title
-              echo "<div class='card-body'>";
-
-
-              // Display video if available
-              if (!empty($video)) {
-                $video_path = "./admin/uploads/videos/{$video}";
-                echo "<video class='main-video img-fluid' controls>
-                    <source src='{$video_path}' type='video/mp4'>
-                    Your browser does not support the video tag.
-                  </video>";
-              }
-              // If no video, display main image
-              elseif (!empty($main_image)) {
-                $main_image_path = "./admin/uploads/photos/{$main_image}";
-                echo "<img class='card-img-top img-fluid' src='{$main_image_path}' alt='Blog Image'>";
-              }
-              echo "<h5 class='card-title my-3'>" . htmlspecialchars($title) . "</h5>";
-              // Display a short portion of the blog content
-              echo "<p class='card-text'>" . substr($main_content, 0, 90) . "...</p>";
-
-              // Link to full blog post
-              echo "<a href='fullblog.php?id={$blog_id}' class='btn btn-primary'>Read more</a>";
-
-              echo "</div>"; // End card body
-              echo "</div>"; // End card
-              echo "</div>"; // End column
-            }
-
-            echo "</div>"; // End row
-          } else {
-            echo "No blog posts found.";
-          }
-
-          $conn->close();
-          ?>
+                            <div class="custom-card custom_card_bg_two swiper-slide col-12 col-md-6 col-lg-4">
+                            <div class="testimonial-item01">
+                                        <div class="d-flex align-items-center justify-content-between gap-1">
+                                            <div class="man-info d-flex align-items-center">
+                                                <div class="thumb">
+                                                    <img src="assets/img/alexa.png" alt="" class="radius">
+                                                </div>
+                                                <div class="cont">
+                                                    <h4 class="black mb-1">
+                                                        Alex smith
+                                                    </h4>
+                                                    <span class="black fw-normal">
+                                                        Marketing manager
+                                                    </span>
+                                                </div>
+                                            </div>
+                                            <img src="assets/img/atestimonial/quote.png" alt="img" class="quote-testi">
+                                        </div>
+                                        <p class="pra mt-24 mb-40">
+                                            Their product exceeded his my routi expectations. The the quality and
+                                            attention to detail a the a
+                                            most outstanding and
+                                            it has become an essential most a education the man who can do
+                                        </p>
+                                        <div class="ratting-area d-flex align-items-center gap-2">
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star-half-alt"></i>
+                                        </div>
+                                    </div>         
+                            </div>
 
 
+                            <script>
+                                var swiper = new Swiper(".custom-slide-content", {
+                                    slidesPerView: 3,
+                                    spaceBetween: 25,
+                                    loop: true,
+                                    centerSlide: 'true',
+                                    fade: 'true',
+                                    grabCursor: 'true',
+                                    pagination: {
+                                        el: ".custom-swiper-pagination",
+                                        clickable: true,
+                                        dynamicBullets: true,
+                                    },
+                                    autoplay: {
+                                        delay: 3000, // Time in milliseconds between automatic slides (3 seconds here)
+                                        disableOnInteraction: false, // Keeps autoplay active even after manual swiping
+                                    },
+                                    navigation: {
+                                        nextEl: ".swiper-button-next.custom-swiper-navBtn",
+                                        prevEl: ".swiper-button-prev.custom-swiper-navBtn",
+                                    },
 
-         <div class="mt-5 d-none d-md-block">
-           <a href="blogs.php" style="text-decoration: none;">
-             <p class="view_more_btn mb-5 d-flex flex-row justify-content-start">View More<i
-                 class="fa-solid fa-arrow-right mt-1"></i></p>
-           </a>
-         </div>
+                                    breakpoints: {
+                                        0: {
+                                            slidesPerView: 1,
+                                        },
+                                        520: {
+                                            slidesPerView: 2,
+                                        },
+                                        950: {
+                                            slidesPerView: 3,
+                                        },
+                                    },
+                                });
+                            </script>
 
-         <div class="d-flex flex-row justify-content-center mt-4">
-           <a href="blogs.php" style="text-decoration: none;">
-             <p class="view_more_btn d-md-none">View More<i class="fa-solid fa-arrow-right"></i></p>
-           </a>
-         </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
-       </div>
-     </div>
+        </section>
 
-   </section>
+
+
+
+
+   </section> -->
     <!-- <section class="stay-section pt-50 pb-50 cmn-bg overflow-hidden position-relative stay_bg">
         <div class="container ">
             <div class="row justify-content-between align-items-center g-4">
@@ -1431,5 +1546,7 @@ Focus on play-based learning, storytelling, and outdoor activities
             </div>
         </div>
     </section> -->
+
+
 
     <?php include 'footer.php'; ?>

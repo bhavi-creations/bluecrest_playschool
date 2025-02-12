@@ -6,33 +6,34 @@ Description: Ascent -Kids & Kindergarden School HTML Template<
 Version: 1.0.0
 */
 /*CSS Table Of Content Ends Here*/
- /* @import url("https://fonts.googleapis.com/css2?family=Bubblegum+Sans&family=Jost:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap");
+  /* @import url("https://fonts.googleapis.com/css2?family=Bubblegum+Sans&family=Jost:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap"); */
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
 :root {
   --body: #fff;
   --black: #000;
   --white: #fff;
   --p1-clr: #0A6375;
-  --p2-clr: #F7941E;
-  --p3-clr: #ED145B;
-  --p4-clr: #73BE48;
+  --p2-clr: #234d9b;
+  /* --p3-clr: #ED145B; */
+  /* --p4-clr: #73BE48; */
   --p5-clr: #1CBBB4;
-  --cmnbg: #FFF0E5;
-  --theme: #F39F5F;
+  /* --cmnbg: #FFF0E5; */
+  /* --theme: #F39F5F; */
   --theme2: #70A6B1;
   --header: #385469;
-  --text: #5C707E;
-  --pra: #686868;
-  --text-2: #ffffffcc;
+  /* --text: #5C707E; */
+  /* --pra: #686868; */
+  /* --text-2: #ffffffcc; */
   --border: #E5E5E5;
-  --border2: #242449;
-  --border3: #5262FF;
-  --bg: #F4EEE5;
-  --bg2: #EFF5F6;
+  /* --border2: #242449; */
+  /* --border3: #5262FF; */
+  /* --bg: #F4EEE5; */
+  /* --bg2: #EFF5F6; */
   --bg3: #70A6B1;
   --box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.06);
-}  */
+}  *
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 .theme-btn {
   display: inline-block;
@@ -5442,9 +5443,9 @@ input.main-search-input::placeholder {
   position: relative;
 }
 .testimonial-innerbox::before {
-  background: url(../img/Untitled\ design\ \(47\)/2.png) no-repeat center center;
+  /* background: url(../img/Untitled\ design\ \(47\)/2.png) no-repeat center center; */
   background-size: cover;
-  width: 65%;
+  width: 50%;
   height: 100%;
   position: absolute;
   content: "";
@@ -5506,6 +5507,13 @@ input.main-search-input::placeholder {
   border-radius: 8px;
 }
 
+
+/* 
+.contact_bg{
+  background: #234d9b;
+  color: #ffffff;
+ 
+} */
 .tab_bg{
   background:#0f9856;
   width: 110px;
@@ -5553,9 +5561,11 @@ input.main-search-input::placeholder {
 
 
 .banner_bg{
-  background:#869cbe ;
+  background:#90b6f0 ;
 }
-
+.foooter{
+  background:#6c9feb ;
+}
 .green{
   color: #0f9856 !important;
 }
@@ -5575,9 +5585,9 @@ input.main-search-input::placeholder {
 .radius{
   border-radius: 50%;
 }
-.new_footer{
+/* .new_footer{
   background: #cfcaca;
-}
+} */
 
 
 .ct_logo{

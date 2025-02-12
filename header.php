@@ -35,7 +35,16 @@
     <link rel="stylesheet" href="style.css">
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 
-     <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"> -->
+
+
+
+     
+        <!-- imageslider -->
+
+        <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/freeps2/a7rarpress@main/swiper-bundle.min.css">
+            <!-- imageslider -->
+
 
 </head>
 
@@ -195,13 +204,13 @@
                                             </ul>
                                         </li>
 
-                                        <li>
+                                        <!-- <li>
                                             <a href="blogs.php">
                                                 Blog
                                               
                                             </a>
                                         
-                                        </li>
+                                        </li> -->
                                       
                                         <li>
                                             <a href="contact.php">Contact Us</a>

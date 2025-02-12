@@ -1,5 +1,5 @@
    <!--<< Footer Section Start >>-->
-   <footer class="footer-section overflow-hidden position-relative footer-style1 new_footer ">
+   <footer class="footer-section overflow-hidden position-relative footer-style1 new_footer foooter ">
         <div class="footer-widgets-wrapper">
             <div class="container">
                 <div class="row g-md-4 g-4 justify-content-between">
@@ -45,11 +45,11 @@
                                          Service
                                     </a>
                                 </li>
-                                <li>
+                                <!-- <li>
                                     <a href="blogs.php">
                                         Blog
                                     </a>
-                                </li>
+                                </li> -->
                                 <li>
                                     <a href="contact.php">
                                     Contact us
@@ -130,10 +130,10 @@
                 <div
                     class="footer-wrapper d-md-flex d-grid gap-md-0 gap-2 align-items-center justify-content-md-between justify-content-center text-md-start text-center ">
                     <p class="wow fadeInLeft color-2 text-white up" data-wow-delay=".3s">
-                   <a href="terms.php">
+                   <a href="terms.php" class="text-white">
                         Terms & conditions
                    </a>
-                   <a href="privacy.php">
+                   <a href="privacy.php"  class="text-white">
                         Privacy Policy
                   </a>    
                   </p>
