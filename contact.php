@@ -103,41 +103,41 @@
                             <h4 class="black fw-semibold mb-24">
                                 Send a message
                             </h4>
-                            <form action="contactform.php" class="row g-lg-4 g-3" method="post" role="form" class="php-email-form">
-                                <div class="col-lg-6">
-                                    <div class="comment-grp">
-                                        <input type="text"  name ="contactname" placeholder="Parent's Name">
-                                    </div>
-                                </div>
-                                <div class="col-lg-6">
-                                    <div class="comment-grp">
-                                        <input type="text" name="contactnumber" placeholder="Your Phone">
-                                    </div>
-                                </div>
-                                <div class="col-lg-12">
-                                    <div class="">
-                                       
-        <label for="service" name="contactservice">Select a Service</label>
-        <select id="service" name="service" required class="">
-            <option value="" class="side">-- Select a Service --</option>
-            <option value="Day Care" class="side">Day Care</option>
-            <option value="Play Group" class="side">Play Group</option>
-            <option value="Nursery" class="side">Nursery</option>
-            <option value="LKG-UKG" class="side">LKG-UKG</option>
-            <option value="Grade 1 To 5" class="side">Grade 1 To 5</option>
-        </select>
-                                    </div>
-                                </div>
-                                <div class="col-lg-12 mb-xl-3">
-                                    <div class="comment-grp text-aras position-relative">
-                                        <textarea name="message" rows="5"
-                                            placeholder="Write Your Message Here" name="contactmessage"></textarea>
-                                        <span class="enves">
-                                        </span>
-                                    </div>
-                                </div>
-                                        <div class="col-lg-12">
-                            <button type="submit" class="btn  btn_bg w-100">Submit</button>
+                        
+
+                            <form>
+            <div class="mb-3">
+                <label for="name" class="form-label">Child's Name</label>
+                <input type="text" class="form-control" id="name" placeholder="Enter child's name" required>
+            </div>
+            <div class="mb-3">
+                <label for="parentName" class="form-label">Parent's Name</label>
+                <input type="text" class="form-control" id="parentName" placeholder="Enter parent's name" required>
+            </div>
+            <div class="mb-3">
+                <label for="email" class="form-label">Email</label>
+                <input type="email" class="form-control" id="email" placeholder="Enter email" required>
+            </div>
+            <div class="mb-3">
+                <label for="phone" class="form-label">Phone Number</label>
+                <input type="tel" class="form-control" id="phone" placeholder="Enter phone number" required>
+            </div>
+            <div class="mb-3">
+                <label for="service" class="form-label">Select Service</label>
+                <select class="form-select" id="service" required>
+                    <option selected disabled>Choose a service</option>
+                    <option value="daycare">Daycare</option>
+                    <option value="preschool">Preschool</option>
+                    <option value="kindergarten">Kindergarten</option>
+                    <option value="afterSchool">After School Programs</option>
+                </select>
+            </div>
+            <div class="mb-3">
+                <label for="message" class="form-label">Message</label>
+                <textarea class="form-control" id="message" rows="4" placeholder="Write your message here"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary w-100">Submit</button>
+        </form>
                         </div>
         
     </section> 
