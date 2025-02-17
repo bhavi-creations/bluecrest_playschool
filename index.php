@@ -1276,7 +1276,7 @@ Focus on play-based learning, storytelling, and outdoor activities
                 </div>
             </div>
         </div>
-    </section> -->
+    </section> 
     <section>
             <div class="container ">
                 <div class="container-fluid py-5">
@@ -1480,7 +1480,7 @@ Focus on play-based learning, storytelling, and outdoor activities
 
 
 
-   </section> -->
+   </section>
     <!-- <section class="stay-section pt-50 pb-50 cmn-bg overflow-hidden position-relative stay_bg">
         <div class="container ">
             <div class="row justify-content-between align-items-center g-4">
