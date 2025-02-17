@@ -42,7 +42,7 @@
                             <div class="academy-box text-center mb-30 wow fadeInUp" data-wow-delay="1400">
                                 <img src="assets/img/about/grow.png" alt="img" class="text">
                                 <h4 class="black">
-                                    Academy
+                                    Academy.
                                 </h4>
                                 <p class="pra">
                                     Learning Ladder School
