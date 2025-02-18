@@ -35,7 +35,7 @@
                                     <img src="assets/img/abanner/text-layer.png" alt="img" class="text-layer">
                                     BlueCrest
                                 </span>
-                                EXplore & Excel
+                                Explore & Excel
                                 <span class="text-sount text">
                                     School
                                 </span>
@@ -68,7 +68,7 @@
     </section>
 
     <!-- Talk Counter Section Start -->
-    <section class="talk-counter space-top overflow-hidden">
+    <!-- <section class="talk-counter space-top overflow-hidden">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-md-8">
@@ -84,11 +84,11 @@
                             <p class="wow fadeInUp" data-wow-delay=".4s">
                             Education is more than just acquiring knowledge; it is the foundation for personal growth, economic progress, and societal development. Investing in education is an investment in a brighter, more prosperous future for individuals and communities alike.
                             </p>
-                            <!-- <a href="contact.php" class="theme-btn gra-border2">
+                             <a href="contact.php" class="theme-btn gra-border2">
                                 <span class="black fw-medium">
                                     Get a quote
                                 </span>
-                            </a> -->
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -143,6 +143,26 @@
                             </div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </section> -->
+    <section>
+        <div class="container">
+            <div class="row">
+                <h2 class="text-center mt-5">Why choose Us</h2>
+                <div class="col-md-6 mt-5">
+                   <img src="assets/img/teacher.png" alt="">
+                </div>
+                <div class="col-md-6 mt-5">
+                <p>At Blue Crest Play School, we believe in nurturing young minds in a safe, fun, and stimulating environment. Our curriculum is designed to foster creativity, social skills, and early learning through interactive and engaging activities.</p>
+                <ul>
+                    <li>Experienced and caring teachers</li>
+                    <li>Safe and hygienic environment</li>
+                    <li>Interactive and play-based learning approach</li>
+                    <li>Focus on social, emotional, and cognitive development</li>
+                    <li>Personalized attention to each child</li>
+                </ul>
                 </div>
             </div>
         </div>
@@ -222,19 +242,19 @@
                 </div>
             </div>
             <div class="row align-items-center g-4">
-                <div class="col-lg-6 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
+            <div class="col-lg-6 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".6s">
                     <div class="program-item gra-border">
                         <div class="icons gra-border round10 d-center">
-                            <img src="assets/img/aicon/car-icons1.png" alt="img">
+                            <img src="assets/img/aicon/car-icons4.png" alt="img">
                         </div>
                         <div class="content">
                             <h4>
-                                <a href="daycare.php">DayCare</a>
+                                <a href="playgroup.php">Playgroup</a>
                             </h4>
                             <p>
-                            Playschool daycare is an early childhood education and care facility designed to provide a safe, nurturing, and stimulating environment for young children.
+                            A playgroup is an informal early learning environment where young children (usually aged 1.5 to 3 years) gather to play, explore, and socialize under the supervision of caregivers, teachers, or parents.
                             </p>
-                            <a href="daycare.php" class="readmore d-flex align-items-center gap-2">
+                            <a href="playgroup.php" class="readmore d-flex align-items-center gap-2">
                                 Read More
                                 <span class="arrows mt-1">
                                     <i class="fa-solid fa-arrow-right"></i>
@@ -271,7 +291,7 @@
                         </div>
                         <div class="content">
                             <h4>
-                                <a href="lkg-ukg.php">LKG-UKG</a>
+                                <a href="lkg-ukg.php">LKG</a>
                             </h4>
                             <p>
                             LKG (Lower Kindergarten) and UKG (Upper Kindergarten) are the initial stages of formal schooling, typically for children aged 3.5 to 6 years.
@@ -285,19 +305,19 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".6s">
+                <div class="col-lg-6 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".5s">
                     <div class="program-item gra-border">
                         <div class="icons gra-border round10 d-center">
-                            <img src="assets/img/aicon/car-icons4.png" alt="img">
+                            <img src="assets/img/aicon/car-icons3.png" alt="img">
                         </div>
                         <div class="content">
                             <h4>
-                                <a href="playgroup.php">Playgroup</a>
+                                <a href="lkg-ukg.php">UKG</a>
                             </h4>
                             <p>
-                            A playgroup is an informal early learning environment where young children (usually aged 1.5 to 3 years) gather to play, explore, and socialize under the supervision of caregivers, teachers, or parents.
+                            LKG (Lower Kindergarten) and UKG (Upper Kindergarten) are the initial stages of formal schooling, typically for children aged 3.5 to 6 years.
                             </p>
-                            <a href="playgroup.php" class="readmore d-flex align-items-center gap-2">
+                            <a href="lkg-ukg.php" class="readmore d-flex align-items-center gap-2">
                                 Read More
                                 <span class="arrows mt-1">
                                     <i class="fa-solid fa-arrow-right"></i>
@@ -306,27 +326,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".6s">
-                    <div class="program-item gra-border">
-                        <div class="icons gra-border round10 d-center">
-                            <img src="assets/img/aicon/car-icons4.png" alt="img">
-                        </div>
-                        <div class="content">
-                            <h4>
-                                <a href="grade1to5.php">Grade 1 to 5</a>
-                            </h4>
-                            <p>
-                            Grades 1 to 5 form the primary school years, typically for children aged 6 to 11 years. These grades focus on academic learning, cognitive development, life skills, and character building, preparing students for higher education.
-                            </p>
-                            <a href="grade1to5.php" class="readmore d-flex align-items-center gap-2">
-                                Read More
-                                <span class="arrows mt-1">
-                                    <i class="fa-solid fa-arrow-right"></i>
-                                </span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
+              
+               
             </div>
         </div>
         <img src="assets/img/pencil.png" alt="img" class="program-child">
@@ -1276,21 +1277,11 @@ Focus on play-based learning, storytelling, and outdoor activities
                 </div>
             </div>
         </div>
-    </section> 
+    </section> -->
     <section>
             <div class="container ">
                 <div class="container-fluid py-5">
-                <div class="">
-                    <div class="section-title">
-                        <span class="sub-title wow fadeInUp p5-clr text text-center">
-                            Clients Testimonial
-                        </span>
-                        <h3 class="m-title wow fadeInUp black text-center" data-wow-delay=".3s">
-                            Unlocking the Power of Wonderworks Child
-                        </h3>
-                    </div>
-                </div>
-                <!-- <h2 class="text-center  partner text-uppercase text-secondary fs-1 about  contact_text">Our Banking Partners</h2> -->
+
                 <div class="custom-slide-container swiper">
                     <div class="custom-slide-content">
                         <div class="custom-card-wrapper swiper-wrapper py-5 sliders">

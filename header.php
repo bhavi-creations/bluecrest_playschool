@@ -134,6 +134,13 @@
     <div class="header-top-section d-lg-block d-none top ">
         <div class="container">
             <div class="header-top-wrapper">
+                 <div class="header-left">
+                        <div class="logo">
+                            <a href="index.php" class="header-logo">
+                            <img src="assets/img/crestlogo-removebg.png" alt="logo-img" class="img-fluid " style="width:200px">
+                            </a>
+                        </div>
+                    </div> 
                 <ul class="contact-list">
                     <li>
                         <i class="fal fa-phone"><span class="family"> 7993116666,7993118888</span></i>
@@ -143,15 +150,11 @@
                         <i class="far fa-envelope"></i>
                         <a href="info@example.com" class="link">thebluecrestschool@gmail.com</a>
                     </li>
-                    <!-- <li>
-                        <i class="fa-solid fa-location-dot"></i>
-                        <a href="#" class="link">6391 Elgin St. Celina, 10299</a>
-                    </li> -->
+                  
                 </ul>
                 <div class="social-wrapper d-flex align-items-center">
 
                     <a href="https://www.facebook.com/thebluecrestschool/" class="white "><i class="fa-brands fa-facebook-f"></i></a>
-                    <!-- <a href="#" class="white"><i class="fa-brands fa-instagram"></i></i></a> -->
                     <a href="https://www.youtube.com/@bluecrestschool6685/" class="white"><i class="fa-brands fa-youtube"></i></i></a>
 
 
@@ -160,18 +163,63 @@
         </div>
     </div>
 
+
+
+<!-- 
+    <div class="header-top-section d-lg-block d-none top ">
+        <div class="container">
+             <div class="header-top-wrapper"> 
+                  <div class="header-left"> 
+                 <div class="row">
+                   <div class="col-md-6 col-12">
+                   <div class="logo"> 
+                            <a href="index.php" class="header-logo">
+                            <img src="assets/img/crestlogo-removebg.png" alt="logo-img" class="img-fluid " style="width:200px">
+                            </a>
+                     </div> 
+                   </div>
+                      
+                    <div class="col-md-6 col-12">
+
+                  
+                <ul class="contact-list">
+                    <li>
+                        <i class="fal fa-phone"><span class="family"> 7993116666,7993118888</span></i>
+                        
+                    </li>
+                    <li>
+                        <i class="far fa-envelope"></i>
+                        <a href="info@example.com" class="link">thebluecrestschool@gmail.com</a>
+                    </li>
+                </ul>
+                 
+                 <div class="social-wrapper d-flex align-items-center"> 
+
+                    <a href="https://www.facebook.com/thebluecrestschool/" class="white "><i class="fa-brands fa-facebook-f"></i></a>
+                    <a href="https://www.youtube.com/@bluecrestschool6685/" class="white"><i class="fa-brands fa-youtube"></i></i></a>
+
+
+                </div> 
+                </div>
+            </div>
+            </div>
+         </div> 
+    </div>  -->
+
+
+
     <!-- Header Section Start -->
     <header id="header-sticky" class="header-1 header_bg  header-top">
         <div class="container">
             <div class="mega-menu-wrapper">
                 <div class="header-main style-2">
-                    <div class="header-left">
+                    <!-- <div class="header-left">
                         <div class="logo">
                             <a href="index.php" class="header-logo">
                             <img src="assets/img/crestlogo-removebg.png" alt="logo-img" class="img-fluid " style="width:200px">
                             </a>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="header-right d-flex justify-content-end align-items-center">
                         <div class="mean__menu-wrapper">
                             <div class="main-menu">
@@ -185,35 +233,153 @@
                                            
                                         </li>
                                         <li>
-                                            <a href="about.php">About Us</a>
-                                        </li>
-                                        <li>
                                             <a href="service.php">
-                                                Services
+                                                About Us
                                                 <i class="fas fa-angle-down"></i>
                                             </a>
                                             <ul class="submenu">
-                                                <li><a href="daycare.php">Daycare</a></li>
-                                                <li><a href="playgroup.php">PlayGroup</a></li>
+                                                <li>
+                                                    <a href=".php">
+                                                        Vission and Values
+                                                        <i class="fas fa-angle-down"></i>
 
-                                                <li><a href="nursery.php">Nursery</a></li>
-                                                <li><a href="lkg-ukg.php">LKG-UKG</a></li>
-                                                <li><a href="grade1to5.php">Grade 1 to 5</a></li>
-                                                <!-- <li><a href="service-details.php">Nursery</a></li> -->
+                                                    </a>
+                                                    <ul class="submenu">
+                                                <li><a href=".php">Vision</a></li>
+                                                <li><a href=".php">Values</a></li>
+                                                <li><a href=".php">Mission</a></li>
+                                                <li><a href=".php">Methodology</a></li>
+
+                                              
+
+                                            </ul>
+                                                </li>
+                                                <li>
+                                                    <a href=".php">
+                                                        Our Team
+                                                        <i class="fas fa-angle-down"></i>
+                                                    </a>
+                                            <ul class="submenu">
+                                                <li><a href=".php">Directors</a></li>
+                                                <li><a href=".php">Teachers</a></li>
+                                            </ul>
+                                              
+
+                                            
+                                               
+                                        <!-- <li>
+                                             <a href="service.php">
+                                                Academics
+                                                <i class="fas fa-angle-down"></i>
+                                            </a> 
+                                          
+                                        </li> -->
+
+                                                <li><a href=".php">Achievments</a></li>
+                                              
+                                            </ul>
+                                        </li>
+                                     
+                                        <li>
+                                            <a href="service.php">
+                                                Academics
+                                                <i class="fas fa-angle-down"></i>
+                                            </a>
+                                            <ul class="submenu">
+                                                <li>
+                                                    <a href=".php">Pre-primary
+                                                    <i class="fas fa-angle-down"></i>
+
+
+                                                    </a>
+                                            <ul class="submenu">
+                                                <li><a href=".php">Playgroup</a></li>
+                                                <li><a href=".php">Nursery</a></li>
+                                                <li><a href=".php">LKG</a></li>
+                                                <li><a href=".php">UKG</a></li>
+                                            </ul>
+                                                </li>
+                                                <li><a href=".php">Primary</a></li>
+
+                                              
+
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="service.php">
+                                                Beyond Academics
+                                                <i class="fas fa-angle-down"></i>
+                                            </a>
+                                            <ul class="submenu">
+                                                <li><a href="daycare.php">Day care & Enrichment Center</a></li>
+                                                <li>
+                                                    <a href=".php">
+                                                        Co-Curricular Activities
+                                                        <i class="fas fa-angle-down"></i>
+
+                                                    </a>
+                                                    <ul class="submenu">
+                                                           <li><a href=".php">Computer Literacy</a></li>
+                                                           <li><a href=".php">Sports</a></li>
+                                                           
+                                                        
+                                                        </ul>
+
+                                                </li>
+
+                                                <li>
+                                                    <a href=".php">
+                                                        Extra-Curricular
+                                                    
+                                                    
+                                                        <i class="fas fa-angle-down"></i>
+                                                    </a>      
+                                                        <ul class="submenu">
+                                                           <li><a href=".php">ABACUS</a></li>
+                                                           <li><a href=".php">Dance & Music</a></li>
+                                                            <li><a href=".php">Field Trips</a></li>
+                                                        
+                                                        </ul>
+
+                                                </li>
+                                                <li>
+                                                    <a href=".php">
+                                                        Events
+                                                        <i class="fas fa-angle-down"></i>
+                                                    </a>    
+                                                        <ul class="submenu">
+                                                         <li><a href=".php">Blue crest <hr> Sports day & Annual day</a></li>
+
+
+                                                    </ul>
+                                                 
+                                                </li>
+                                                <li>
+                                                    <a href=".php">
+                                                        Celebrations
+                                                        
+                                                        <i class="fas fa-angle-down"></i>
+                                                    </a>
+                                                    <ul class="submenu">
+                                                    <li><a href=".php">Festive Celebrations</a></li>
+
+
+                                                    </ul>
+                                                </li>
 
                                             </ul>
                                         </li>
 
-                                        <!-- <li>
-                                            <a href="blogs.php">
-                                                Blog
-                                              
-                                            </a>
-                                        
-                                        </li> -->
+
+                                        <li>
+                                            <a href="gallery.php">Gallery</a>
+                                        </li>
+                                        <li>
+                                            <a href="testimonials.php">Testimonials</a>
+                                        </li>
                                       
                                         <li>
-                                            <a href="contact.php">Contact Us</a>
+                                            <a href="contact.php">Get in touch</a>
                                         </li>
                                     </ul>
                                 </nav>
@@ -221,13 +387,15 @@
                         </div>
                      
                         <div class="header-button d-sm-block d-none">
-                             <a href="tel:+7993116666">
+                        <a href="https://api.whatsapp.com/send?phone=9848424956" style="color: #fff;"  target="_blank">
 
-                                <button class="btn_bg">
+                                <button class="whatsapp">
                                     7993116666
-                                    <!-- <i class="fa-solid fa-arrow-right-long"></i> -->
                                 </button>
-                            </a>
+                              
+                        </a>
+
+                             
                         </div>
                         <div class="header__hamburger d-xl-none my-auto">
                             <div class="sidebar__toggle">
