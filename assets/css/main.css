@@ -5523,7 +5523,7 @@ input.main-search-input::placeholder {
 }
 
 .top{
-  background: #fc80ad;
+  background: #ee4d88;
 
   color: #ffffff;
   
@@ -5653,11 +5653,45 @@ font-size: 22px;
  }
 
 
+ @media(min-width:375px){
+  .whatsapp-link{
+    bottom: 140px;
+  }
+ }
+ @media(min-width:768px){
+  .whatsapp-link{
+    bottom: 120px;
+  }
+ }
+
+ @media(min-width:1200px) and (max-width:1400px){
+  .whatsapp-link{
+    bottom: 120px;
+  }
+ }
+
+ @media(min-width:1400px) and (max-width:1600px){
+  .whatsapp-link{
+    bottom: 120px;
+  }
+ }
+
+
+
+
+
+
 .foot_bg{
   background: #234d9b;
   margin-bottom: -10px;
 
  
+}
+
+.contact_btn{
+  background: #234d9b;
+
+
 }
 
 .up{
@@ -5668,7 +5702,7 @@ font-size: 22px;
 .form-select{
 
 display: block;
-width: 100%;
+/* width: 100%; */
 padding: .375rem 2.25rem .375rem .75rem;
 font-size: 1rem;
 font-weight: 400;
@@ -5703,193 +5737,62 @@ overflow: visible !important;
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* blogs_main_page   */
-
-
-.blog_main_btn {
-  /* Initial styles for the button */
-  border-width: 0px;
-  color: black;
-  border-radius: 22px;
-  padding: 9px 22px;
-  font-weight: 800;
-  background-color: transparent; /* initial background color */
-
-  /* Add transition to smooth the hover effects */
-  transition: background-color 0.4s ease, color 0.4s ease, border-radius 0.4s ease;
-  margin-bottom: 14px;
+.dropdown{
+  background: #ffffff !important;
+ 
 }
+/* 
+.move{
+  margin: left -30px !important;
+  background-color: #ffffff !important;
+} */
 
-.blog_main_btn:hover {
-  border-width: 0px;
-  color: white;
-  border-radius: 22px;
-  padding: 9px 22px;
-  font-weight: 800;
-  margin-bottom: 14px;
-
-  background-color: rgb(0, 0, 31); /* Dark background on hover */
-}
-
-.box-title{
-  color: #28386a !important;
-}
-.box-title:hover{
-  color: #072bbc !important;
-}
-
-.blog-card-text{
-  color: #ffffff !important;
-font-weight: 700;
-}
-.blog-card-text:hover{
-  color: #070707 !important;
-
-  font-weight: 700;
-
-}
-.post-desc{
-  color: #848e9f;
-}
-.card_bg_div_box {
-  /* Initial styles for the card */
-  box-shadow: none; /* No shadow by default */
-  transition: box-shadow 0.3s ease; /* Smooth transition for the box-shadow */
-   padding: 20px;
-}
-
-.card_bg_div_box:hover {
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Shadow when hovering */
-  padding: 20px;
-}
-
-.blog_box_image{
-  border-radius: 12px;
-}
-
-.background_sidebar{
-background-color: #94beeb;
-}
-
-.redirect_section{
-  text-align: center;
-  margin-top: 30px;
-  margin-bottom: 10px;
-
-}
-.redirect_blog_srivice{
-  background-color: rgb(105, 199, 236);
-  color: White;
-  font-weight: 900;
-  border: none;
-  margin: 5px;
-  margin-bottom: 10px;
-  border-radius: 3px;
-  padding: 3px 15px;
-
-}
-@media (min-width:992px) and (max-width:1200px) {
-  
-  .video_tag_messures{
-    width: 475px !important;
-    height: 228px !important;
-  }
-}
+/* .header-top {
+  height: 120px;
+  box-shadow: 1px 1px 2px 5px rgba(0, 0, 0, 0.1); 
+} */
 
 
-@media (min-width:1200px) and (max-width:1400px) {
-  
-  .video_tag_messures{
-    width: 560px !important;
-    height: 273px !important;
-  }
-}
 
 
-@media   (min-width:1400px) {
-  
-  .video_tag_messures{
-    width: 646px !important;
-    height: 317px !important;
-  }
+
+/* Open dropdown on hover */
+.dropdown:hover .dropdown-menu {
+  display: block;
 }
 
 
 
 
-/* vodeo tags code */
-.only_first {
-  padding: 0px !important;
-}
-
-.first_section{
-  margin-top:50px ;
-}
 
 
-@media (max-width:768px){
-  .sectionForm{
-    margin-bottom: 220px !important;
-  }
-}
 
-@media (min-width:768px) and (max-width:998px){
-  .sectionForm{
-    margin-bottom: 250px !important;
-  }
-}
 
-@media (min-width:998px) and (max-width:1200px){
-  .sectionForm{
-    margin-bottom: 170px !important;
-  }
-}
 
-@media (min-width:1200px) and (max-width:1400px){
-  .sectionForm{
-    margin-bottom: 120px !important;
-  }
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -5907,7 +5810,7 @@ background-color: #94beeb;
 
 
 /* contact form */
-
+/* 
 .form-select {
   --bs-form-select-bg-img: url(data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23343a40' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='m2 5 6 6 6-6'/%3e%3c/svg%3e);
   display: block;
@@ -5944,7 +5847,7 @@ button, input, optgroup, select, textarea {
 *, ::after, ::before {
   box-sizing: border-box;
 }
-
+ */
 
 
 

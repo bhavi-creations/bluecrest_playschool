@@ -57,7 +57,7 @@
                         </div>
                     </div>
                 </div>
-                <img src="assets/img/Untitled_design__26_-removebg.png" alt="img" class="rainbow-shape">
+                <img src="assets/img/Untitled_design__29_-removebg-preview.png" alt="img" class="rainbow-shape">
             </div>
         </div>
         <!-- Element -->
@@ -1294,6 +1294,13 @@ Focus on play-based learning, storytelling, and outdoor activities
                 <div class="custom-slide-container swiper">
                     <div class="custom-slide-content">
                         <div class="custom-card-wrapper swiper-wrapper py-5 sliders">
+                    
+
+
+
+
+
+
 
                             <div class="custom-card custom_card_bg_two swiper-slide col-12 col-md-6 col-lg-4">
                             <div class="testimonial-item01">
@@ -1431,6 +1438,14 @@ Focus on play-based learning, storytelling, and outdoor activities
                                         </div>
                                     </div>         
                             </div>
+
+
+
+
+
+
+            
+
 
 
                             <script>

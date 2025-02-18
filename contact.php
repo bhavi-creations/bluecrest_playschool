@@ -106,37 +106,36 @@
                         
 
                             <form>
-            <div class="mb-3">
-                <label for="name" class="form-label">Child's Name</label>
-                <input type="text" class="form-control" id="name" placeholder="Enter child's name" required>
-            </div>
+      
             <div class="mb-3">
                 <label for="parentName" class="form-label">Parent's Name</label>
                 <input type="text" class="form-control" id="parentName" placeholder="Enter parent's name" required>
             </div>
-            <div class="mb-3">
+            <!-- <div class="mb-3">
                 <label for="email" class="form-label">Email</label>
                 <input type="email" class="form-control" id="email" placeholder="Enter email" required>
-            </div>
+            </div> -->
             <div class="mb-3">
                 <label for="phone" class="form-label">Phone Number</label>
                 <input type="tel" class="form-control" id="phone" placeholder="Enter phone number" required>
             </div>
-            <div class="mb-3">
-                <label for="service" class="form-label">Select Service</label>
-                <select class="form-select" id="service" required>
-                    <option selected disabled>Choose a service</option>
-                    <option value="daycare">Daycare</option>
-                    <option value="preschool">Preschool</option>
-                    <option value="kindergarten">Kindergarten</option>
-                    <option value="afterSchool">After School Programs</option>
+            <div class="mb-3 ">
+                <select class="form-select text-white dropdown" id="service" required>
+                    <option selected disabled class="move">Choose a service</option>
+                    <option value="daycare" class="move">Daycare</option>
+                    <option value="playgroup" class="move">PlayGroup</option>
+                    <option value="nursery" class="move">Nursery</option>
+                    <option value="lkg-ukg" class="move">LkG-UKG</option>
+                    <option value="Grade 1 To 5" class="move">Grade 1 TO 5</option>
+
+
                 </select>
             </div>
             <div class="mb-3">
                 <label for="message" class="form-label">Message</label>
                 <textarea class="form-control" id="message" rows="4" placeholder="Write your message here"></textarea>
             </div>
-            <button type="submit" class="btn btn-primary w-100">Submit</button>
+            <button type="submit" class="btn contact_btn text-white w-100">Submit</button>
         </form>
                         </div>
         
@@ -148,9 +147,6 @@
         <section class="google-map mb-5">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3815.9631485923546!2d82.24120778885495!3d16.976362899999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a3828683b764acb%3A0xb630cb38b75579a7!2s70-14-16%2F3%2C%20Jayendra%20Nagar%2C%20Siddartha%20Nagar%2C%20Kakinada%2C%20Andhra%20Pradesh%20533002!5e0!3m2!1sen!2sin!4v1738917450099!5m2!1sen!2sin" width="500" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </section>
-
-
-
 
 
 

@@ -131,7 +131,7 @@
     <div class="offcanvas__overlay"></div>
 
     <!-- Header Top Section Start -->
-    <div class="header-top-section d-lg-block d-none top">
+    <div class="header-top-section d-lg-block d-none top ">
         <div class="container">
             <div class="header-top-wrapper">
                 <ul class="contact-list">
@@ -161,7 +161,7 @@
     </div>
 
     <!-- Header Section Start -->
-    <header id="header-sticky" class="header-1 header_bg">
+    <header id="header-sticky" class="header-1 header_bg  header-top">
         <div class="container">
             <div class="mega-menu-wrapper">
                 <div class="header-main style-2">

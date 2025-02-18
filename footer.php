@@ -166,7 +166,7 @@
 
           <!-- <a href="#" class="btn btn-secondary btn-lg-square back-to-top"><i class="fa fa-arrow-up"></i></a> -->
 
-          <!-- <script>
+           <!-- <script>
             $(document).ready(function() {
 
                 $(`[unique-script-id="w-w-dm-id"] .btn-box`).click(function() {
@@ -179,7 +179,7 @@
                     $(`[unique-script-id="w-w-dm-id"] .overlay`).hide();
                 });
             });
-        </script> -->
+        </script>  -->
         <!-- Element -->
         <img src="assets/img/footer/f-apple.png" alt="img" class="footer-apple position-absolute">
         <img src="assets/img/footer/f-cut.png" alt="img" class="footer-cut position-absolute">
@@ -209,6 +209,11 @@
     <script src="assets/js/wow.min.js"></script>
     <!--<< Main.js >>-->
     <script src="assets/js/main.js"></script>
+
+
+
+
+
 </body>
 
 </html>

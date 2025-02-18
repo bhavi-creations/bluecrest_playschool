@@ -47,7 +47,7 @@
     -webkit-transition: all 0.15s ease-in-out;
     transition: all 0.15s ease-in-out;
     width: 12px; }
-  .nice-select.open:after {
+   .nice-select.open:after { 
     -webkit-transform: rotate(-135deg);
         -ms-transform: rotate(-135deg);
             transform: rotate(-135deg); }
@@ -84,7 +84,7 @@
     .nice-select.small .option {
       line-height: 34px;
       min-height: 34px; }
-  .nice-select .list {
+   .nice-select .list {
     background-color: #150145;
     border-radius: 5px;
     box-sizing: border-box;
@@ -108,9 +108,10 @@
     z-index: 9;
     margin-bottom: 4px;
     
-   }
+   } 
    .nice-select .list li:not(:last-child){
       margin-right: 0 !important;
+      
    }   
   .nice-select .option {
     cursor: pointer;
