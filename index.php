@@ -998,7 +998,7 @@ Focus on play-based learning, storytelling, and outdoor activities
     </section> -->
 
     <!-- professional Section Start -->
-    <!-- <section class="professional-sectionv1 overflow-hidden mt-2 space-bottom position-relative">
+     <section class="professional-sectionv1 overflow-hidden mt-2 space-bottom position-relative">
         <div class="container">
             <div class="row justify-content-center mb-60">
                 <div class="col-lg-6">
@@ -1111,7 +1111,7 @@ Focus on play-based learning, storytelling, and outdoor activities
                 </div>
             </div>
         </div>
-    </section> -->
+    </section> 
 
     <!-- Knowledge Section Start -->
     <section class="knowledge-section cmn-bg space-top overflow-hidden space-bottom position-relative">

@@ -233,94 +233,69 @@
                                            
                                         </li>
                                         <li>
-                                            <a href="service.php">
+                                            <a href="about.php">
                                                 About Us
                                                 <i class="fas fa-angle-down"></i>
                                             </a>
                                             <ul class="submenu">
                                                 <li>
-                                                    <a href=".php">
+                                                    <a href="vision&values.php">
                                                         Vission and Values
-                                                        <i class="fas fa-angle-down"></i>
 
                                                     </a>
-                                                    <ul class="submenu">
-                                                <li><a href=".php">Vision</a></li>
-                                                <li><a href=".php">Values</a></li>
-                                                <li><a href=".php">Mission</a></li>
-                                                <li><a href=".php">Methodology</a></li>
-
-                                              
-
-                                            </ul>
+                                          
                                                 </li>
                                                 <li>
-                                                    <a href=".php">
+                                                    <a href="ourteam.php">
                                                         Our Team
-                                                        <i class="fas fa-angle-down"></i>
                                                     </a>
-                                            <ul class="submenu">
-                                                <li><a href=".php">Directors</a></li>
-                                                <li><a href=".php">Teachers</a></li>
-                                            </ul>
+                                                </li>
                                               
 
                                             
                                                
-                                        <!-- <li>
-                                             <a href="service.php">
-                                                Academics
-                                                <i class="fas fa-angle-down"></i>
-                                            </a> 
-                                          
-                                        </li> -->
+                                
 
-                                                <li><a href=".php">Achievments</a></li>
+                                                <li><a href="achievments.php">Achievments</a></li>
                                               
                                             </ul>
                                         </li>
                                      
                                         <li>
-                                            <a href="service.php">
+                                            <a href="academics.php">
                                                 Academics
                                                 <i class="fas fa-angle-down"></i>
                                             </a>
                                             <ul class="submenu">
                                                 <li>
-                                                    <a href=".php">Pre-primary
-                                                    <i class="fas fa-angle-down"></i>
+                                                    <a href="pre-primary.php">Pre-primary
 
 
                                                     </a>
-                                            <ul class="submenu">
-                                                <li><a href=".php">Playgroup</a></li>
-                                                <li><a href=".php">Nursery</a></li>
-                                                <li><a href=".php">LKG</a></li>
-                                                <li><a href=".php">UKG</a></li>
-                                            </ul>
+                                        
                                                 </li>
-                                                <li><a href=".php">Primary</a></li>
+                                                <li><a href="primary.php">Primary</a></li>
 
                                               
 
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="service.php">
+                                            <a href="beyondacademics.php">
                                                 Beyond Academics
                                                 <i class="fas fa-angle-down"></i>
                                             </a>
                                             <ul class="submenu">
-                                                <li><a href="daycare.php">Day care & Enrichment Center</a></li>
+                                                <li><a href="daycare&enrichmentcentre.php">Day care & Enrichment Center</a></li>
                                                 <li>
-                                                    <a href=".php">
+                                                    <a href="co-curricularactivities.php">
                                                         Co-Curricular Activities
                                                         <i class="fas fa-angle-down"></i>
 
                                                     </a>
                                                     <ul class="submenu">
-                                                           <li><a href=".php">Computer Literacy</a></li>
-                                                           <li><a href=".php">Sports</a></li>
+                                                           <li><a href="computerliteracy.php">Computer Literacy</a></li>
+                                                           <li><a href="sports.php">Sports</a></li>
                                                            
                                                         
                                                         </ul>
@@ -328,43 +303,30 @@
                                                 </li>
 
                                                 <li>
-                                                    <a href=".php">
+                                                    <a href="extra-curricular.php">
                                                         Extra-Curricular
                                                     
                                                     
-                                                        <i class="fas fa-angle-down"></i>
-                                                    </a>      
-                                                        <ul class="submenu">
-                                                           <li><a href=".php">ABACUS</a></li>
-                                                           <li><a href=".php">Dance & Music</a></li>
-                                                            <li><a href=".php">Field Trips</a></li>
                                                         
-                                                        </ul>
+                                                    </a>      
+                                                    
 
                                                 </li>
                                                 <li>
-                                                    <a href=".php">
+                                                    <a href="events.php">
                                                         Events
-                                                        <i class="fas fa-angle-down"></i>
+                                                       
                                                     </a>    
-                                                        <ul class="submenu">
-                                                         <li><a href=".php">Blue crest <hr> Sports day & Annual day</a></li>
-
-
-                                                    </ul>
+                                                    
                                                  
                                                 </li>
                                                 <li>
-                                                    <a href=".php">
+                                                    <a href="celebrations.php">
                                                         Celebrations
                                                         
-                                                        <i class="fas fa-angle-down"></i>
+                                                     
                                                     </a>
-                                                    <ul class="submenu">
-                                                    <li><a href=".php">Festive Celebrations</a></li>
-
-
-                                                    </ul>
+                                                  
                                                 </li>
 
                                             </ul>
