@@ -35,6 +35,7 @@
     <link rel="stylesheet" href="style.css">
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 
+     <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"> -->
 
 
 
@@ -131,7 +132,7 @@
     <div class="offcanvas__overlay"></div>
 
     <!-- Header Top Section Start -->
-    <div class="header-top-section d-lg-block d-none top ">
+    <div class="header-top-section d-lg-block d-none  ">
         <div class="container">
             <div class="header-top-wrapper">
                  <div class="header-left">
@@ -143,12 +144,12 @@
                     </div> 
                 <ul class="contact-list">
                     <li>
-                        <i class="fal fa-phone"><span class="family"> 7993116666,7993118888</span></i>
+                        <i class="fal fa-phone text-black"><span class="family"> 7993116666,7993118888</span></i>
                         
                     </li>
                     <li>
-                        <i class="far fa-envelope"></i>
-                        <a href="info@example.com" class="link">thebluecrestschool@gmail.com</a>
+                        <i class="far fa-envelope text-black"></i>
+                        <a href="info@example.com" class="link text-black">thebluecrestschool@gmail.com</a>
                     </li>
                   
                 </ul>
@@ -209,7 +210,9 @@
 
 
     <!-- Header Section Start -->
-    <header id="header-sticky" class="header-1 header_bg  header-top">
+    <!-- <header id="header-sticky" class="header-1 header_bg  header-top top"> -->
+    <header id="header-sticky" class="header-1 top">
+
         <div class="container">
             <div class="mega-menu-wrapper">
                 <div class="header-main style-2">
@@ -226,14 +229,14 @@
                                 <nav id="mobile-menu">
                                     <ul>
                                         <li class="has-dropdown active menu-thumb">
-                                            <a href="index.php">
+                                            <a href="index.php" class="text-white">
                                                 Home
                                               
                                             </a>
                                            
                                         </li>
                                         <li>
-                                            <a href="about.php">
+                                            <a href="about.php" class="text-white">
                                                 About Us
                                                 <i class="fas fa-angle-down"></i>
                                             </a>
@@ -262,7 +265,7 @@
                                         </li>
                                      
                                         <li>
-                                            <a href="academics.php">
+                                            <a href="academics.php" class="text-white">
                                                 Academics
                                                 <i class="fas fa-angle-down"></i>
                                             </a>
@@ -281,7 +284,7 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="beyondacademics.php">
+                                            <a href="beyondacademics.php" class="text-white">
                                                 Beyond Academics
                                                 <i class="fas fa-angle-down"></i>
                                             </a>
@@ -315,8 +318,6 @@
                                                 <li>
                                                     <a href="events.php">
                                                         Events
-                                                        <i class="fas fa-angle-down"></i>
-
                                                        
                                                     </a>    
                                                     
@@ -336,14 +337,14 @@
 
 
                                         <li>
-                                            <a href="gallery.php">Gallery</a>
+                                            <a href="gallery.php" class="text-white">Gallery</a>
                                         </li>
                                         <li>
-                                            <a href="testimonials.php">Testimonials</a>
+                                            <a href="testimonials.php" class="text-white">Testimonials</a>
                                         </li>
                                       
                                         <li>
-                                            <a href="contact.php">Get in touch</a>
+                                            <a href="contact.php" class="text-white">Get in touch</a>
                                         </li>
                                     </ul>
                                 </nav>
@@ -354,7 +355,7 @@
                         <a href="https://api.whatsapp.com/send?phone=9848424956" style="color: #fff;"  target="_blank">
 
                                 <button class="whatsapp">
-                                    7993116666
+                                    Enquire Now
                                 </button>
                               
                         </a>

@@ -2,7 +2,6 @@
    include "header.php";
    ?>
 
-
 <section class="protfolio-sectionv1 overflow-hidden space-bottom position-relative mt-5">
         <div class="container">
             <div class="row justify-content-center">
@@ -17,28 +16,9 @@
                     </div>
                 </div>
             </div>
-            <div class="singletab">
-                <div class="protfolio-tabs mb-60">
-                    <ul class="tablinks">
-                        <li class="nav-links active">
-                            <button class="tablink ">Education</button>
-                        </li>
-                        <li class="nav-links">
-                            <button class="tablink ">School</button>
-                        </li>
-                        <li class="nav-links">
-                            <button class="tablink ">Learn</button>
-                        </li>
-                         <li class="nav-links">
-                            <button class="tablink ">Child</button>
-                        </li> 
-                        <li class="nav-links">
-                            <button class="tablink ">Coaching</button>
-                        </li>
-                    </ul>
-                </div>
+
                 <div class="tabcontents">
-                    <div class="tabitem active">
+                     <div class="tabitem active mb-5">
                         <div class="row align-items-start g-lg-4 g-2">
                             <div class="col-lg-4 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
                                 <div class="protfolio-itemv1 position-relative overflow-hidden round10">
@@ -51,7 +31,7 @@
                                                 </a>
                                             </h4>
                                             <p class="white">
-                                                Dreamland Elementary
+                                                 Dreamland Elementary 
                                             </p>
                                         </div>
                                         <a href="portfolio.php" class="prot-arrow">
@@ -146,6 +126,17 @@
                             </div>
                         </div>
                     </div>
+                    
+                    
+
+
+
+
+
+
+
+
+
                     <div class="tabitem">
                         <div class="row align-items-start g-lg-4 g-2">
                             <div class="col-lg-12 wow fadeInUp" data-wow-delay=".3s">

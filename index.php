@@ -25,7 +25,7 @@
                 <div class="row justify-content-lg-between justify-content-center">
                     <div class="col-lg-3 col-md-4 col-sm-5 order-lg-0 order-1">
                         <div class="banner-shape-thumb1">
-                            <img src="assets/img/banner.png" alt="img">
+                            <img src="assets/img/hero/1.png" alt="img">
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -53,7 +53,7 @@
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-5">
                         <div class="banner-shape-thumb2">
-                            <img src="assets/img/banner1.png" alt="img">
+                            <img src="assets/img/hero/2.png" alt="img">
                         </div>
                     </div>
                 </div>
@@ -147,26 +147,7 @@
             </div>
         </div>
     </section> -->
-    <section>
-        <div class="container">
-            <div class="row">
-                <h2 class="text-center mt-5">Why choose Us</h2>
-                <div class="col-md-6 mt-5">
-                   <img src="assets/img/teacher.png" alt="">
-                </div>
-                <div class="col-md-6 mt-5">
-                <p>At Blue Crest Play School, we believe in nurturing young minds in a safe, fun, and stimulating environment. Our curriculum is designed to foster creativity, social skills, and early learning through interactive and engaging activities.</p>
-                <ul>
-                    <li>Experienced and caring teachers</li>
-                    <li>Safe and hygienic environment</li>
-                    <li>Interactive and play-based learning approach</li>
-                    <li>Focus on social, emotional, and cognitive development</li>
-                    <li>Personalized attention to each child</li>
-                </ul>
-                </div>
-            </div>
-        </div>
-    </section>
+
 
     <!-- Aboutv1 Section Start -->
     <section class="about-sectionv1 space-top overflow-hidden space-bottom">
@@ -208,7 +189,7 @@
                                 About Us
                             </span>
                             <h3 class="m-title wow fadeInUp black mb-sm-3 mb-2" data-wow-delay=".3s">
-                                Unlocking Potential, One Child at a just Time in school
+                                <!-- Unlocking Potential, One Child at a just Time in school -->
                             </h3>
                             <p class="mb-24 wow fadeInUp" data-wow-delay=".4s">
                             BlueCrest  School offers a comprehensive early childhood education program designed to foster holistic development in young learners. The school's playgroup and nursery sections provide a nurturing environment where children engage in activities that promote cognitive, social, emotional, and physical growth.
@@ -224,9 +205,32 @@
             </div>
         </div>
     </section>
+    <section class="mb-5">
+        <div class="container">
+            <div class="row">
+                <!-- <h2 class="text-center mt-5">Why choose Us</h2> -->
+                <span class="sub-title wow fadeInUp p5-clr text text-center">
+                            Why choose Us
+                        </span>
+                <div class="col-md-4 mt-5">
+                   <img src="assets/img/team/1.png" alt="">
+                </div>
+                <div class="col-md-8 mt-5">
+                <p>At Blue Crest Play School, we believe in nurturing young minds in a safe, fun, and stimulating environment. Our curriculum is designed to foster creativity, social skills, and early learning through interactive and engaging activities.</p>
+                <ul>
+                    <li>Experienced and caring teachers</li>
+                    <li>Safe and hygienic environment</li>
+                    <li>Interactive and play-based learning approach</li>
+                    <li>Focus on social, emotional, and cognitive development</li>
+                    <li>Personalized attention to each child</li>
+                </ul>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <!-- Program Section Start -->
-    <section class="program-sectionv1 overflow-hidden space-bottom position-relative">
+    <!-- <section class="program-sectionv1 overflow-hidden space-bottom position-relative">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6">
@@ -331,7 +335,9 @@
             </div>
         </div>
         <img src="assets/img/pencil.png" alt="img" class="program-child">
-    </section>
+    </section> -->
+
+ 
 
     <!-- Protfolio Section Start -->
     <section class="protfolio-sectionv1 overflow-hidden space-bottom position-relative">
@@ -348,28 +354,9 @@
                     </div>
                 </div>
             </div>
-            <div class="singletab">
-                <div class="protfolio-tabs mb-60">
-                    <ul class="tablinks">
-                        <li class="nav-links active">
-                            <button class="tablink ">Education</button>
-                        </li>
-                        <li class="nav-links">
-                            <button class="tablink ">School</button>
-                        </li>
-                        <li class="nav-links">
-                            <button class="tablink ">Learn</button>
-                        </li>
-                         <li class="nav-links">
-                            <button class="tablink ">Child</button>
-                        </li> 
-                        <li class="nav-links">
-                            <button class="tablink ">Coaching</button>
-                        </li>
-                    </ul>
-                </div>
+
                 <div class="tabcontents">
-                    <div class="tabitem active">
+                     <div class="tabitem active mb-5">
                         <div class="row align-items-start g-lg-4 g-2">
                             <div class="col-lg-4 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
                                 <div class="protfolio-itemv1 position-relative overflow-hidden round10">
@@ -382,7 +369,7 @@
                                                 </a>
                                             </h4>
                                             <p class="white">
-                                                Dreamland Elementary
+                                                 Dreamland Elementary 
                                             </p>
                                         </div>
                                         <a href="portfolio.php" class="prot-arrow">
@@ -477,7 +464,18 @@
                             </div>
                         </div>
                     </div>
-                    <div class="tabitem">
+                    
+                    
+
+
+
+
+
+
+
+
+
+                    <!-- <div class="tabitem">
                         <div class="row align-items-start g-lg-4 g-2">
                             <div class="col-lg-12 wow fadeInUp" data-wow-delay=".3s">
                                 <div class="row g-lg-4 g-2">
@@ -768,7 +766,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -1004,10 +1002,10 @@ Focus on play-based learning, storytelling, and outdoor activities
                 <div class="col-lg-6">
                     <div class="section-title text-center">
                         <span class="sub-title wow fadeInUp p5-clr text">
-                            Meet Our Professional
+                            Meet Our Directors
                         </span>
                         <h3 class="m-title wow fadeInUp black" data-wow-delay=".3s">
-                            Joyful Journeys Childcare and the Of a Education
+                            <!-- Joyful Journeys Childcare and the Of a Education -->
                         </h3>
                     </div>
                 </div>
@@ -1016,7 +1014,7 @@ Focus on play-based learning, storytelling, and outdoor activities
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="professional-item">
                         <div class="thumb mb-24">
-                            <img src="assets/img/aprotfolio/professonal1.png" alt="img">
+                            <img src="assets/img/team/1.png" alt="img">
                         </div>
                         <div class="content">
                             <div class="mb-24">
@@ -1025,11 +1023,11 @@ Focus on play-based learning, storytelling, and outdoor activities
                                         Jane Cooper
                                     </a>
                                 </h4>
-                                <span>
+                                <!-- <span>
                                     Marketing Coordinator
-                                </span>
+                                </span> -->
                             </div>
-                            <div class="social-wrapper footer-social d-flex align-items-center">
+                            <!-- <div class="social-wrapper footer-social d-flex align-items-center">
                                 <a href="#" class="white"><i class="white fab fa-facebook-f"></i></a>
                                 <a href="#" class="white">
                                     <svg width="11" height="12" viewBox="0 0 11 12" fill="none"
@@ -1041,14 +1039,14 @@ Focus on play-based learning, storytelling, and outdoor activities
                                 </a>
                                 <a href="#" class="white"><i class="white fa-brands fa-linkedin-in"></i></a>
                                 <a href="#" class="white"><i class="white fa-brands fa-pinterest-p"></i></a>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="professional-item">
                         <div class="thumb mb-24">
-                            <img src="assets/img/aprotfolio/professonal2.png" alt="img">
+                            <img src="assets/img/team/2.png" alt="img">
                         </div>
                         <div class="content">
                             <div class="mb-24">
@@ -1057,11 +1055,11 @@ Focus on play-based learning, storytelling, and outdoor activities
                                         Jane Cooper
                                     </a>
                                 </h4>
-                                <span>
+                                <!-- <span>
                                     Marketing Coordinator
-                                </span>
+                                </span> -->
                             </div>
-                            <div class="social-wrapper footer-social d-flex align-items-center">
+                            <!-- <div class="social-wrapper footer-social d-flex align-items-center">
                                 <a href="#" class="white"><i class="white fab fa-facebook-f"></i></a>
                                 <a href="#" class="white">
                                     <svg width="11" height="12" viewBox="0 0 11 12" fill="none"
@@ -1073,14 +1071,14 @@ Focus on play-based learning, storytelling, and outdoor activities
                                 </a>
                                 <a href="#" class="white"><i class="white fa-brands fa-linkedin-in"></i></a>
                                 <a href="#" class="white"><i class="white fa-brands fa-pinterest-p"></i></a>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="professional-item">
                         <div class="thumb mb-24">
-                            <img src="assets/img/aprotfolio/professonal3.png" alt="img">
+                            <img src="assets/img/team/3.png" alt="img">
                         </div>
                         <div class="content">
                             <div class="mb-24">
@@ -1089,11 +1087,11 @@ Focus on play-based learning, storytelling, and outdoor activities
                                         Jane Cooper
                                     </a>
                                 </h4>
-                                <span>
+                                <!-- <span>
                                     Marketing Coordinator
-                                </span>
+                                </span> -->
                             </div>
-                            <div class="social-wrapper footer-social d-flex align-items-center">
+                            <!-- <div class="social-wrapper footer-social d-flex align-items-center">
                                 <a href="#" class="white"><i class="white fab fa-facebook-f"></i></a>
                                 <a href="#" class="white">
                                     <svg width="11" height="12" viewBox="0 0 11 12" fill="none"
@@ -1105,7 +1103,7 @@ Focus on play-based learning, storytelling, and outdoor activities
                                 </a>
                                 <a href="#" class="white"><i class="white fa-brands fa-linkedin-in"></i></a>
                                 <a href="#" class="white"><i class="white fa-brands fa-pinterest-p"></i></a>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -1302,20 +1300,18 @@ Focus on play-based learning, storytelling, and outdoor activities
                                                 </div>
                                                 <div class="cont">
                                                     <h4 class="black mb-1">
-                                                        Alex smith
+                                                        Madhavi S.B.S
                                                     </h4>
                                                     <span class="black fw-normal">
-                                                        Marketing manager
+                                                    
                                                     </span>
                                                 </div>
                                             </div>
                                             <img src="assets/img/atestimonial/quote.png" alt="img" class="quote-testi">
                                         </div>
                                         <p class="pra mt-24 mb-40">
-                                            Their product exceeded his my routi expectations. The the quality and
-                                            attention to detail a the a
-                                            most outstanding and
-                                            it has become an essential most a education the man who can do
+                                           
+Bluecrest School is one of the best in kakinada. It has been a great experience for our kid and us. The staff and teachers r supportive and easy to reach. Love the individual attention given to my daughter.
                                         </p>
                                         <div class="ratting-area d-flex align-items-center gap-2">
                                             <i class="fas fa-star"></i>

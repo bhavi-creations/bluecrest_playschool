@@ -2,10 +2,13 @@
    include "header.php";
    ?>
 
-<section>
+<section class="mb-5">
    <div class="container">
       <div class="row">
-         <div class="col-md-6">
+         <div class="container-fluid py-5">
+          <h2 class="text-center"> Achievements</h2>
+         </div>
+         <div class="col-md-8">
          <p>
 
 
@@ -25,6 +28,9 @@ Maintaining a low student-to-teacher ratio for better individual attention.
 Effective use of modern teaching aids like smart boards and e-learning tools.
 
          </p>
+         </div>
+         <div class="col-md-4">
+            <img src="assets/img/achievment.png" alt="" class="img-fluid">
          </div>
       </div>
    </div>

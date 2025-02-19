@@ -20,7 +20,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="professional-item">
                         <div class="thumb mb-24">
-                            <img src="assets/img/aprotfolio/professonal1.png" alt="img">
+                            <img src="assets/img/team/1.png" alt="img">
                         </div>
                         <div class="content">
                             <div class="mb-24">
@@ -29,11 +29,11 @@
                                         Jane Cooper
                                     </a>
                                 </h4>
-                                <span>
+                                <!-- <span>
                                     Marketing Coordinator
-                                </span>
+                                </span> -->
                             </div>
-                            <div class="social-wrapper footer-social d-flex align-items-center">
+                            <!-- <div class="social-wrapper footer-social d-flex align-items-center">
                                 <a href="#" class="white"><i class="white fab fa-facebook-f"></i></a>
                                 <a href="#" class="white">
                                     <svg width="11" height="12" viewBox="0 0 11 12" fill="none"
@@ -43,16 +43,16 @@
                                             fill="white" />
                                     </svg>
                                 </a>
-                                <a href="#" class="white"><i class="white fa-brands fa-linkedin-in"></i></a>
-                                <a href="#" class="white"><i class="white fa-brands fa-pinterest-p"></i></a>
-                            </div>
+                                <a href="#" class="white"><i class="white fa-brands fa-linkedin-in"></i></a> 
+                                <a href="#" class="white"><i class="white fa-brands fa-pinterest-p"></i></a> 
+                            </div> -->
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="professional-item">
                         <div class="thumb mb-24">
-                            <img src="assets/img/aprotfolio/professonal2.png" alt="img">
+                            <img src="assets/img/team/2.png" alt="img">
                         </div>
                         <div class="content">
                             <div class="mb-24">
@@ -61,11 +61,11 @@
                                         Jane Cooper
                                     </a>
                                 </h4>
-                                <span>
+                                <!-- <span>
                                     Marketing Coordinator
-                                </span>
+                                </span> -->
                             </div>
-                            <div class="social-wrapper footer-social d-flex align-items-center">
+                            <!-- <div class="social-wrapper footer-social d-flex align-items-center">
                                 <a href="#" class="white"><i class="white fab fa-facebook-f"></i></a>
                                 <a href="#" class="white">
                                     <svg width="11" height="12" viewBox="0 0 11 12" fill="none"
@@ -77,14 +77,14 @@
                                 </a>
                                 <a href="#" class="white"><i class="white fa-brands fa-linkedin-in"></i></a>
                                 <a href="#" class="white"><i class="white fa-brands fa-pinterest-p"></i></a>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="professional-item">
                         <div class="thumb mb-24">
-                            <img src="assets/img/aprotfolio/professonal3.png" alt="img">
+                            <img src="assets/img/team/3.png" alt="img">
                         </div>
                         <div class="content">
                             <div class="mb-24">
@@ -93,11 +93,11 @@
                                         Jane Cooper
                                     </a>
                                 </h4>
-                                <span>
+                                <!-- <span>
                                     Marketing Coordinator
-                                </span>
+                                </span> -->
                             </div>
-                            <div class="social-wrapper footer-social d-flex align-items-center">
+                            <!-- <div class="social-wrapper footer-social d-flex align-items-center">
                                 <a href="#" class="white"><i class="white fab fa-facebook-f"></i></a>
                                 <a href="#" class="white">
                                     <svg width="11" height="12" viewBox="0 0 11 12" fill="none"
@@ -109,7 +109,7 @@
                                 </a>
                                 <a href="#" class="white"><i class="white fa-brands fa-linkedin-in"></i></a>
                                 <a href="#" class="white"><i class="white fa-brands fa-pinterest-p"></i></a>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -136,7 +136,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="professional-item">
                         <div class="thumb mb-24">
-                            <img src="assets/img/aprotfolio/professonal1.png" alt="img">
+                            <img src="assets/img/team/1.png" alt="img">
                         </div>
                         <div class="content">
                             <div class="mb-24">
@@ -145,11 +145,11 @@
                                         Jane Cooper
                                     </a>
                                 </h4>
-                                <span>
+                                <!-- <span>
                                     Marketing Coordinator
-                                </span>
+                                </span> -->
                             </div>
-                            <div class="social-wrapper footer-social d-flex align-items-center">
+                            <!-- <div class="social-wrapper footer-social d-flex align-items-center">
                                 <a href="#" class="white"><i class="white fab fa-facebook-f"></i></a>
                                 <a href="#" class="white">
                                     <svg width="11" height="12" viewBox="0 0 11 12" fill="none"
@@ -161,14 +161,14 @@
                                 </a>
                                 <a href="#" class="white"><i class="white fa-brands fa-linkedin-in"></i></a>
                                 <a href="#" class="white"><i class="white fa-brands fa-pinterest-p"></i></a>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="professional-item">
                         <div class="thumb mb-24">
-                            <img src="assets/img/aprotfolio/professonal2.png" alt="img">
+                            <img src="assets/img/team/2.png" alt="img">
                         </div>
                         <div class="content">
                             <div class="mb-24">
@@ -177,11 +177,11 @@
                                         Jane Cooper
                                     </a>
                                 </h4>
-                                <span>
+                                <!-- <span>
                                     Marketing Coordinator
-                                </span>
+                                </span> -->
                             </div>
-                            <div class="social-wrapper footer-social d-flex align-items-center">
+                            <!-- <div class="social-wrapper footer-social d-flex align-items-center">
                                 <a href="#" class="white"><i class="white fab fa-facebook-f"></i></a>
                                 <a href="#" class="white">
                                     <svg width="11" height="12" viewBox="0 0 11 12" fill="none"
@@ -193,14 +193,14 @@
                                 </a>
                                 <a href="#" class="white"><i class="white fa-brands fa-linkedin-in"></i></a>
                                 <a href="#" class="white"><i class="white fa-brands fa-pinterest-p"></i></a>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="professional-item">
                         <div class="thumb mb-24">
-                            <img src="assets/img/aprotfolio/professonal3.png" alt="img">
+                            <img src="assets/img/team/3.png" alt="img">
                         </div>
                         <div class="content">
                             <div class="mb-24">
@@ -209,11 +209,11 @@
                                         Jane Cooper
                                     </a>
                                 </h4>
-                                <span>
+                                <!-- <span>
                                     Marketing Coordinator
-                                </span>
+                                </span> -->
                             </div>
-                            <div class="social-wrapper footer-social d-flex align-items-center">
+                            <!-- <div class="social-wrapper footer-social d-flex align-items-center">
                                 <a href="#" class="white"><i class="white fab fa-facebook-f"></i></a>
                                 <a href="#" class="white">
                                     <svg width="11" height="12" viewBox="0 0 11 12" fill="none"
@@ -225,7 +225,7 @@
                                 </a>
                                 <a href="#" class="white"><i class="white fa-brands fa-linkedin-in"></i></a>
                                 <a href="#" class="white"><i class="white fa-brands fa-pinterest-p"></i></a>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
