@@ -315,6 +315,8 @@
                                                 <li>
                                                     <a href="events.php">
                                                         Events
+                                                        <i class="fas fa-angle-down"></i>
+
                                                        
                                                     </a>    
                                                     
