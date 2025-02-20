@@ -2,16 +2,16 @@
    include "header.php";
    ?>
 
-<section class="professional-sectionv1 overflow-hidden mt-2 space-bottom position-relative">
+<section class="professional-sectionv1 overflow-hidden  space-bottom position-relative">
         <div class="container">
             <div class="row justify-content-center mb-60">
                 <div class="col-lg-6">
                     <div class="section-title text-center">
-                    <div class="section-title text-center mb-40 py-5">
+                    <div class="section-title text-center mb-40">
                        
                        
                    
-                       <h3 class=" p5-clr text wow fadeInUp text-center">
+                       <h3 class=" p5-clr text wow fadeInUp text-center mt-5">
                            
                      Our Directors
 
@@ -123,7 +123,7 @@
     </section> 
 
 
-    <section class="professional-sectionv1 overflow-hidden mt-2 space-bottom position-relative">
+    <section class="professional-sectionv1 overflow-hidden  space-bottom position-relative">
         <div class="container">
             <div class="row justify-content-center mb-60">
                 <div class="col-lg-6">

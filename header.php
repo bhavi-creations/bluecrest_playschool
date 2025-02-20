@@ -71,11 +71,11 @@
                     </div>
                     <div class="mobile-menu fix mb-3"></div>
                     <div class="offcanvas__contact">
-                        <h4>Contact Info</h4>
+                        <h4 class="text-white">Contact Info</h4>
                         <ul>
                             <li class="d-flex align-items-center text-white">
                                 <div class="offcanvas__contact-icon">
-                                    <i class="fal fa-map-marker-alt"></i>
+                                    <i class="fal fa-map-marker-alt text"></i>
                                 </div>
                                 <div class="offcanvas__contact-text ">
                                     <a target="_blank" href="#">JayendraNagar Near Dmart</a>
@@ -83,16 +83,16 @@
                             </li>
                             <li class="d-flex align-items-center text-white">
                                 <div class="offcanvas__contact-icon mr-15">
-                                    <i class="fal fa-envelope"></i>
+                                    <i class="fal fa-envelope text"></i>
                                 </div>
                                 <div class="offcanvas__contact-text">
-                                    <a href="mailto:info@example.com"><span
+                                    <a href="mailto:info@example.com" ><span
                                             class="mailto:info@example.com">info@example.com</span></a>
                                 </div>
                             </li>
                             <li class="d-flex align-items-center text-white">
                                 <div class="offcanvas__contact-icon mr-15">
-                                    <i class="fal fa-clock"></i>
+                                    <i class="fal fa-clock text"></i>
                                 </div>
                                 <div class="offcanvas__contact-text">
                                     <a target="_blank" href="#">Mod-friday, 06am -02pm</a>
@@ -100,7 +100,7 @@
                             </li>
                             <li class="d-flex align-items-center text-white">
                                 <div class="offcanvas__contact-icon mr-15">
-                                    <i class="far fa-phone"></i>
+                                    <i class="far fa-phone text"></i>
                                 </div>
                                 <div class="offcanvas__contact-text">
                                     <a href="tel:+11002345909">7993116666,7993118888</a>
@@ -117,7 +117,7 @@
                                 </span> -->
                                 <button class="btn_bg">
                                     Get A Quote
-                                    <i class="fa-solid fa-arrow-right-long"></i>
+                                    <i class="fa-solid fa-arrow-right-long "></i>
                                 </button>
                             </a>
                         </div>
@@ -132,7 +132,7 @@
     <div class="offcanvas__overlay"></div>
 
     <!-- Header Top Section Start -->
-    <div class="header-top-section d-lg-block d-none  ">
+    <div class="header-top-section d-lg-block d-none  head-top">
         <div class="container">
             <div class="header-top-wrapper">
                  <div class="header-left">
@@ -291,7 +291,7 @@
                                             <ul class="submenu">
                                                 <li><a href="daycare&enrichmentcentre.php">Day care & Enrichment Center</a></li>
                                                 <li>
-                                                    <a href="co-curricularactivities.php">
+                                                    <a href="co-curricularactivities.php" class="letter">
                                                         Co-Curricular Activities
                                                         <i class="fas fa-angle-down"></i>
 

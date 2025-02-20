@@ -40,14 +40,7 @@ include "header.php";
                Values and Life Skills
 
                Teaching kindness, responsibility, and confidence.
-               Encouraging independence and self-expression.
-               Instilling curiosity and a love for learning.
-               Partnership with Parents
-
-               Regular updates and involvement in the child's progress.
-               Parent-teacher collaborations for holistic development.
-               Special events and workshops to strengthen family engagement
-
+             
 
             </p>
          </div>

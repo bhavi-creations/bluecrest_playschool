@@ -1,7 +1,7 @@
 <?php
 include "header.php";
 ?>
-<section class="">
+<section class="mb-5">
   <div class="container">
     <div class="row space">
       <div class="container-fluid py-4">
@@ -36,7 +36,7 @@ include "header.php";
   </div>
 </section>
 
-<section>
+<section class="mb-5">
   <div class="container">
     <div class="row space">
       <div class="container-fluid py-4">
@@ -74,9 +74,7 @@ include "header.php";
 
           Safety & Well-Being – The health, security, and emotional well-being of every child are our top priorities.
 
-          Collaboration & Community We value strong partnerships with parents and the community to create a supportive learning journey.
-
-          Lifelong Learning – We instill a love for learning that extends beyond the classroom, nurturing curiosity and adaptability for the future.
+        
 
         </p>
 
@@ -91,7 +89,7 @@ include "header.php";
 
 
 
-<section>
+<section class="mb-5">
   <div class="container">
     <div class="row space">
       <div class="container-fluid py-4">
@@ -125,13 +123,7 @@ include "header.php";
 
           Strong Parent Partnerships – We believe in working hand-in-hand with parents to support each child’s learning journey, fostering open communication and collaboration.
 
-          Respect & Inclusion – We celebrate diversity and instill values of kindness, empathy, and respect, ensuring every child learns in an environment of acceptance.
-
-          Foundation for Lifelong Learning – Our mission is to equip children with confidence, independence, and curiosity, preparing them for future learning experiences and life beyond school.
-
-          At Bluecrest school we are committed to shaping happy, confident, and well-rounded little learners, giving them the best possible start in their educational journey.
-
-
+         
         </p>
 
       </div>

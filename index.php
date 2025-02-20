@@ -185,7 +185,7 @@ include "header.php";
             <div class="col-lg-5 col-md-6 col-sm-6">
                 <div class="about-contentv1 ps-xxl-5">
                     <div class="section-title mb-60">
-                        <span class="sub-title wow fadeInUp p5-clr text">
+                        <span class="sub-title wow fadeInUp p5-clr text font">
                             About Us
                         </span>
                         <h3 class="m-title wow fadeInUp black mb-sm-3 mb-2" data-wow-delay=".3s">
@@ -209,11 +209,11 @@ include "header.php";
     <div class="container">
         <div class="row">
             <!-- <h2 class="text-center mt-5">Why choose Us</h2> -->
-            <span class="sub-title wow fadeInUp p5-clr text text-center">
+            <span class="sub-title wow fadeInUp p5-clr text text-center font">
                 Why choose Us
-            </span>
+           </span>
             <div class="col-md-4 mt-5">
-                <img src="assets/img/team/1.png" alt="">
+                <img src="assets/img/team/1.png" alt="" class="why_pic">
             </div>
             <div class="col-md-8 mt-5">
                 <p>At Blue Crest Play School, we believe in nurturing young minds in a safe, fun, and stimulating environment. Our curriculum is designed to foster creativity, social skills, and early learning through interactive and engaging activities.</p>
@@ -340,12 +340,13 @@ include "header.php";
 
 
 <!-- Protfolio Section Start -->
-<section class="protfolio-sectionv1 overflow-hidden space-bottom position-relative">
-    <div class="container">
+
+<section class="protfolio-sectionv1 overflow-hidden space-bottom position-relative ">
+    <div class="container py-5">
         <div class="row justify-content-center">
             <div class="col-lg-6">
                 <div class="section-title text-center mb-40">
-                    <span class="sub-title wow fadeInUp p5-clr text">
+                    <span class="sub-title wow fadeInUp p5-clr text font">
                         Latest Portfolio
                     </span>
                     <!-- <h3 class="m-title wow fadeInUp black" data-wow-delay=".3s">
@@ -354,328 +355,23 @@ include "header.php";
                 </div>
             </div>
         </div>
-
-        <div class="tabcontents">
-            <div class="tabitem active mb-5">
-                <div class="row align-items-start g-lg-4 g-2">
-                    <div class="col-lg-4 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
-                        <div class="protfolio-itemv1 position-relative overflow-hidden round10">
-                            <img src="assets/img/portfolio/1.png" alt="img">
-                            <div class="protfolio-content-box p-lg-2 p-1">
-                                <div class="box">
-                                    <h4>
-                                        <a href="portfolio.php" class="white">
-                                            Bluecrest Explore & Excell School
-                                        </a>
-                                    </h4>
-                                    <p class="white">
-                                        Dreamland Elementary
-                                    </p>
-                                </div>
-                                <a href="portfolio.php" class="prot-arrow">
-                                    <i class="fa-solid fa-arrow-right"></i>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-8 col-md-8 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
-                        <div class="row g-lg-4 g-2">
-                            <div class="col-lg-8 col-md-6">
-                                <div class="protfolio-itemv1 position-relative overflow-hidden round10">
-                                    <img src="assets/img/portfolio/2.png" alt="img">
-                                    <div class="protfolio-content-box p-lg-2 p-1">
-                                        <div class="box">
-                                            <h4>
-                                                <a href="portfolio.php" class="white">
-                                                    Bluecrest Explore & Excell School
-                                                </a>
-                                            </h4>
-                                            <p class="white">
-                                                Dreamland Elementary
-                                            </p>
-                                        </div>
-                                        <a href="portfolio.php" class="prot-arrow">
-                                            <i class="fa-solid fa-arrow-right"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6">
-                                <div class="protfolio-itemv1 position-relative overflow-hidden round10">
-                                    <img src="assets/img/portfolio/3.png" alt="img">
-                                    <div class="protfolio-content-box p-lg-2 p-1">
-                                        <div class="box">
-                                            <h4>
-                                                <a href="portfolio.php" class="white">
-                                                    Bluecrest Explore & Excell School
-                                                </a>
-                                            </h4>
-                                            <p class="white">
-                                                Dreamland Elementary
-                                            </p>
-                                        </div>
-                                        <a href="portfolio.php" class="prot-arrow">
-                                            <i class="fa-solid fa-arrow-right"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-6">
-                                <div class="protfolio-itemv1 position-relative overflow-hidden round10">
-                                    <img src="assets/img/portfolio/5.png" alt="img">
-                                    <div class="protfolio-content-box p-lg-2 p-1">
-                                        <div class="box">
-                                            <h4>
-                                                <a href="portfolio.php" class="white">
-                                                    Bluecrest Explore & Excell School
-                                                </a>
-                                            </h4>
-                                            <p class="white">
-                                                Dreamland Elementary
-                                            </p>
-                                        </div>
-                                        <a href="portfolio.php" class="prot-arrow">
-                                            <i class="fa-solid fa-arrow-right"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-6">
-                                <div class="protfolio-itemv1 position-relative overflow-hidden round10">
-                                    <img src="assets/img/portfolio/4.png" alt="img">
-                                    <div class="protfolio-content-box p-lg-2 p-1">
-                                        <div class="box">
-                                            <h4>
-                                                <a href="portfolio.php" class="white">
-                                                    Bluecrest Explore & Excell School
-                                                </a>
-                                            </h4>
-                                            <p class="white">
-                                                Dreamland Elementary
-                                            </p>
-                                        </div>
-                                        <a href="portfolio.php" class="prot-arrow">
-                                            <i class="fa-solid fa-arrow-right"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-
-
-
-
-
-
-
-
-
-
-            <!-- <div class="tabitem">
-                        <div class="row align-items-start g-lg-4 g-2">
-                            <div class="col-lg-12 wow fadeInUp" data-wow-delay=".3s">
-                                <div class="row g-lg-4 g-2">
-                                    <div class="col-lg-8 col-md-6">
-                                        <div class="protfolio-itemv1 position-relative overflow-hidden round10">
-                                            <img src="assets/img/school/1.png" alt="img">
-                                            <div class="protfolio-content-box p-lg-2 p-1">
-                                                <div class="box">
-                                                    <h4>
-                                                        <a href="portfolio.php" class="white">
-                                                        Bluecrest Explore & Excell  School
-                                                        </a>
-                                                    </h4>
-                                                    <p class="white">
-                                                        Dreamland Elementary
-                                                    </p>
-                                                </div>
-                                                <a href="portfolio.php" class="prot-arrow">
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-4 col-md-6">
-                                        <div class="protfolio-itemv1 position-relative overflow-hidden round10">
-                                            <img src="assets/img/school/2.png" alt="img">
-                                            <div class="protfolio-content-box p-lg-2 p-1">
-                                                <div class="box">
-                                                    <h4>
-                                                        <a href="portfolio.php" class="white">
-                                                        Bluecrest Explore & Excell  School
-                                                        </a>
-                                                    </h4>
-                                                    <p class="white">
-                                                        Dreamland Elementary
-                                                    </p>
-                                                </div>
-                                                <a href="portfolio.php" class="prot-arrow">
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6">
-                                        <div class="protfolio-itemv1 position-relative overflow-hidden round10">
-                                            <img src="assets/img/school/3.png" alt="img">
-                                            <div class="protfolio-content-box p-lg-2 p-1">
-                                                <div class="box">
-                                                    <h4>
-                                                        <a href="portfolio.php" class="white">
-                                                        Bluecrest Explore & Excell  School
-                                                        </a>
-                                                    </h4>
-                                                    <p class="white">
-                                                        Dreamland Elementary
-                                                    </p>
-                                                </div>
-                                                <a href="portfolio.php" class="prot-arrow">
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6">
-                                        <div class="protfolio-itemv1 position-relative overflow-hidden round10">
-                                            <img src="assets/img/school/4.png" alt="img">
-                                            <div class="protfolio-content-box p-lg-2 p-1">
-                                                <div class="box">
-                                                    <h4>
-                                                        <a href="portfolio.php" class="white">
-                                                        Bluecrest Explore & Excell  School
-                                                        </a>
-                                                    </h4>
-                                                    <p class="white">
-                                                        Dreamland Elementary
-                                                    </p>
-                                                </div>
-                                                <a href="portfolio.php" class="prot-arrow">
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tabitem">
-                        <div class="row align-items-start g-lg-4 g-2">
-                            <div class="col-lg-12 wow fadeInUp" data-wow-delay=".3s">
-                                <div class="row g-lg-4 g-2">
-                                    <div class="col-lg-6 col-md-6">
-                                        <div class="protfolio-itemv1 position-relative overflow-hidden round10">
-                                            <img src="assets/img/learn/1.png" alt="img">
-                                            <div class="protfolio-content-box p-lg-2 p-1">
-                                                <div class="box">
-                                                    <h4>
-                                                        <a href="portfolio.php" class="white">
-                                                        Bluecrest Explore & Excell  School
-                                                        </a>
-                                                    </h4>
-                                                    <p class="white">
-                                                        Dreamland Elementary
-                                                    </p>
-                                                </div>
-                                                <a href="portfolio.php" class="prot-arrow">
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6">
-                                        <div class="protfolio-itemv1 position-relative overflow-hidden round10">
-                                            <img src="assets/img/learn/2.png" alt="img">
-                                            <div class="protfolio-content-box p-lg-2 p-1">
-                                                <div class="box">
-                                                    <h4>
-                                                        <a href="portfolio.php" class="white">
-                                                        Bluecrest Explore & Excell  School
-                                                        </a>
-                                                    </h4>
-                                                    <p class="white">
-                                                        Dreamland Elementary
-                                                    </p>
-                                                </div>
-                                                <a href="portfolio.php" class="prot-arrow">
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                     <div class="tabitem">
-                        <div class="row align-items-start g-lg-4 g-2">
-                            <div class="col-lg-12 wow fadeInUp" data-wow-delay=".3s">
-                                <div class="row g-lg-4 g-2">
-                                    <div class="col-lg-8 col-md-6">
-                                        <div class="protfolio-itemv1 position-relative overflow-hidden round10">
-                                            <img src="assets/img/portfolio/9.png" alt="img">
-                                            <div class="protfolio-content-box p-lg-2 p-1">
-                                                <div class="box">
-                                                    <h4>
-                                                        <a href="portfolio.php" class="white">
-                                                        Bluecrest Explore & Excell  School
-                                                        </a>
-                                                    </h4>
-                                                    <p class="white">
-                                                        Dreamland Elementary
-                                                    </p>
-                                                </div>
-                                                <a href="portfolio.php" class="prot-arrow">
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-4 col-md-6">
-                                        <div class="protfolio-itemv1 position-relative overflow-hidden round10">
-                                            <img src="assets/img/portfolio/10.png" alt="img">
-                                            <div class="protfolio-content-box p-lg-2 p-1">
-                                                <div class="box">
-                                                    <h4>
-                                                        <a href="portfolio.php" class="white">
-                                                        Bluecrest Explore & Excell  School
-                                                        </a>
-                                                    </h4>
-                                                    <p class="white">
-                                                        Dreamland Elementary
-                                                    </p>
-                                                </div>
-                                                <a href="portfolio.php" class="prot-arrow">
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tabitem">
+        <div class="tabitem active mb-5">
                         <div class="row align-items-start g-lg-4 g-2">
                             <div class="col-lg-4 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
                                 <div class="protfolio-itemv1 position-relative overflow-hidden round10">
-                                    <img src="assets/img/portfolio/1.png" alt="img">
+                                    <img src="assets/img/port/1.png" alt="img">
                                     <div class="protfolio-content-box p-lg-2 p-1">
                                         <div class="box">
                                             <h4>
-                                                <a href="portfolio.php" class="white">
+                                                <a href="gallery.php" class="white">
                                                     Bluecrest Explore & Excell  School
                                                 </a>
                                             </h4>
-                                            <p class="white">
-                                                Dreamland Elementary
-                                            </p>
+                                            <!-- <p class="white">
+                                                 Dreamland Elementary 
+                                            </p> -->
                                         </div>
-                                        <a href="portfolio.php" class="prot-arrow">
+                                        <a href="gallery.php" class="prot-arrow">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                     </div>
@@ -685,19 +381,19 @@ include "header.php";
                                 <div class="row g-lg-4 g-2">
                                     <div class="col-lg-8 col-md-6">
                                         <div class="protfolio-itemv1 position-relative overflow-hidden round10">
-                                            <img src="assets/img/portfolio/2.png" alt="img">
+                                            <img src="assets/img/port/2.png" alt="img">
                                             <div class="protfolio-content-box p-lg-2 p-1">
                                                 <div class="box">
                                                     <h4>
-                                                        <a href="portfolio.php" class="white">
+                                                        <a href="gallery.php" class="white">
                                                         Bluecrest Explore & Excell  School
                                                         </a>
                                                     </h4>
-                                                    <p class="white">
+                                                    <!-- <p class="white">
                                                         Dreamland Elementary
-                                                    </p>
+                                                    </p> -->
                                                 </div>
-                                                <a href="portfolio.php" class="prot-arrow">
+                                                <a href="gallery.php" class="prot-arrow">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
                                             </div>
@@ -705,19 +401,19 @@ include "header.php";
                                     </div>
                                     <div class="col-lg-4 col-md-6">
                                         <div class="protfolio-itemv1 position-relative overflow-hidden round10">
-                                            <img src="assets/img/portfolio/3.png" alt="img">
+                                            <img src="assets/img/port/116.png" alt="img">
                                             <div class="protfolio-content-box p-lg-2 p-1">
                                                 <div class="box">
                                                     <h4>
-                                                        <a href="portfolio.php" class="white">
+                                                        <a href="gallery.php" class="white">
                                                         Bluecrest Explore & Excell  School
                                                         </a>
                                                     </h4>
-                                                    <p class="white">
+                                                    <!-- <p class="white">
                                                         Dreamland Elementary
-                                                    </p>
+                                                    </p> -->
                                                 </div>
-                                                <a href="portfolio.php" class="prot-arrow">
+                                                <a href="gallery.php" class="prot-arrow">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
                                             </div>
@@ -725,19 +421,19 @@ include "header.php";
                                     </div>
                                     <div class="col-lg-6 col-md-6">
                                         <div class="protfolio-itemv1 position-relative overflow-hidden round10">
-                                            <img src="assets/img/portfolio/5.png" alt="img">
+                                            <img src="assets/img/port/222.png" alt="img">
                                             <div class="protfolio-content-box p-lg-2 p-1">
                                                 <div class="box">
                                                     <h4>
-                                                        <a href="portfolio.php" class="white">
+                                                        <a href="gallery.php" class="white">
                                                         Bluecrest Explore & Excell  School
                                                         </a>
                                                     </h4>
-                                                    <p class="white">
+                                                    <!-- <p class="white">
                                                         Dreamland Elementary
-                                                    </p>
+                                                    </p> -->
                                                 </div>
-                                                <a href="portfolio.php" class="prot-arrow">
+                                                <a href="gallery.php" class="prot-arrow">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
                                             </div>
@@ -745,19 +441,19 @@ include "header.php";
                                     </div>
                                     <div class="col-lg-6 col-md-6">
                                         <div class="protfolio-itemv1 position-relative overflow-hidden round10">
-                                            <img src="assets/img/portfolio/4.png" alt="img">
+                                            <img src="assets/img/port/111.png" alt="img">
                                             <div class="protfolio-content-box p-lg-2 p-1">
                                                 <div class="box">
                                                     <h4>
-                                                        <a href="portfolio.php" class="white">
+                                                        <a href="gallery.php" class="white">
                                                         Bluecrest Explore & Excell  School
                                                         </a>
                                                     </h4>
-                                                    <p class="white">
+                                                    <!-- <p class="white">
                                                         Dreamland Elementary
-                                                    </p>
+                                                    </p> -->
                                                 </div>
-                                                <a href="portfolio.php" class="prot-arrow">
+                                                <a href="gallery.php" class="prot-arrow">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
                                             </div>
@@ -766,234 +462,14 @@ include "header.php";
                                 </div>
                             </div>
                         </div>
-                    </div> -->
-        </div>
+                    </div>
     </div>
     </div>
 </section>
 
-<!-- Service Section Start -->
-<!-- <section class="service-sectionv1 overflow-hidden position-relative">
-        <div class="container">
-            <div class="row g-2 justify-content-between align-items-center mb-xxl-4 mb-xl-3 mb-2">
-                <div class="col-lg-4">
-                    <div class="section-title">
-                        <span class="sub-title wow fadeInUp p5-clr">
-                            Latest Service
-                        </span>
-                        <h3 class="m-title wow fadeInUp black" data-wow-delay=".3s">
-                            Building a Str Foundation for Success
-                        </h3>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <p class="pra">
-                        Lorem ipsum dolor sit amet consectetur adipiscing elit platea pharetra, nostra mattis hendrerit
-                        proin mollis pretium
-                        facilisi in, ligula volutpat
-                    </p>
-                </div>
-            </div>
-            <div class="row g-3 justify-content-between">
-                <div class="col-lg-3">
-                    <div class="service-left">
-                        <div class="dot-cmn mb-40"></div>
-                        <a href="service.php" class="theme-btn p5-btn p5-border">
-                            <span class="black fw-medium">
-                                Read More
-                            </span>
-                            <i class="fa-solid fa-arrow-right p5-clr"></i>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-8">
-                    <div class="d-center">
-                        <div class="swiper service-wrapslide">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <div class="program-item gap-3 d-grid justify-content-start">
-                                        <div class="icon">
-                                            <img src="assets/img/aicon/car-icons1.png" alt="img">
-                                        </div>
-                                        <div class="content">
-                                            <h4 class="mb-xxl-3 mb-2">
-                                                <a href="service-details.php">
-                                                    Learning School
-                                                    <br>
-                                                    heres us
-                                                </a>
-                                            </h4>
-                                            <p class="mb-xxl-3 mb-2">
-                                                Lorem ipsum dolor sit amet a the a conse adipiscing
-                                            </p>
-                                            <a href="service-details.php"
-                                                class="readmore d-flex align-items-center gap-2">
-                                                Read More
-                                                <span class="arrows mt-1">
-                                                    <i class="fa-solid fa-arrow-right p4-clr"></i>
-                                                </span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="program-item gap-3 d-grid justify-content-start">
-                                        <div class="icon">
-                                            <img src="assets/img/aicon/car-icons1.png" alt="img">
-                                        </div>
-                                        <div class="content">
-                                            <h4 class="mb-xxl-3 mb-2">
-                                                <a href="service-details.php">
-                                                    Learning School
-                                                    <br>
-                                                    heres us
-                                                </a>
-                                            </h4>
-                                            <p class="mb-xxl-3 mb-2">
-                                                Lorem ipsum dolor sit amet a the a conse adipiscing
-                                            </p>
-                                            <a href="service-details.php"
-                                                class="readmore d-flex align-items-center gap-2">
-                                                Read More
-                                                <span class="arrows mt-1">
-                                                    <i class="fa-solid fa-arrow-right p4-clr"></i>
-                                                </span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="program-item gap-3 d-grid justify-content-start">
-                                        <div class="icon">
-                                            <img src="assets/img/aicon/car-icons1.png" alt="img">
-                                        </div>
-                                        <div class="content">
-                                            <h4 class="mb-xxl-3 mb-2">
-                                                <a href="service-details.php">
-                                                    Learning School
-                                                    <br>
-                                                    heres us
-                                                </a>
-                                            </h4>
-                                            <p class="mb-xxl-3 mb-2">
-                                                Lorem ipsum dolor sit amet a the a conse adipiscing
-                                            </p>
-                                            <a href="service-details.php"
-                                                class="readmore d-flex align-items-center gap-2">
-                                                Read More
-                                                <span class="arrows mt-1">
-                                                    <i class="fa-solid fa-arrow-right p4-clr"></i>
-                                                </span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-     
-        <img src="assets/img/aservices/sertd-shape.png" alt="img" class="aservice-shape1">
-    </section> -->
 
-<!-- Faq Section Start -->
-<!-- <section class="faq-sectionv mt-60 overflow-hidden space-bottom">
-        <div class="container">
-            <div class="row align-items-center g-4">
-                <div class="col-lg-6 col-md-5">
-                    <div class="faq-thumbs">
-                        <img src="assets/img/faq.png" alt="img" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-7">
-                    <div class="faq-content">
-                        <div class="section-title mb-40">
-                            <span class="sub-title wow fadeInUp p5-clr text">
-                                Some Faq
-                            </span>
-                            <h3 class="m-title wow fadeInUp black" data-wow-delay=".3s">
-                                Empowering Children Through Education Playful Mind
-                            </h3>
-                        </div>
-                        <div class="tab-faq faq">
-                            <div class="accordion-section d-grid gap-xxl-4 gap-lg-3 gap-2">
-                                <div class="accordion-single">
-                                    <h5 class="header-area">
-                                        <button
-                                            class="accordion-btn d-flex align-items-center d-flex position-relative w-100"
-                                            type="button">
-                                            What are the prerequisites for this course?
-                                        </button>
-                                    </h5>
-                                    <div class="content-area">
-                                        <div class="content-body">
-                                            <p>
-                                            There are no strict academic or skill-based prerequisites for enrolling a child in play school. However, certain age, developmental, and health-related factors can help ensure a smooth transition for the child.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-single">
-                                    <h5 class="header-area">
-                                        <button
-                                            class="accordion-btn d-flex align-items-center d-flex position-relative w-100"
-                                            type="button">
-                                            What subjects will I learn in school?
-                                        </button>
-                                    </h5>
-                                    <div class="content-area">
-                                        <div class="content-body">
-                                            <p>
-                                            In play school, learning is focused on fun, exploration, and early development rather than formal subjects. The curriculum is designed to help young children (ages 1.5 to 4 years) develop basic skills through play-based activities.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-single">
-                                    <h5 class="header-area">
-                                        <button
-                                            class="accordion-btn d-flex align-items-center d-flex position-relative w-100"
-                                            type="button">
-                                            How long is a school day?
-                                        </button>
-                                    </h5>
-                                    <div class="content-area">
-                                        <div class="content-body">
-                                            <p>
-                                             Play School & Nursery (Ages 1.5  4 years)
- 2 to 4 hours per day
 
-Typically from 9:00 AM to 12:00 PM or 9:00 AM to 1:00 PM
-Focus on play-based learning, storytelling, and outdoor activities
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-single">
-                                    <h5 class="header-area">
-                                        <button
-                                            class="accordion-btn d-flex align-items-center d-flex position-relative w-100"
-                                            type="button">
-                                            What are the prerequisites course?
-                                        </button>
-                                    </h5>
-                                    <div class="content-area">
-                                        <div class="content-body">
-                                            <p>
-                                            There are no strict academic prerequisites for enrolling a child in play school, as it is an early childhood education program designed for toddlers (ages 1.5 to 4 years). However, there are some key areas of development that can help a child adjust smoothly to the play school environment.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
+
 
 <!-- professional Section Start -->
 <section class="professional-sectionv1 overflow-hidden mt-2 space-bottom position-relative">
@@ -1016,10 +492,10 @@ Focus on play-based learning, storytelling, and outdoor activities
                     <div class="thumb mb-24">
                         <img src="assets/img/team/1.png" alt="img">
                     </div>
-                    <div class="content">
+                    <div class="content our_team">
                         <div class="mb-24">
-                            <h4 class="mb-2">
-                                <a href="#" class="black">
+                            <h4 class="mb-2 ">
+                                <a href="#" class="black ">
                                     Jane Cooper
                                 </a>
                             </h4>
@@ -1048,7 +524,7 @@ Focus on play-based learning, storytelling, and outdoor activities
                     <div class="thumb mb-24">
                         <img src="assets/img/team/2.png" alt="img">
                     </div>
-                    <div class="content">
+                    <div class="content our_team">
                         <div class="mb-24">
                             <h4 class="mb-2">
                                 <a href="#" class="black">
@@ -1080,7 +556,7 @@ Focus on play-based learning, storytelling, and outdoor activities
                     <div class="thumb mb-24">
                         <img src="assets/img/team/3.png" alt="img">
                     </div>
-                    <div class="content">
+                    <div class="content our_team">
                         <div class="mb-24">
                             <h4 class="mb-2">
                                 <a href="#" class="black">
@@ -1125,7 +601,7 @@ Focus on play-based learning, storytelling, and outdoor activities
                             Knowledge for All learn design Excellence for Everyone
                         </h3>
                         <p class="mb-24 wow fadeInUp" data-wow-delay=".4s">
-                            Children between the ages of 3 to 15 years go through significant cognitive, social, emotional, and physical development. Their learning needs change as they progress through early childhood, primary, and middle school years.
+                            Children between the ages of 3 to 10 years go through significant cognitive, social, emotional, and physical development. Their learning needs change as they progress through early childhood, primary, and middle school years.
                         </p>
                         <a href="about.php" class="theme-btn p3-bg py-3">
                             <button class="btn_bg">
@@ -1307,7 +783,7 @@ Focus on play-based learning, storytelling, and outdoor activities
                                 <div class="d-flex align-items-center justify-content-between gap-1">
                                     <div class="man-info d-flex align-items-center">
                                         <div class="thumb">
-                                            <img src="assets/img/alexa.png" alt="" class="radius">
+                                            <img src="assets/img/team/4.png" alt="" class="radius">
                                         </div>
                                         <div class="cont">
                                             <h4 class="black mb-1">
@@ -1339,7 +815,7 @@ Focus on play-based learning, storytelling, and outdoor activities
                                 <div class="d-flex align-items-center justify-content-between gap-1">
                                     <div class="man-info d-flex align-items-center">
                                         <div class="thumb">
-                                            <img src="assets/img/alexa.png" alt="" class="radius">
+                                            <img src="assets/img/team/6.png" alt="" class="radius">
                                         </div>
                                         <div class="cont">
                                             <h4 class="black mb-1">
@@ -1372,7 +848,7 @@ Focus on play-based learning, storytelling, and outdoor activities
                                 <div class="d-flex align-items-center justify-content-between gap-1">
                                     <div class="man-info d-flex align-items-center">
                                         <div class="thumb">
-                                            <img src="assets/img/alexa.png" alt="" class="radius">
+                                            <img src="assets/img/team/7.png" alt="" class="radius">
                                         </div>
                                         <div class="cont">
                                             <h4 class="black mb-1">
@@ -1401,11 +877,11 @@ Focus on play-based learning, storytelling, and outdoor activities
                                 <div class="d-flex align-items-center justify-content-between gap-1">
                                     <div class="man-info d-flex align-items-center">
                                         <div class="thumb">
-                                            <img src="assets/img/alexa.png" alt="" class="radius">
+                                            <img src="assets/img/team/4.png" alt="" class="radius">
                                         </div>
                                         <div class="cont">
                                             <h4 class="black mb-1">
-                                                4564_BHAVANI _TEAM 3
+                                                BHAVANI 
                                             </h4>
 
                                         </div>
@@ -1431,7 +907,7 @@ Focus on play-based learning, storytelling, and outdoor activities
                                 <div class="d-flex align-items-center justify-content-between gap-1">
                                     <div class="man-info d-flex align-items-center">
                                         <div class="thumb">
-                                            <img src="assets/img/alexa.png" alt="" class="radius">
+                                            <img src="assets/img/team/5.png" alt="" class="radius">
                                         </div>
                                         <div class="cont">
                                             <h4 class="black mb-1">
