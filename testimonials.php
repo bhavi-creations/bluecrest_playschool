@@ -12,17 +12,17 @@ include "header.php";
 
 
 
-<div class="section-title text-center mb-40 mt-5">
-
-
-
-    <h3 class=" p5-clr text wow fadeInUp text-center">
-        Our Testimonials
-    </h3>
-</div>
 
 
 <section>
+
+
+<div class="section-title text-center mb-40 mt-5">
+                    <span class="sub-title wow fadeInUp p5-clr text font">
+                        Our Testimonials
+                    </span>
+                  
+    </div>
     <div class="container ">
         <div class="container-fluid py-5">
 
@@ -42,7 +42,7 @@ include "header.php";
                                 <div class="d-flex align-items-center justify-content-between gap-1">
                                     <div class="man-info d-flex align-items-center">
                                         <div class="thumb">
-                                            <img src="assets/img/alexa.png" alt="" class="radius">
+                                            <img src="assets/img/team/4.png" alt="" class="radius">
                                         </div>
                                         <div class="cont">
                                             <h4 class="black mb-1">
@@ -74,7 +74,7 @@ include "header.php";
                                 <div class="d-flex align-items-center justify-content-between gap-1">
                                     <div class="man-info d-flex align-items-center">
                                         <div class="thumb">
-                                            <img src="assets/img/alexa.png" alt="" class="radius">
+                                            <img src="assets/img/team/6.png" alt="" class="radius">
                                         </div>
                                         <div class="cont">
                                             <h4 class="black mb-1">
@@ -107,7 +107,7 @@ include "header.php";
                                 <div class="d-flex align-items-center justify-content-between gap-1">
                                     <div class="man-info d-flex align-items-center">
                                         <div class="thumb">
-                                            <img src="assets/img/alexa.png" alt="" class="radius">
+                                            <img src="assets/img/team/7.png" alt="" class="radius">
                                         </div>
                                         <div class="cont">
                                             <h4 class="black mb-1">
@@ -136,11 +136,11 @@ include "header.php";
                                 <div class="d-flex align-items-center justify-content-between gap-1">
                                     <div class="man-info d-flex align-items-center">
                                         <div class="thumb">
-                                            <img src="assets/img/alexa.png" alt="" class="radius">
+                                            <img src="assets/img/team/4.png" alt="" class="radius">
                                         </div>
                                         <div class="cont">
                                             <h4 class="black mb-1">
-                                                4564_BHAVANI _TEAM 3
+                                                BHAVANI 
                                             </h4>
 
                                         </div>
@@ -166,7 +166,7 @@ include "header.php";
                                 <div class="d-flex align-items-center justify-content-between gap-1">
                                     <div class="man-info d-flex align-items-center">
                                         <div class="thumb">
-                                            <img src="assets/img/alexa.png" alt="" class="radius">
+                                            <img src="assets/img/team/5.png" alt="" class="radius">
                                         </div>
                                         <div class="cont">
                                             <h4 class="black mb-1">
@@ -244,6 +244,9 @@ include "header.php";
         </div>
 
 </section>
+
+
+
 
 <?php include 'footer.php'; ?>
 

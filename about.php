@@ -25,7 +25,7 @@
 
 <!-- Aboutv1 Section Start -->
 
-<section class="about-sectionv1 space-top overflow-hidden space-bottom hero_bg">
+<section class="about-sectionv1  overflow-hidden space-bottom hero_bg">
     <div class="container">
         <div class="row align-items-center g-4">
             <div class="col-lg-6 col-md-6 col-sm-6">
@@ -60,7 +60,7 @@
             <div class="col-lg-5 col-md-6 col-sm-6">
                 <div class="about-contentv1 ps-xxl-5">
                     <div class="section-title mb-60">
-                        <span class="sub-title wow fadeInUp p5-clr text">
+                        <span class="sub-title wow fadeInUp p5-clr text font">
                             About Us
                         </span>
                         <h3 class="m-title wow fadeInUp black mb-sm-3 mb-2" data-wow-delay=".3s">
@@ -102,7 +102,7 @@
     </div>
     <section class="mb-5">
     <div class="container">
-        <div class="row">
+        <div class="row space">
             <!-- <h2 class="text-center mt-5">Why choose Us</h2> -->
             <span class="sub-title wow fadeInUp p5-clr text text-center font">
                 Why choose Us

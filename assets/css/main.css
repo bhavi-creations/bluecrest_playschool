@@ -5573,7 +5573,7 @@ input.main-search-input::placeholder {
 
 
 .font{
-  font-size: 35px;
+  font-size: 35px !important;
   font-weight: bold;
 }
 .radius{

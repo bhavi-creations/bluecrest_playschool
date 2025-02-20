@@ -208,10 +208,12 @@ include "header.php";
 <section class="mb-5">
     <div class="container">
         <div class="row">
-            <!-- <h2 class="text-center mt-5">Why choose Us</h2> -->
-            <span class="sub-title wow fadeInUp p5-clr text text-center font">
+        <div class="section-title text-center mb-40">
+
+            <h3 class="sub-title wow fadeInUp p5-clr text text-center font">
                 Why choose Us
-           </span>
+           </h3>
+        </div>
             <div class="col-md-4 mt-5">
                 <img src="assets/img/team/1.png" alt="" class="why_pic">
             </div>
@@ -341,17 +343,16 @@ include "header.php";
 
 <!-- Protfolio Section Start -->
 
-<section class="protfolio-sectionv1 overflow-hidden space-bottom position-relative ">
+<section class="protfolio-sectionv1 overflow-hidden position-relative ">
     <div class="container py-5">
         <div class="row justify-content-center">
             <div class="col-lg-6">
-                <div class="section-title text-center mb-40">
+                 <div class="section-title text-center mb-40">
                     <span class="sub-title wow fadeInUp p5-clr text font">
                         Latest Portfolio
                     </span>
-                    <!-- <h3 class="m-title wow fadeInUp black" data-wow-delay=".3s">
-                        BlueCrest Explore & Excel School Education the only school
-                    </h3> -->
+        
+                  
                 </div>
             </div>
         </div>
@@ -477,7 +478,7 @@ include "header.php";
         <div class="row justify-content-center mb-60">
             <div class="col-lg-6">
                 <div class="section-title text-center">
-                    <span class="sub-title wow fadeInUp p5-clr text">
+                    <span class="sub-title wow fadeInUp p5-clr text font">
                         Meet Our Directors
                     </span>
                     <h3 class="m-title wow fadeInUp black" data-wow-delay=".3s">
@@ -594,7 +595,7 @@ include "header.php";
             <div class="col-lg-5 col-md-5 col-sm-10">
                 <div class="knowledge-content">
                     <div class="section-title">
-                        <span class="sub-title wow fadeInUp p5-clr text">
+                        <span class="sub-title wow fadeInUp p5-clr text font">
                             Student knowledge
                         </span>
                         <h3 class="m-title wow fadeInUp black mb-sm-3 mb-2" data-wow-delay=".3s">
@@ -755,13 +756,11 @@ include "header.php";
 
 
     <div class="section-title text-center mb-40">
-                    <span class="sub-title wow fadeInUp p5-clr text">
+                    <span class="sub-title wow fadeInUp p5-clr text font">
                         Our Testimonials
                     </span>
-                    <!-- <h3 class="m-title wow fadeInUp black" data-wow-delay=".3s">
-                        BlueCrest Explore & Excel School Education the only school
-                    </h3> -->
-                </div>
+                  
+    </div>
 
 <section>
     <div class="container ">
