@@ -5,8 +5,15 @@
 <section class="mb-5">
    <div class="container">
       <div class="row">
-         <div class="container-fluid py-4">
-            <h2 class="text-center">Beyond Academics</h2>
+         <div class="container-fluid ">
+         <div class="section-title text-center mb-40  py-4">
+                       
+                       
+                   
+                       <h3 class=" p5-clr text wow fadeInUp text-center">
+                           Beyond Academics
+                       </h3>
+                   </div>
          </div>
          <div class="col-md-8">
          <p>

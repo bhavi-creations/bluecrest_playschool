@@ -6,14 +6,14 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6">
-                    <div class="section-title text-center mb-40">
-                        <span class="sub-title wow fadeInUp p5-clr text">
-                            Latest Portfolio
-                        </span>
-                        <h3 class="m-title wow fadeInUp black" data-wow-delay=".3s">
-                        BlueCrest Explore & Excel School Education the only school
-                        </h3>
-                    </div>
+                <div class="section-title text-center mb-40 py-4">
+                       
+                       
+                   
+                       <h3 class=" p5-clr text wow fadeInUp text-center">
+                           Latest Portfolio
+                       </h3>
+                   </div>
                 </div>
             </div>
 

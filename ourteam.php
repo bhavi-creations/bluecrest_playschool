@@ -7,12 +7,17 @@
             <div class="row justify-content-center mb-60">
                 <div class="col-lg-6">
                     <div class="section-title text-center">
-                        <span class="sub-title wow fadeInUp p5-clr text">
-                            Meet Our Directors
-                        </span>
-                        <h3 class="m-title wow fadeInUp black" data-wow-delay=".3s">
-                            Joyful Journeys Childcare and the Of a Education
-                        </h3>
+                    <div class="section-title text-center mb-40 py-5">
+                       
+                       
+                   
+                       <h3 class=" p5-clr text wow fadeInUp text-center">
+                           
+                     Our Directors
+
+                       </h3>
+                   </div>
+                       
                     </div>
                 </div>
             </div>
@@ -123,12 +128,17 @@
             <div class="row justify-content-center mb-60">
                 <div class="col-lg-6">
                     <div class="section-title text-center">
-                        <span class="sub-title wow fadeInUp p5-clr text">
-                            Meet Our Teachers
-                        </span>
-                        <h3 class="m-title wow fadeInUp black" data-wow-delay=".3s">
-                            Joyful Journeys Childcare and the Of a Education
-                        </h3>
+                    <div class="section-title text-center mb-40 ">
+                       
+                       
+                   
+                       <h3 class=" p5-clr text wow fadeInUp text-center">
+                           
+                    Our Teachers
+
+                       </h3>
+                   </div>
+                      
                     </div>
                 </div>
             </div>
