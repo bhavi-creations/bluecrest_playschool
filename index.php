@@ -205,31 +205,41 @@ include "header.php";
         </div>
     </div>
 </section>
-<section class="mb-5">
+<section class="mb-4">
     <div class="container">
         <div class="row">
-        <div class="section-title text-center mb-40">
-
-            <h3 class="sub-title wow fadeInUp p5-clr text text-center font">
-                Why choose Us
-           </h3>
-        </div>
-            <div class="col-md-4 mt-5">
-                <img src="assets/img/team/1.png" alt="" class="why_pic">
+            <!-- Section Title -->
+            <div class="col-12 text-center">
+            <span class="sub-title wow fadeInUp p5-clr text font">
+                            Why Choose Us
+                        </span>
             </div>
-            <div class="col-md-8 mt-5">
-                <p>At Blue Crest Play School, we believe in nurturing young minds in a safe, fun, and stimulating environment. Our curriculum is designed to foster creativity, social skills, and early learning through interactive and engaging activities.</p>
-                <ul>
-                    <li>Experienced and caring teachers</li>
-                    <li>Safe and hygienic environment</li>
-                    <li>Interactive and play-based learning approach</li>
-                    <li>Focus on social, emotional, and cognitive development</li>
-                    <li>Personalized attention to each child</li>
+
+            <!-- Image Section -->
+            <div class="col-md-4 mt-5 text-center">
+                <img src="assets/img/team/1.png" alt="Why Choose Us" class="why_pic img-fluid">
+            </div>
+
+            <!-- Content Section -->
+            <div class="col-md-8 mt-5 why_space">
+                <p>
+                    At <strong>Blue Crest Play School</strong>, we believe in nurturing young minds in a 
+                    <strong>safe, fun, and stimulating</strong> environment. Our curriculum is designed to foster 
+                    creativity, social skills, and early learning through interactive and engaging activities.
+                </p>
+
+                <ul class="list-unstyled">
+                    <li><i class="fas fa-chalkboard-teacher text-primary"></i> Experienced and caring teachers</li>
+                    <li><i class="fas fa-shield-alt text-success"></i> Safe and hygienic environment</li>
+                    <li><i class="fas fa-gamepad text-warning"></i> Interactive and play-based learning approach</li>
+                    <li><i class="fas fa-brain text-info"></i> Focus on social, emotional, and cognitive development</li>
+                    <li><i class="fas fa-user-friends text-danger"></i> Personalized attention to each child</li>
                 </ul>
             </div>
         </div>
     </div>
 </section>
+
 
 <!-- Program Section Start -->
 <!-- <section class="program-sectionv1 overflow-hidden space-bottom position-relative">
@@ -474,6 +484,7 @@ include "header.php";
 
 <!-- professional Section Start -->
 <section class="professional-sectionv1 overflow-hidden mt-2 space-bottom position-relative">
+    
     <div class="container">
         <div class="row justify-content-center mb-60">
             <div class="col-lg-6">
@@ -486,8 +497,9 @@ include "header.php";
                     </h3>
                 </div>
             </div>
-        </div>
+     
         <div class="row g-lg-4 g-3 justify-content-center">
+     
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="professional-item">
                     <div class="thumb mb-24">
@@ -497,7 +509,7 @@ include "header.php";
                         <div class="mb-24">
                             <h4 class="mb-2 ">
                                 <a href="#" class="black ">
-                                    Jane Cooper
+                                    Director
                                 </a>
                             </h4>
                             <!-- <span>
@@ -520,6 +532,9 @@ include "header.php";
                     </div>
                 </div>
             </div>
+        </a>
+           
+      
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="professional-item">
                     <div class="thumb mb-24">
@@ -529,7 +544,7 @@ include "header.php";
                         <div class="mb-24">
                             <h4 class="mb-2">
                                 <a href="#" class="black">
-                                    Jane Cooper
+                                    Director
                                 </a>
                             </h4>
                             <!-- <span>
@@ -552,6 +567,9 @@ include "header.php";
                     </div>
                 </div>
             </div>
+      
+           
+    
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="professional-item">
                     <div class="thumb mb-24">
@@ -561,7 +579,7 @@ include "header.php";
                         <div class="mb-24">
                             <h4 class="mb-2">
                                 <a href="#" class="black">
-                                    Jane Cooper
+                                  Director
                                 </a>
                             </h4>
                             <!-- <span>
@@ -586,10 +604,11 @@ include "header.php";
             </div>
         </div>
     </div>
+    </a>
 </section>
 
 <!-- Knowledge Section Start -->
-<section class="knowledge-section cmn-bg space-top overflow-hidden space-bottom position-relative">
+<section class="knowledge-section cmn-bg  overflow-hidden space-bottom position-relative">
     <div class="container">
         <div class="row justify-content-md-between justify-content-center align-items-center g-4">
             <div class="col-lg-5 col-md-5 col-sm-10">

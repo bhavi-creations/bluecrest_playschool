@@ -3,7 +3,7 @@ include "header.php";
 ?>
 <section class="mb-5">
   <div class="container">
-    <div class="row space">
+    <div class="row mt-3">
       <div class="container-fluid py-4">
         <!-- <h2 class="text-center">Vision</h2> -->
 
@@ -11,14 +11,14 @@ include "header.php";
 
 
 
-          <h3 class=" p5-clr text wow fadeInUp text-center">
+          <h3 class=" p5-clr text wow fadeInUp text-center  font">
 
             Vision
 
           </h3>
         </div>
       </div>
-      <div class="col-md-8">
+      <div class="col-md-8 space">
 
         <p>At Bluecrest School, we envision a nurturing and stimulating environment where young minds blossom, curiosity thrives, and a love for learning is instilled from the very beginning. Our goal is to create a safe, inclusive, and joyful space where children develop holistically—intellectually, emotionally, socially, and physically.
 
@@ -38,7 +38,7 @@ include "header.php";
 
 <section class="mb-5">
   <div class="container">
-    <div class="row space">
+    <div class="row ">
       <div class="container-fluid py-4">
 
         <!-- <h2 class="text-center">Values</h2> -->
@@ -47,7 +47,7 @@ include "header.php";
 
 
 
-          <h3 class=" p5-clr text wow fadeInUp text-center">
+          <h3 class=" p5-clr text wow fadeInUp text-center font">
 
             Values
 
@@ -57,7 +57,7 @@ include "header.php";
       <div class="col-md-4">
         <img src="assets/img/vision/2.png" alt="" class="img-fluid">
       </div>
-      <div class="col-md-8">
+      <div class="col-md-8 space">
 
         <p>
           At Bluecrest School, we are guided by a set of core values that shape our environment, teaching philosophy, and interactions with children, parents, and the community. These values form the foundation of everything we do:
@@ -72,7 +72,6 @@ include "header.php";
 
           Creativity & Imagination – We inspire children to dream, create, and explore, encouraging them to think outside the box.
 
-          Safety & Well-Being – The health, security, and emotional well-being of every child are our top priorities.
 
         
 
@@ -91,7 +90,7 @@ include "header.php";
 
 <section class="mb-5">
   <div class="container">
-    <div class="row space">
+    <div class="row ">
       <div class="container-fluid py-4">
 
         <!-- <h2 class="text-center">Mission</h2> -->
@@ -100,7 +99,7 @@ include "header.php";
 
 
 
-          <h3 class=" p5-clr text wow fadeInUp text-center">
+          <h3 class=" p5-clr text wow fadeInUp text-center font">
 
             Mission
 
@@ -108,7 +107,7 @@ include "header.php";
         </div>
       </div>
 
-      <div class="col-md-8">
+      <div class="col-md-8 space">
         <p>
 
           At Bluecrest school, our mission is to provide a safe, joyful, and nurturing environment where young children can explore, learn, and grow at their own pace. We are dedicated to fostering a love for learning through play-based, hands-on experiences that encourage creativity, curiosity, and critical thinking.
@@ -121,7 +120,6 @@ include "header.php";
 
           Play-Based & Experiential Learning – We emphasize active learning through play, storytelling, music, art, and interactive activities that make education fun and engaging.
 
-          Strong Parent Partnerships – We believe in working hand-in-hand with parents to support each child’s learning journey, fostering open communication and collaboration.
 
          
         </p>
@@ -138,7 +136,7 @@ include "header.php";
 
 <section class="mb-5">
   <div class="container">
-    <div class="row space">
+    <div class="row ">
       <div class="container-fluid py-4">
 
         <!-- <h2 class="text-center">Methodology</h2> -->
@@ -147,7 +145,7 @@ include "header.php";
 
 
 
-          <h3 class=" p5-clr text wow fadeInUp text-center">
+          <h3 class=" p5-clr text wow fadeInUp text-center font">
 
             Methodology
 
@@ -157,15 +155,15 @@ include "header.php";
       <div class="col-md-4">
         <img src="assets/img/vision/4.png" alt="" class="img-fluid">
       </div>
-      <div class="col-md-8">
+      <div class="col-md-8 space">
 
         <p>At Bluecrest School, we envision a nurturing and stimulating environment where young minds blossom, curiosity thrives, and a love for learning is instilled from the very beginning. Our goal is to create a safe, inclusive, and joyful space where children develop holistically—intellectually, emotionally, socially, and physically.
 
           Through play-based learning, creative exploration, and interactive experiences, we aim to foster independence, confidence, and essential life skills. Our dedicated educators are committed to understanding each child's unique strengths and guiding them on their individual learning journeys.
 
-          We believe in strong partnerships with parents and the community, ensuring a supportive and enriching experience for every child. Our playschool is more than just a place of education—it’s a home away from home, where little learners take their first steps toward a bright future.
+          We believe in strong partnerships with parents and the community, ensuring a supportive and enriching experience for every child. Our playschool is more than just a place of education.
 
-          At Bluecrest School, we don't just prepare children for school; we prepare them for life.</p>
+          </p>
 
       </div>
 

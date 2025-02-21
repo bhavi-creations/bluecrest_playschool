@@ -1,31 +1,8 @@
-<?php include 'header.php'; ?>
+<?php
+   include "header.php";
+   ?>
 
-
-<!-- Search Area Start -->
-<div class="search-wrap">
-    <div class="search-inner">
-        <i class="fas fa-times search-close" id="search-close"></i>
-        <div class="search-cell">
-            <form method="get">
-                <div class="search-field-holder">
-                    <input type="search" class="main-search-input" placeholder="Search...">
-                </div>
-            </form>
-        </div>
-    </div>
-</div>
-
-<!-- Breadcrumnd Banner Start -->
-<section class="breadcrumnd-banner cmn-bg overflow-hidden  mb-5">
-    <div class="container-fluid">
-        <img src="assets/img/Untitled design (57)/2.png" alt="" class="img-fluid">
-    </div>
-</section>
-<!-- Breadcrumnd Banner Start -->
-
-<!-- Aboutv1 Section Start -->
-
-<section class="about-sectionv1  overflow-hidden space-bottom hero_bg">
+<section class="about-sectionv1 space-top overflow-hidden space-bottom">
     <div class="container">
         <div class="row align-items-center g-4">
             <div class="col-lg-6 col-md-6 col-sm-6">
@@ -40,7 +17,7 @@
                         <div class="academy-box text-center mb-30 wow fadeInUp" data-wow-delay="1400">
                             <img src="assets/img/about/grow.png" alt="img" class="text">
                             <h4 class="black">
-                                Academy.
+                                Academy
                             </h4>
                             <p class="pra">
                                 Learning Ladder School
@@ -49,7 +26,7 @@
                         <div class="academy-box2 gra-border round10 wow fadeInUp" data-wow-delay="1600">
                             <div class="content">
                                 <h3 class="text">
-                                    <span class="count ">3</span>+
+                                    <span class="count ">10</span>+
                                 </h3>
                                 <p>years of experiences</p>
                             </div>
@@ -58,73 +35,63 @@
                 </div>
             </div>
             <div class="col-lg-5 col-md-6 col-sm-6">
-                <div class="about-contentv1 ps-xxl-5">
+                <div class="about-contentv1">
                     <div class="section-title mb-60">
                         <span class="sub-title wow fadeInUp p5-clr text font">
                             About Us
                         </span>
                         <h3 class="m-title wow fadeInUp black mb-sm-3 mb-2" data-wow-delay=".3s">
-                            Unlocking Potential, One Child at a just Time in school
+                            <!-- Unlocking Potential, One Child at a just Time in school -->
                         </h3>
                         <p class="mb-24 wow fadeInUp" data-wow-delay=".4s">
                             BlueCrest School offers a comprehensive early childhood education program designed to foster holistic development in young learners. The school's playgroup and nursery sections provide a nurturing environment where children engage in activities that promote cognitive, social, emotional, and physical growth.
-
-
-                            The curriculum includes storytelling, music, and art to stimulate creativity and language skills.</p>
-
-
-                        <p>
-
-                            Facilities for sports such as football, table tennis, basketball, volleyball, and athletics support physical development.
-
-
-                            The school boasts a well-equipped ICT suite with over 50 computers and broadband internet access, a library with a collection of over a thousand books and multimedia resources, and a science laboratory for early scientific exploration.
                         </p>
-
-
-
-
-
-
-
-
-
-                        </p>
-                        <!-- <a href="about.php" class=" gra-border2">
-                                <button class="btn_bg">
-                                    Read More
-                                </button>
-                            </a> -->
+                        <a href="about.php" class=" gra-border2">
+                            <button class="btn_bg">
+                                Read More
+                            </button>
+                        </a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <section class="mb-5">
+</section>
+
+<section class="mb-4">
     <div class="container">
-        <div class="row space">
-            <!-- <h2 class="text-center mt-5">Why choose Us</h2> -->
-            <span class="sub-title wow fadeInUp p5-clr text text-center font">
-                Why choose Us
-           </span>
-            <div class="col-md-4 mt-5">
-                <img src="assets/img/team/1.png" alt="" class="why_pic">
+        <div class="row">
+            <!-- Section Title -->
+            <div class="col-12 text-center">
+            <span class="sub-title wow fadeInUp p5-clr text font">
+                            Why Choose Us
+                        </span>
             </div>
-            <div class="col-md-8 mt-5">
-                <p>At Blue Crest Play School, we believe in nurturing young minds in a safe, fun, and stimulating environment. Our curriculum is designed to foster creativity, social skills, and early learning through interactive and engaging activities.</p>
-                <ul>
-                    <li>Experienced and caring teachers</li>
-                    <li>Safe and hygienic environment</li>
-                    <li>Interactive and play-based learning approach</li>
-                    <li>Focus on social, emotional, and cognitive development</li>
-                    <li>Personalized attention to each child</li>
+
+            <!-- Image Section -->
+            <div class="col-md-4 mt-5 text-center">
+                <img src="assets/img/team/1.png" alt="Why Choose Us" class="why_pic img-fluid">
+            </div>
+
+            <!-- Content Section -->
+            <div class="col-md-8 mt-5 why_space">
+                <p>
+                    At <strong>Blue Crest Play School</strong>, we believe in nurturing young minds in a 
+                    <strong>safe, fun, and stimulating</strong> environment. Our curriculum is designed to foster 
+                    creativity, social skills, and early learning through interactive and engaging activities.
+                </p>
+
+                <ul class="list-unstyled">
+                    <li><i class="fas fa-chalkboard-teacher text-primary"></i> Experienced and caring teachers</li>
+                    <li><i class="fas fa-shield-alt text-success"></i> Safe and hygienic environment</li>
+                    <li><i class="fas fa-gamepad text-warning"></i> Interactive and play-based learning approach</li>
+                    <li><i class="fas fa-brain text-info"></i> Focus on social, emotional, and cognitive development</li>
+                    <li><i class="fas fa-user-friends text-danger"></i> Personalized attention to each child</li>
                 </ul>
             </div>
         </div>
     </div>
 </section>
-</section>
-
 
 
 

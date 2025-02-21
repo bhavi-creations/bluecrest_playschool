@@ -3,21 +3,21 @@ include "header.php";
 ?>
 
 <section class="mb-5">
-   <div class="container">
-      <div class="row space">
-         <div class="container-fluid py-5">
+   <div class="container mt-4">
+      <div class="row ">
+         <div class="container-fluid">
             <!-- <h2 class="text-center"> Daycare and Enrichment Centre</h2> -->
             <div class="section-title text-center mb-40 ">
 
 
 
-               <h3 class=" p5-clr text wow fadeInUp text-center">
+               <h3 class=" p5-clr text wow fadeInUp text-center font">
                   Daycare and Enrichment Centre
 
                </h3>
             </div>
          </div>
-         <div class="col-md-8">
+         <div class="col-md-8 space">
             <p>
                A Daycare and Enrichment Centre is a specialized facility that provides safe, nurturing, and engaging care for young children beyond regular playschool hours. It combines childcare services with structured learning activities to support the overall development of toddlers and preschoolers.
 

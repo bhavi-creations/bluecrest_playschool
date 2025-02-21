@@ -3,23 +3,23 @@ include "header.php";
 ?>
 
 <section class="mb-5">
-   <div class="container">
-      <div class="row space">
-         <div class="container-fluid py-4">
+   <div class="container mt-4">
+      <div class="row">
+         <div class="container-fluid ">
             <!-- <h2 class="text-center">Primary</h2> -->
 
             <div class="section-title text-center mb-40 ">
 
 
 
-               <h3 class=" p5-clr text wow fadeInUp text-center">
+               <h3 class=" p5-clr text wow fadeInUp text-center font">
 
                   Primary
 
                </h3>
             </div>
          </div>
-         <div class="col-md-8">
+         <div class="col-md-8 space">
             <p>
                At Bluecrest Playschool, we lay a strong foundation for lifelong learning through a well-rounded primary education program. Our approach blends play-based learning, interactive experiences, and structured development to ensure that children grow intellectually, socially, emotionally, and physically.
                Holistic Development

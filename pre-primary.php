@@ -1,63 +1,187 @@
 <?php
-   include "header.php";
-   ?>
+include "header.php";
+?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section>
+    <div class="container-fluid bottom">
+        <img src="assets/img/testimonial.png" class="img-fluid" alt="">
+    </div>
+</section>
+
+
+
+
 
 
 <div class="container mt-5 mb-5">
     <div class="row">
-        <div class="col-md-3">
+
+        <div class="col-md-6 col-lg-3 col-12">
             <div class="flip-card">
                 <div class="flip-card-inner">
-                    <div class="flip-card-front">
-                        <!-- <h4>Playgroup</h4> -->
-                        <img src="assets/img/beyond/1.png" alt="" class="img-fluid">
+
+                    <div class="flip-card-front primary_bg">
+                        <img src="assets/img/beyond/1.png" alt="Playgroup">
+                        <div class="card-body">
+                            <h5 class="card-title mt-4  ">Playgroup <i class="fa-light fa-circle-plus"></i></h5>
+
+                        </div>
                     </div>
+
                     <div class="flip-card-back">
-                        <p>Playgroup</p>
+
+
+                        <h3 class="text-white card_icon mb-4">Playgroup <i class="fa-regular fa-circle-xmark"></i></h3>
+
+                        <div class="icon-text mb-3">
+                            <i class="fa-regular fa-face-kiss mt-2"> </i>
+                            <p class="side">4-5 years <br>kids</p>
+
+                        </div>
+
+
+                        <div class="icon-text mb-3">
+                            <i class="fa-regular fa-calendar-days mt-2"></i>
+                            <p class="side">5 days <br> a week </p>
+
+                        </div>
+                        <div class="icon-text">
+                            <i class="fa-regular fa-clock mt-2"></i>
+                            <p class="side">3 Hr 30 Mins <br> per day </p>
+
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
 
-        <div class="col-md-3">
+
+        <div class="col-md-6 col-lg-3 col-12">
             <div class="flip-card">
                 <div class="flip-card-inner">
-                    <div class="flip-card-front">
-                        <!-- <h4>Nursery</h4> -->
-                        <img src="assets/img/beyond/6.png" alt="" class="img-fluid">
-    
+                    <div class="flip-card-front primary_bg">
+                        <img src="assets/img/beyond/6.png" alt="Nursery">
+                        <div class="card-body">
+                            <h5 class="card-title mt-4">Nursery <i class="fa-light fa-circle-plus"></i></h5>
+
+                        </div>
                     </div>
+                   
                     <div class="flip-card-back">
-                        <p>Nursery</p>
+
+
+                        <h3 class="text-white card_icon mb-4">Nursery<i class="fa-regular fa-circle-xmark"></i></h3>
+
+                        <div class="icon-text mb-3">
+                            <i class="fa-regular fa-face-kiss mt-2"> </i>
+                            <p class="side">4-5 years <br>kids</p>
+
+                        </div>
+
+
+                        <div class="icon-text mb-3">
+                            <i class="fa-regular fa-calendar-days mt-2"></i>
+                            <p class="side">5 days <br> a week </p>
+
+                        </div>
+                        <div class="icon-text">
+                            <i class="fa-regular fa-clock mt-2"></i>
+                            <p class="side">3 Hr 30 Mins <br> per day </p>
+
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
 
-        <div class="col-md-3">
+
+        <div class="col-md-6 col-lg-3 col-12">
             <div class="flip-card">
                 <div class="flip-card-inner">
-                    <div class="flip-card-front">
-                        <!-- <h4>LKG</h4> -->
-                        <img src="assets/img/beyond/3.png" alt="" class="img-fluid">
+                    <div class="flip-card-front primary_bg">
+                        <img src="assets/img/beyond/3.png" alt="LKG">
+                        <div class="card-body">
+                            <h5 class="card-title mt-4">LKG <i class="fa-light fa-circle-plus"></i></h5>
 
-
+                        </div>
                     </div>
+                   
                     <div class="flip-card-back">
-                        <p>LKG</p>
+
+
+                        <h3 class="text-white card_icon mb-4">LKG <i class="fa-regular fa-circle-xmark"></i></h3>
+
+                        <div class="icon-text mb-3">
+                            <i class="fa-regular fa-face-kiss mt-2"> </i>
+                            <p class="side">4-5 years <br>kids</p>
+
+                        </div>
+
+
+                        <div class="icon-text mb-3">
+                            <i class="fa-regular fa-calendar-days mt-2"></i>
+                            <p class="side">5 days <br> a week </p>
+
+                        </div>
+                        <div class="icon-text">
+                            <i class="fa-regular fa-clock mt-2"></i>
+                            <p class="side">3 Hr 30 Mins <br> per day </p>
+
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="col-md-3">
+
+
+        <div class="col-md-6 col-lg-3 col-12">
             <div class="flip-card">
                 <div class="flip-card-inner">
-                    <div class="flip-card-front">
-                        <!-- <h4>LKG</h4> -->
-                        <img src="assets/img/beyond/4.png" alt="" class="img-fluid">
+                    <div class="flip-card-front primary_bg">
+                        <img src="assets/img/beyond/4.png" alt="UKG">
+                        <div class="card-body">
+                            <h5 class="card-title mt-4">UKG<i class="fa-light fa-circle-plus"></i></h5>
+
+                        </div>
                     </div>
+                   
                     <div class="flip-card-back">
-                        <p>UKG</p>
+
+
+                        <h3 class="text-white card_icon mb-4">UKG <i class="fa-regular fa-circle-xmark"></i></h3>
+
+                        <div class="icon-text mb-3">
+                            <i class="fa-regular fa-face-kiss mt-2"> </i>
+                            <p class="side">4-5 years <br>kids</p>
+
+                        </div>
+
+
+                        <div class="icon-text mb-3">
+                            <i class="fa-regular fa-calendar-days mt-2"></i>
+                            <p class="side">5 days <br> a week </p>
+
+                        </div>
+                        <div class="icon-text">
+                            <i class="fa-regular fa-clock mt-2"></i>
+                            <p class="side">3 Hr 30 Mins <br> per day </p>
+
+                        </div>
                     </div>
                 </div>
             </div>
@@ -68,19 +192,4 @@
 
 
 
-  
-
-
-
-
-
 <?php include 'footer.php'; ?>
-
-
-
-
-
-
-
-
-

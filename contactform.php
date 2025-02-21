@@ -10,11 +10,11 @@ require 'vendor/autoload.php'; // Adjust the path to autoload.php based on your 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // Assign POST data to variables
     $contactname = $_POST['contactname'] ?? '';
-    // $contactemail = $_POST['contactemail'] ?? '';
+    $contactemail = $_POST['contactemail'] ?? '';
     // $contactsubject = $_POST['contactsubject'] ?? '';
     $contactnumber = $_POST['contactnumber'] ?? '';
     // $contactproject = $_POST['contactproject'] ?? '';
-    $contactservice = $_POST['contactservice'] ?? '';
+    // $contactservice = $_POST['contactservice'] ?? '';
 
     $contactmessage = $_POST['contactmessage'] ?? '';
 
@@ -46,8 +46,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <p><strong>Name:</strong> $contactname</p>
     
             <p><strong>Phone:</strong> $contactnumber</p>
-
-             <p><strong>service:</strong>$contactservice</p>
+              <p><strong>Phone:</strong> $contactemail</p>
+         
             <p><strong>Message:</strong>$contactmessage</p>
         ";
 

@@ -26,17 +26,13 @@
                                     <div class="protfolio-content-box p-lg-2 p-1">
                                         <div class="box">
                                             <h4>
-                                                <a href="portfolio.php" class="white">
+                                                <a href="" class="white">
                                                     Bluecrest Explore & Excell  School
                                                 </a>
                                             </h4>
-                                            <!-- <p class="white">
-                                                 Dreamland Elementary 
-                                            </p> -->
+                                         
                                         </div>
-                                        <a href="portfolio.php" class="prot-arrow">
-                                            <i class="fa-solid fa-arrow-right"></i>
-                                        </a>
+                                     
                                     </div>
                                 </div>
                             </div>
@@ -48,17 +44,13 @@
                                             <div class="protfolio-content-box p-lg-2 p-1">
                                                 <div class="box">
                                                     <h4>
-                                                        <a href="portfolio.php" class="white">
+                                                        <a href="" class="white">
                                                         Bluecrest Explore & Excell  School
                                                         </a>
                                                     </h4>
-                                                    <!-- <p class="white">
-                                                        Dreamland Elementary
-                                                    </p> -->
+                                               
                                                 </div>
-                                                <a href="portfolio.php" class="prot-arrow">
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
+                                             
                                             </div>
                                         </div>
                                     </div>
@@ -68,17 +60,13 @@
                                             <div class="protfolio-content-box p-lg-2 p-1">
                                                 <div class="box">
                                                     <h4>
-                                                        <a href="portfolio.php" class="white">
+                                                        <a href="" class="white">
                                                         Bluecrest Explore & Excell  School
                                                         </a>
                                                     </h4>
-                                                    <!-- <p class="white">
-                                                        Dreamland Elementary
-                                                    </p> -->
+                                                 
                                                 </div>
-                                                <a href="portfolio.php" class="prot-arrow">
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
+                                              
                                             </div>
                                         </div>
                                     </div>
@@ -88,17 +76,13 @@
                                             <div class="protfolio-content-box p-lg-2 p-1">
                                                 <div class="box">
                                                     <h4>
-                                                        <a href="portfolio.php" class="white">
+                                                        <a href="" class="white">
                                                         Bluecrest Explore & Excell  School
                                                         </a>
                                                     </h4>
-                                                    <!-- <p class="white">
-                                                        Dreamland Elementary
-                                                    </p> -->
+                                                 
                                                 </div>
-                                                <a href="portfolio.php" class="prot-arrow">
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
+                                              
                                             </div>
                                         </div>
                                     </div>
@@ -108,17 +92,13 @@
                                             <div class="protfolio-content-box p-lg-2 p-1">
                                                 <div class="box">
                                                     <h4>
-                                                        <a href="portfolio.php" class="white">
+                                                        <a href="" class="white">
                                                         Bluecrest Explore & Excell  School
                                                         </a>
                                                     </h4>
-                                                    <!-- <p class="white">
-                                                        Dreamland Elementary
-                                                    </p> -->
+                                                 
                                                 </div>
-                                                <a href="portfolio.php" class="prot-arrow">
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
+                                            
                                             </div>
                                         </div>
                                     </div>
@@ -147,17 +127,13 @@
                                             <div class="protfolio-content-box p-lg-2 p-1">
                                                 <div class="box">
                                                     <h4>
-                                                        <a href="portfolio.php" class="white">
+                                                        <a href="" class="white">
                                                         Bluecrest Explore & Excell  School
                                                         </a>
                                                     </h4>
-                                                    <!-- <p class="white">
-                                                        Dreamland Elementary
-                                                    </p> -->
+                                                
                                                 </div>
-                                                <a href="portfolio.php" class="prot-arrow">
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
+                                             
                                             </div>
                                         </div>
                                     </div>
@@ -167,17 +143,13 @@
                                             <div class="protfolio-content-box p-lg-2 p-1">
                                                 <div class="box">
                                                     <h4>
-                                                        <a href="portfolio.php" class="white">
+                                                        <a href="" class="white">
                                                         Bluecrest Explore & Excell  School
                                                         </a>
                                                     </h4>
-                                                    <!-- <p class="white">
-                                                        Dreamland Elementary
-                                                    </p> -->
+                                                 
                                                 </div>
-                                                <a href="portfolio.php" class="prot-arrow">
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
+                                            
                                             </div>
                                         </div>
                                     </div>
@@ -187,17 +159,13 @@
                                             <div class="protfolio-content-box p-lg-2 p-1">
                                                 <div class="box">
                                                     <h4>
-                                                        <a href="portfolio.php" class="white">
+                                                        <a href="" class="white">
                                                         Bluecrest Explore & Excell  School
                                                         </a>
                                                     </h4>
-                                                    <!-- <p class="white">
-                                                        Dreamland Elementary
-                                                    </p> -->
+                                                  
                                                 </div>
-                                                <a href="portfolio.php" class="prot-arrow">
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
+                                         
                                             </div>
                                         </div>
                                     </div>
@@ -207,17 +175,13 @@
                                             <div class="protfolio-content-box p-lg-2 p-1">
                                                 <div class="box">
                                                     <h4>
-                                                        <a href="portfolio.php" class="white">
+                                                        <a href="" class="white">
                                                         Bluecrest Explore & Excell  School
                                                         </a>
                                                     </h4>
-                                                    <!-- <p class="white">
-                                                        Dreamland Elementary
-                                                    </p> -->
+                                                  
                                                 </div>
-                                                <a href="portfolio.php" class="prot-arrow">
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
+                                              
                                             </div>
                                         </div>
                                     </div>
@@ -235,17 +199,13 @@
                                             <div class="protfolio-content-box p-lg-2 p-1">
                                                 <div class="box">
                                                     <h4>
-                                                        <a href="portfolio.php" class="white">
+                                                        <a href="" class="white">
                                                         Bluecrest Explore & Excell  School
                                                         </a>
                                                     </h4>
-                                                    <!-- <p class="white">
-                                                        Dreamland Elementary
-                                                    </p> -->
+                                               
                                                 </div>
-                                                <a href="portfolio.php" class="prot-arrow">
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
+                                              
                                             </div>
                                         </div>
                                     </div>
@@ -255,17 +215,13 @@
                                             <div class="protfolio-content-box p-lg-2 p-1">
                                                 <div class="box">
                                                     <h4>
-                                                        <a href="portfolio.php" class="white">
+                                                        <a href="" class="white">
                                                         Bluecrest Explore & Excell  School
                                                         </a>
                                                     </h4>
-                                                    <!-- <p class="white">
-                                                        Dreamland Elementary
-                                                    </p> -->
+                                                  
                                                 </div>
-                                                <a href="portfolio.php" class="prot-arrow">
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
+                                              
                                             </div>
                                         </div>
                                     </div>
@@ -283,17 +239,13 @@
                                             <div class="protfolio-content-box p-lg-2 p-1">
                                                 <div class="box">
                                                     <h4>
-                                                        <a href="portfolio.php" class="white">
+                                                        <a href="" class="white">
                                                         Bluecrest Explore & Excell  School
                                                         </a>
                                                     </h4>
-                                                    <!-- <p class="white">
-                                                        Dreamland Elementary
-                                                    </p> -->
+                                                  
                                                 </div>
-                                                <a href="portfolio.php" class="prot-arrow">
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
+                                             
                                             </div>
                                         </div>
                                     </div>
@@ -303,17 +255,13 @@
                                             <div class="protfolio-content-box p-lg-2 p-1">
                                                 <div class="box">
                                                     <h4>
-                                                        <a href="portfolio.php" class="white">
+                                                        <a href="" class="white">
                                                         Bluecrest Explore & Excell  School
                                                         </a>
                                                     </h4>
-                                                    <!-- <p class="white">
-                                                        Dreamland Elementary
-                                                    </p>
-                                                </div> -->
-                                                <a href="portfolio.php" class="prot-arrow">
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
+                                                  
+                                                </div> 
+                                               
                                             </div>
                                         </div>
                                     </div>
@@ -329,17 +277,13 @@
                                     <div class="protfolio-content-box p-lg-2 p-1">
                                         <div class="box">
                                             <h4>
-                                                <a href="portfolio.php" class="white">
+                                                <a href="" class="white">
                                                     Bluecrest Explore & Excell  School
                                                 </a>
                                             </h4>
-                                            <!-- <p class="white">
-                                                Dreamland Elementary
-                                            </p> -->
+                                        
                                         </div>
-                                        <a href="portfolio.php" class="prot-arrow">
-                                            <i class="fa-solid fa-arrow-right"></i>
-                                        </a>
+                                     
                                     </div>
                                 </div>
                             </div>
@@ -351,17 +295,13 @@
                                             <div class="protfolio-content-box p-lg-2 p-1">
                                                 <div class="box">
                                                     <h4>
-                                                        <a href="portfolio.php" class="white">
+                                                        <a href="" class="white">
                                                         Bluecrest Explore & Excell  School
                                                         </a>
                                                     </h4>
-                                                    <!-- <p class="white">
-                                                        Dreamland Elementary
-                                                    </p> -->
+                                                
                                                 </div>
-                                                <a href="portfolio.php" class="prot-arrow">
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
+                                              
                                             </div>
                                         </div>
                                     </div>
@@ -371,17 +311,13 @@
                                             <div class="protfolio-content-box p-lg-2 p-1">
                                                 <div class="box">
                                                     <h4>
-                                                        <a href="portfolio.php" class="white">
+                                                        <a href="" class="white">
                                                         Bluecrest Explore & Excell  School
                                                         </a>
                                                     </h4>
-                                                    <!-- <p class="white">
-                                                        Dreamland Elementary
-                                                    </p> -->
+                                                  
                                                 </div>
-                                                <a href="portfolio.php" class="prot-arrow">
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
+                                                
                                             </div>
                                         </div>
                                     </div>
@@ -391,17 +327,13 @@
                                             <div class="protfolio-content-box p-lg-2 p-1">
                                                 <div class="box">
                                                     <h4>
-                                                        <a href="portfolio.php" class="white">
+                                                        <a href="" class="white">
                                                         Bluecrest Explore & Excell  School
                                                         </a>
                                                     </h4>
-                                                    <!-- <p class="white">
-                                                        Dreamland Elementary
-                                                    </p> -->
+                                                 
                                                 </div>
-                                                <a href="portfolio.php" class="prot-arrow">
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
+                                              
                                             </div>
                                         </div>
                                     </div>
@@ -411,17 +343,13 @@
                                             <div class="protfolio-content-box p-lg-2 p-1">
                                                 <div class="box">
                                                     <h4>
-                                                        <a href="portfolio.php" class="white">
+                                                        <a href="" class="white">
                                                         Bluecrest Explore & Excell  School
                                                         </a>
                                                     </h4>
-                                                    <!-- <p class="white">
-                                                        Dreamland Elementary
-                                                    </p>-->
+                                                   
                                                 </div> 
-                                                <a href="portfolio.php" class="prot-arrow">
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
+                                             
                                             </div>
                                         </div>
                                     </div>

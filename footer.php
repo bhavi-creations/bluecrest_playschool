@@ -7,7 +7,7 @@
                         <div class="single-footer-widget">
                             <div class="widget-heads mt-3">
                                 <a href="index.php" class="ct_logo">
-                                    <img src="assets/img/crestlogo-removebg.png" alt="logo-img" class="img-fluid ct_logo" style="width:400px">
+                                    <img src="assets/img/Blue_logo-removebg-preview.png" alt="logo-img" class="img-fluid" style="width:250px">
                                 </a>
                             </div>
                             <div class="footer-content ">
@@ -27,7 +27,7 @@
                     <div class=" col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".5s">
                         <div class="single-footer-widget">
                             <div class="widget-head">
-                                <h4 class="white text-white">Pages</h4>
+                                <h4 class="white text-white">Quick Links</h4>
                             </div>
                             <ul class="list-area text-white">
                             <li>
@@ -42,7 +42,7 @@
                                 </li>
                                 <li>
                                     <a href="service.php">
-                                         Service
+                                         
                                     </a>
                                 </li>
                                 <!-- <li>
@@ -51,10 +51,21 @@
                                     </a>
                                 </li> -->
                                 <li>
-                                    <a href="contact.php">
-                                    Contact us
+                                    <a href="Gallery.php">
+                                    Gallery
                                     </a>
                                 </li>
+                                <li>
+                                    <a href="testimonials.php">
+                                     Testimonials
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="contact.php">
+                                    Get in Touch
+                                    </a>
+                                </li>
+                              
                               
                             </ul>
                         </div>
@@ -66,29 +77,34 @@
                             </div>
                             <ul class="list-area text-white">
                             <li>
-                                    <a href="daycare.php">
-                                        Daycare
+                                    <a href="academics.php">
+                                      Academics
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="playgroup.php">
-                                        Play Group
+                                    <a href="pre-primary.php">
+                                        Pre-primary
                                     </a>
                                 </li>
                             
                                 <li>
-                                    <a href="nursery.php">
-                                         Nursery
+                                    <a href="primary.php">
+                                        Primary
+                                    </a>
+                                </li>
+                              
+                                <li>
+                                    <a href="beyondacademics.php">
+                                        Beyond Academics
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="lkg-ukg.php">
-                                        LKG-UKG
-                                    </a>
+                                    <a href="co-curricularactivities.php">
+                                   Co-Curricular Activities
                                 </li>
                                 <li>
-                                    <a href="grade1to5.php">
-                                    Grade 1 to 5
+                                    <a href="">
+                                       
                                     </a>
                                 </li>
                              

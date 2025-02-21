@@ -59,7 +59,7 @@
                     <div class="offcanvas__top mb-4 d-flex justify-content-between align-items-center">
                         <div class="offcanvas__logo">
                             <a href="index.php">
-                            <img src="assets/img/crestlogo-removebg.png" alt="logo-img" class="img-fluid " style="width:200px">
+                            <img src="assets/img/Blue_logo-removebg-preview.png" alt="logo-img" class="img-fluid "    style="width:250px" >
   
                             </a>
                         </div>
@@ -138,7 +138,7 @@
                  <div class="header-left">
                         <div class="logo">
                             <a href="index.php" class="header-logo">
-                            <img src="assets/img/crestlogo-removebg.png" alt="logo-img" class="img-fluid " style="width:200px">
+                            <img src="assets/img/Blue_logo-removebg-preview.png" alt="logo-img" class="img-fluid"   style="width:250px"  >
                             </a>
                         </div>
                     </div> 

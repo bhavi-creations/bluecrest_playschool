@@ -3,21 +3,21 @@ include "header.php";
 ?>
 
 <section class="mb-5">
-   <div class="container">
-      <div class="row space">
-         <div class="container-fluid py-4">
+   <div class="container mt-4">
+      <div class="row ">
+         <div class="container-fluid ">
             <!-- <h2 class="text-center">Sports</h2> -->
             <div class="section-title text-center mb-40 ">
 
 
 
-               <h3 class=" p5-clr text wow fadeInUp text-center">
+               <h3 class=" p5-clr text wow fadeInUp text-center font">
                   Sports
 
                </h3>
             </div>
          </div>
-         <div class="col-md-8">
+         <div class="col-md-8 space">
             <p>
 
                At Bluecrest Playschool, we believe that physical activity is just as important as academic learning in early childhood. Our sports and movement-based activities are designed to develop motor skills, coordination, teamwork, and a lifelong love for fitness in a fun and engaging way.

@@ -27,11 +27,11 @@
                         <div class="thumb mb-24">
                             <img src="assets/img/team/1.png" alt="img">
                         </div>
-                        <div class="content">
+                        <div class="content our_team">
                             <div class="mb-24">
                                 <h4 class="mb-2">
                                     <a href="#" class="black">
-                                        Jane Cooper
+                                        Director
                                     </a>
                                 </h4>
                                 <!-- <span>
@@ -59,11 +59,11 @@
                         <div class="thumb mb-24">
                             <img src="assets/img/team/2.png" alt="img">
                         </div>
-                        <div class="content">
+                        <div class="content our_team">
                             <div class="mb-24">
                                 <h4 class="mb-2">
                                     <a href="#" class="black">
-                                        Jane Cooper
+                                       Director
                                     </a>
                                 </h4>
                                 <!-- <span>
@@ -91,11 +91,11 @@
                         <div class="thumb mb-24">
                             <img src="assets/img/team/3.png" alt="img">
                         </div>
-                        <div class="content">
+                        <div class="content our_team">
                             <div class="mb-24">
                                 <h4 class="mb-2">
                                     <a href="#" class="black">
-                                        Jane Cooper
+                                      Director
                                     </a>
                                 </h4>
                                 <!-- <span>
@@ -148,11 +148,11 @@
                         <div class="thumb mb-24">
                             <img src="assets/img/team/1.png" alt="img">
                         </div>
-                        <div class="content">
+                        <div class="content our_team">
                             <div class="mb-24">
                                 <h4 class="mb-2">
                                     <a href="#" class="black">
-                                        Jane Cooper
+                                        Teaching
                                     </a>
                                 </h4>
                                 <!-- <span>
@@ -180,11 +180,11 @@
                         <div class="thumb mb-24">
                             <img src="assets/img/team/2.png" alt="img">
                         </div>
-                        <div class="content">
+                        <div class="content our_team">
                             <div class="mb-24">
                                 <h4 class="mb-2">
                                     <a href="#" class="black">
-                                        Jane Cooper
+                                      Teaching
                                     </a>
                                 </h4>
                                 <!-- <span>
@@ -212,11 +212,11 @@
                         <div class="thumb mb-24">
                             <img src="assets/img/team/3.png" alt="img">
                         </div>
-                        <div class="content">
+                        <div class="content our_team">
                             <div class="mb-24">
                                 <h4 class="mb-2">
                                     <a href="#" class="black">
-                                        Jane Cooper
+                                    Teaching
                                     </a>
                                 </h4>
                                 <!-- <span>
