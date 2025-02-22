@@ -81,15 +81,15 @@ include "header.php";
 
 </section> -->
 
-<section class="contact-sectionv02 section-padding">
-    <div class="container">
+<section class="contact-sectionv02 mb-5">
+    <div class="container mt-5">
         <div class="section-title text-center mb-60">
-            <span class="sub-title wow fadeInUp p5-clr text">
+            <span class="sub-title wow fadeInUp p5-clr text font">
                 Contact
             </span>
-            <h3 class="m-title wow fadeInUp black" data-wow-delay=".3s">
+            <!-- <h3 class="m-title wow fadeInUp black" data-wow-delay=".3s">
                 Unlock your potential with education
-            </h3>
+            </h3> -->
         </div>
         <div class="row g-4">
             <div class="col-lg-6 col-md-6">
@@ -118,7 +118,7 @@ include "header.php";
                                     <input type="text" name="contactnumber" placeholder="Your Phone">
                                 </div>
                             </div>
-                         
+
                             <div class="col-lg-12 mb-xl-3">
                                 <div class="comment-grp text-aras position-relative">
                                     <textarea name="message" rows="5"

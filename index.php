@@ -188,7 +188,7 @@ include "header.php";
                             <div class="box">
                                 <h4>
                                     <a href="gallery.php" class="white">
-                                       Arts
+                                       Painting
                                     </a>
                                 </h4>
                                 <!-- <p class="white">
@@ -270,7 +270,7 @@ include "header.php";
                                     <div class="box">
                                         <h4>
                                             <a href="gallery.php" class="white">
-                                               Listening
+                                               Painting
                                             </a>
                                         </h4>
                                         <!-- <p class="white">
@@ -296,9 +296,9 @@ include "header.php";
 
 
 <!-- professional Section Start -->
-<section class="professional-sectionv1 overflow-hidden mt-2 space-bottom position-relative">
+<section class="professional-sectionv1 overflow-hidden  space-bottom position-relative">
 
-    <div class="container">
+    <div class="container mt-5">
         <div class="row justify-content-center mb-60">
             <div class="col-lg-6">
                 <div class="section-title text-center">
@@ -325,6 +325,7 @@ include "header.php";
                                         Director
                                     </a>
                                 </h4>
+                                <p>Alex Carey</p>
 
                             </div>
 
@@ -346,7 +347,7 @@ include "header.php";
                                         Director
                                     </a>
                                 </h4>
-
+                                <p>Smith</p>
                             </div>
 
                         </div>
@@ -367,7 +368,7 @@ include "header.php";
                                         Director
                                     </a>
                                 </h4>
-
+                                <p>Andreia</p>
                             </div>
 
                         </div>

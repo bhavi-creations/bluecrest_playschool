@@ -5852,6 +5852,7 @@ overflow: visible !important;
 .space{
   padding-right: 50px !important;
   padding-left: 50px !important;
+  /* justify-content: center; */
 }
 
 

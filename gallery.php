@@ -27,7 +27,7 @@
                                         <div class="box">
                                             <h4>
                                                 <a href="" class="white">
-                                                 Art
+                                                 Painting
                                                 </a>
                                             </h4>
                                          
@@ -93,7 +93,7 @@
                                                 <div class="box">
                                                     <h4>
                                                         <a href="" class="white">
-                                                    Listening
+                                                    Painting
                                                         </a>
                                                     </h4>
                                                  
@@ -144,7 +144,7 @@
                                                 <div class="box">
                                                     <h4>
                                                         <a href="" class="white">
-                                                      Mini Tortoise
+                                                      Interact with Pets
                                                         </a>
                                                     </h4>
                                                  
@@ -160,7 +160,7 @@
                                                 <div class="box">
                                                     <h4>
                                                         <a href="" class="white">
-                                                      Mother Tortoise
+                                                      Interact with Pets
                                                         </a>
                                                     </h4>
                                                   
@@ -176,7 +176,7 @@
                                                 <div class="box">
                                                     <h4>
                                                         <a href="" class="white">
-                                                      Rabbit
+                                                    Interact with Pets
                                                         </a>
                                                     </h4>
                                                   
@@ -216,7 +216,7 @@
                                                 <div class="box">
                                                     <h4>
                                                         <a href="" class="white">
-                                                    Break time playing with Rabbit
+                                                     playing with Rabbit
                                                         </a>
                                                     </h4>
                                                   
@@ -240,7 +240,7 @@
                                                 <div class="box">
                                                     <h4>
                                                         <a href="" class="white">
-                                                      Class Room
+                                                      Play school
                                                         </a>
                                                     </h4>
                                                   
@@ -343,7 +343,7 @@
                                                 <div class="box">
                                                     <h4>
                                                         <a href="" class="white">
-                                                     Chair Game
+                                                  Games
                                                         </a>
                                                     </h4>
                                                    

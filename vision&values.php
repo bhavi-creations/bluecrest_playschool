@@ -18,7 +18,7 @@ include "header.php";
           </h3>
         </div>
       </div>
-      <div class="col-md-8 space">
+      <div class="col-md-8 space justify-content-center">
 
         <p>At Bluecrest School, we envision a nurturing and stimulating environment where young minds blossom, curiosity thrives, and a love for learning is instilled from the very beginning. Our goal is to create a safe, inclusive, and joyful space where children develop holistically—intellectually, emotionally, socially, and physically.
 

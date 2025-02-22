@@ -34,6 +34,7 @@
                                         Director
                                     </a>
                                 </h4>
+                                <p>Alex Carey</p>
                                 <!-- <span>
                                     Marketing Coordinator
                                 </span> -->
@@ -66,6 +67,7 @@
                                        Director
                                     </a>
                                 </h4>
+                                <p>smith</p>
                                 <!-- <span>
                                     Marketing Coordinator
                                 </span> -->
@@ -98,6 +100,7 @@
                                       Director
                                     </a>
                                 </h4>
+                                <p>Andreia</p>
                                 <!-- <span>
                                     Marketing Coordinator
                                 </span> -->
@@ -155,6 +158,7 @@
                                         Teaching
                                     </a>
                                 </h4>
+                                <p>Alex Carey</p>
                                 <!-- <span>
                                     Marketing Coordinator
                                 </span> -->
@@ -187,6 +191,7 @@
                                       Teaching
                                     </a>
                                 </h4>
+                                <p>smith</p>
                                 <!-- <span>
                                     Marketing Coordinator
                                 </span> -->
@@ -219,6 +224,7 @@
                                     Teaching
                                     </a>
                                 </h4>
+                                <p>Andreia</p>
                                 <!-- <span>
                                     Marketing Coordinator
                                 </span> -->
