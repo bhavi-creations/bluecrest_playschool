@@ -5589,16 +5589,19 @@ input.main-search-input::placeholder {
   text-align: center;
 }
 .banner_bg{
-  /* background:#90b6f0 ; */
+ 
   background:
  
 #dada7e ;
 
 }
 .foooter{
-  /* background:#6c9feb ; */
-  background:
-  rgb(236, 236, 221);
+ 
+  /* background:
+  rgb(236, 236, 221); */
+
+background-color: rgb(240 240 186 / 95%);
+ 
 
 }
 .green{
@@ -5996,3 +5999,17 @@ margin-top: -600px !important;
     }
 
 
+
+
+
+.last_div{
+  margin-top:20px;
+  margin-bottom: 20px;
+}
+
+@media (min-width:992px) and (max-width:1200px) {
+  
+  .sub_style{
+    font-size: 14px !important; 
+  }
+}

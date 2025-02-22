@@ -2,21 +2,18 @@
    <footer class="footer-section overflow-hidden position-relative footer-style1 new_footer foooter ">
        <div class="footer-widgets-wrapper">
            <div class="container">
-               <div class="row g-md-4 g-4 justify-content-between">
-                   <div class=" col-lg-3 col-md-6 col-sm-6 wow fadeInUp justify-content d-center" data-wow-delay=".3s">
-                       <div class="single-footer-widget">
-                           <div class="widget-heads mt-3">
-                               <a href="index.php" class="ct_logo">
-                                   <img src="assets/img/nnnnnnn.png" alt="logo-img" class="img-fluid" >
-                               </a>
-                           </div>
-                        
-                       </div>
+               <div class="row ">
+
+                   <div class=" col-lg-3 col-md-6 wow fadeInUp justify-content d-center last_div " data-wow-delay=".3s">
+                       <a href="index.php" class=" ">
+                           <img src="assets/img/nnnnnnn.png" alt="logo-img" class="img-fluid">
+                       </a>
                    </div>
-                   <div class=" col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".5s">
+
+                   <div class=" col-lg-3 col-md-6 col-6 wow fadeInUp last_div" data-wow-delay=".5s">
                        <div class="single-footer-widget">
                            <div class="widget-head">
-                               <h4 class="white text-dark">Quick Links</h4>
+                               <h4 class="white text-dark"><strong>  Quick Links </strong></h4>
                            </div>
                            <ul class="list-area text-dark">
                                <li>
@@ -55,10 +52,12 @@
                            </ul>
                        </div>
                    </div>
-                   <div class=" col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".5s">
+
+                   <div class=" col-lg-3 col-md-6  col-6 wow fadeInUp last_div" data-wow-delay=".5s">
                        <div class="single-footer-widget">
                            <div class="widget-head">
-                               <h4 class="white text-dark">Quick Links</h4>
+                           <h4 class="white text-dark"><strong>  Quick Links </strong></h4>
+
                            </div>
                            <ul class="list-area text-dark">
                                <li>
@@ -98,10 +97,10 @@
                        </div>
                    </div>
 
-                   <div class=" col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".5s">
+                   <div class=" col-lg-3 col-md-6   wow fadeInUp last_div" data-wow-delay=".5s">
                        <div class="single-footer-widget">
                            <div class="widget-head">
-                               <h4 class="white text-dark">Contact Us</h4>
+                               <h4 class="white text-dark"><strong>  Contact Us </strong></h4>
                            </div>
                            <ul class="list-area list-contact text-dark">
                                <li>
@@ -112,7 +111,7 @@
                                </li>
                                <li>
                                    <i class="far fa-envelope  scn_bg text-white"></i>
-                                   <a href="info@example.com" class="link">thebluecrestschool@gmail.com</a>
+                                   <a href="info@example.com" class="link   sub_style">thebluecrestschool@gmail.com</a>
                                </li>
                                <li>
                                    <i class="fa-solid fa-phone  scn_bg text-white"></i>
