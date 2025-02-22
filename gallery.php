@@ -11,7 +11,7 @@
                        
                    
                        <h3 class=" p5-clr text wow fadeInUp text-center">
-                           Latest Portfolio
+                          Gallery
                        </h3>
                    </div>
                 </div>
@@ -27,7 +27,7 @@
                                         <div class="box">
                                             <h4>
                                                 <a href="" class="white">
-                                                    Bluecrest Explore & Excell  School
+                                                 Art
                                                 </a>
                                             </h4>
                                          
@@ -45,7 +45,7 @@
                                                 <div class="box">
                                                     <h4>
                                                         <a href="" class="white">
-                                                        Bluecrest Explore & Excell  School
+                                                      Playing
                                                         </a>
                                                     </h4>
                                                
@@ -61,7 +61,7 @@
                                                 <div class="box">
                                                     <h4>
                                                         <a href="" class="white">
-                                                        Bluecrest Explore & Excell  School
+                                                     Watering For Plants
                                                         </a>
                                                     </h4>
                                                  
@@ -77,7 +77,7 @@
                                                 <div class="box">
                                                     <h4>
                                                         <a href="" class="white">
-                                                        Bluecrest Explore & Excell  School
+                                                     Discipline
                                                         </a>
                                                     </h4>
                                                  
@@ -93,7 +93,7 @@
                                                 <div class="box">
                                                     <h4>
                                                         <a href="" class="white">
-                                                        Bluecrest Explore & Excell  School
+                                                    Listening
                                                         </a>
                                                     </h4>
                                                  
@@ -128,7 +128,7 @@
                                                 <div class="box">
                                                     <h4>
                                                         <a href="" class="white">
-                                                        Bluecrest Explore & Excell  School
+                                                       Garden
                                                         </a>
                                                     </h4>
                                                 
@@ -144,7 +144,7 @@
                                                 <div class="box">
                                                     <h4>
                                                         <a href="" class="white">
-                                                        Bluecrest Explore & Excell  School
+                                                      Mini Tortoise
                                                         </a>
                                                     </h4>
                                                  
@@ -160,7 +160,7 @@
                                                 <div class="box">
                                                     <h4>
                                                         <a href="" class="white">
-                                                        Bluecrest Explore & Excell  School
+                                                      Mother Tortoise
                                                         </a>
                                                     </h4>
                                                   
@@ -176,7 +176,7 @@
                                                 <div class="box">
                                                     <h4>
                                                         <a href="" class="white">
-                                                        Bluecrest Explore & Excell  School
+                                                      Rabbit
                                                         </a>
                                                     </h4>
                                                   
@@ -200,7 +200,7 @@
                                                 <div class="box">
                                                     <h4>
                                                         <a href="" class="white">
-                                                        Bluecrest Explore & Excell  School
+                                                   Playing in the Garden
                                                         </a>
                                                     </h4>
                                                
@@ -216,7 +216,7 @@
                                                 <div class="box">
                                                     <h4>
                                                         <a href="" class="white">
-                                                        Bluecrest Explore & Excell  School
+                                                    Break time playing with Rabbit
                                                         </a>
                                                     </h4>
                                                   
@@ -240,7 +240,7 @@
                                                 <div class="box">
                                                     <h4>
                                                         <a href="" class="white">
-                                                        Bluecrest Explore & Excell  School
+                                                      Class Room
                                                         </a>
                                                     </h4>
                                                   
@@ -256,8 +256,7 @@
                                                 <div class="box">
                                                     <h4>
                                                         <a href="" class="white">
-                                                        Bluecrest Explore & Excell  School
-                                                        </a>
+                                                      Play Ground  </a>
                                                     </h4>
                                                   
                                                 </div> 
@@ -278,7 +277,7 @@
                                         <div class="box">
                                             <h4>
                                                 <a href="" class="white">
-                                                    Bluecrest Explore & Excell  School
+                                                  Lunch Time
                                                 </a>
                                             </h4>
                                         
@@ -296,7 +295,7 @@
                                                 <div class="box">
                                                     <h4>
                                                         <a href="" class="white">
-                                                        Bluecrest Explore & Excell  School
+                                                     Sports
                                                         </a>
                                                     </h4>
                                                 
@@ -312,7 +311,7 @@
                                                 <div class="box">
                                                     <h4>
                                                         <a href="" class="white">
-                                                        Bluecrest Explore & Excell  School
+                                                       Playing Time
                                                         </a>
                                                     </h4>
                                                   
@@ -328,7 +327,7 @@
                                                 <div class="box">
                                                     <h4>
                                                         <a href="" class="white">
-                                                        Bluecrest Explore & Excell  School
+                                                      Foot ball
                                                         </a>
                                                     </h4>
                                                  
@@ -344,7 +343,7 @@
                                                 <div class="box">
                                                     <h4>
                                                         <a href="" class="white">
-                                                        Bluecrest Explore & Excell  School
+                                                     Chair Game
                                                         </a>
                                                     </h4>
                                                    

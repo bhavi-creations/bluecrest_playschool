@@ -31,7 +31,8 @@ include "header.php";
                 <div class="col-lg-6">
                     <div class="banner-v1-content text-center">
                         <h1 class="wow fadeInDown" data-wow-delay=".6s">
-                            <span class="title-explore position-relative wow fadeInRight d-inline-block" data-wow-delay=".4s">
+                            <span class="title-explore position-relative wow fadeInRight d-inline-block"
+                                data-wow-delay=".4s">
                                 <img src="assets/img/abanner/text-layer.png" alt="img" class="text-layer">
                                 BlueCrest
                             </span>
@@ -40,15 +41,7 @@ include "header.php";
                                 School
                             </span>
                         </h1>
-                        <!-- <p class="wow fadeInUp" data-wow-delay=".5s">
-                                Starting a corporate business typically involves several steps, such as develo a
-                                business
-                            </p> -->
-                        <!-- <a href="contact.php" class="theme-btn p4-bg">
-                                <span>
-                                    Learn More
-                                </span>
-                            </a> -->
+
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-5">
@@ -67,86 +60,7 @@ include "header.php";
     <!-- Element -->
 </section>
 
-<!-- Talk Counter Section Start -->
-<!-- <section class="talk-counter space-top overflow-hidden">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-8">
-                    <div class="talk-content">
-                        <div class="section-title mb-60">
-                            <span class="sub-title wow fadeInUp p2-clr text">
-                                Number Talks
-                            </span>
-                            <h3 class="m-title wow fadeInUp black" data-wow-delay=".3s">
-                                Invest in education invest <br>
-                                in the future
-                            </h3>
-                            <p class="wow fadeInUp" data-wow-delay=".4s">
-                            Education is more than just acquiring knowledge; it is the foundation for personal growth, economic progress, and societal development. Investing in education is an investment in a brighter, more prosperous future for individuals and communities alike.
-                            </p>
-                             <a href="contact.php" class="theme-btn gra-border2">
-                                <span class="black fw-medium">
-                                    Get a quote
-                                </span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
-                    <div class="counter-inner">
-                        <div class="counter-talk-items gra-border round10 mb-30">
-                            <div class="icon iconbg-v2 top">
-                                <img src="assets/img/aicon/icon1.png" alt="img">
-                            </div>
-                            <div class="content">
-                                <h3>
-                                    <span class="count">25</span>K
-                                </h3>
-                                <p>Running Students</p>
-                            </div>
-                        </div>
-                        <div class="counter-talk-items gra-border round10">
-                            <div class="icon iconbg-v4 right">
-                                <img src="assets/img/aicon/icon3.png" alt="img">
-                            </div>
-                            <div class="content">
-                                <h3>
-                                    <span class="count">3</span>K
-                                </h3>
-                                <p>Award Winning</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".5s">
-                    <div class="counter-inner">
-                        <div class="counter-talk-items gra-border round10 mb-30">
-                            <div class="icon iconbg-v3 left">
-                                <img src="assets/img/aicon/icon2.png" alt="img">
-                            </div>
-                            <div class="content">
-                                <h3>
-                                    <span class="count">12</span>K
-                                </h3>
-                                <p>Completed</p>
-                            </div>
-                        </div>
-                        <div class="counter-talk-items gra-border round10">
-                            <div class="icon iconbg-v5 down">
-                                <img src="assets/img/aicon/icon4.png" alt="img">
-                            </div>
-                            <div class="content">
-                                <h3>
-                                    <span class="count">13</span>K
-                                </h3>
-                                <p>Guardian Satishfaction</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
+
 
 
 <!-- Aboutv1 Section Start -->
@@ -192,7 +106,10 @@ include "header.php";
                             <!-- Unlocking Potential, One Child at a just Time in school -->
                         </h3>
                         <p class="mb-24 wow fadeInUp" data-wow-delay=".4s">
-                            BlueCrest School offers a comprehensive early childhood education program designed to foster holistic development in young learners. The school's playgroup and nursery sections provide a nurturing environment where children engage in activities that promote cognitive, social, emotional, and physical growth.
+                            BlueCrest School offers a comprehensive early childhood education program designed to foster
+                            holistic development in young learners. The school's playgroup and nursery sections provide
+                            a nurturing environment where children engage in activities that promote cognitive, social,
+                            emotional, and physical growth.
                         </p>
                         <a href="about.php" class=" gra-border2">
                             <button class="btn_bg">
@@ -205,14 +122,15 @@ include "header.php";
         </div>
     </div>
 </section>
+
 <section class="mb-4">
     <div class="container">
         <div class="row">
             <!-- Section Title -->
             <div class="col-12 text-center">
-            <span class="sub-title wow fadeInUp p5-clr text font">
-                            Why Choose Us
-                        </span>
+                <span class="sub-title wow fadeInUp p5-clr text font">
+                    Why Choose Us
+                </span>
             </div>
 
             <!-- Image Section -->
@@ -223,8 +141,8 @@ include "header.php";
             <!-- Content Section -->
             <div class="col-md-8 mt-5 why_space">
                 <p>
-                    At <strong>Blue Crest Play School</strong>, we believe in nurturing young minds in a 
-                    <strong>safe, fun, and stimulating</strong> environment. Our curriculum is designed to foster 
+                    At <strong>Blue Crest Play School</strong>, we believe in nurturing young minds in a
+                    <strong>safe, fun, and stimulating</strong> environment. Our curriculum is designed to foster
                     creativity, social skills, and early learning through interactive and engaging activities.
                 </p>
 
@@ -232,7 +150,8 @@ include "header.php";
                     <li><i class="fas fa-chalkboard-teacher text-primary"></i> Experienced and caring teachers</li>
                     <li><i class="fas fa-shield-alt text-success"></i> Safe and hygienic environment</li>
                     <li><i class="fas fa-gamepad text-warning"></i> Interactive and play-based learning approach</li>
-                    <li><i class="fas fa-brain text-info"></i> Focus on social, emotional, and cognitive development</li>
+                    <li><i class="fas fa-brain text-info"></i> Focus on social, emotional, and cognitive development
+                    </li>
                     <li><i class="fas fa-user-friends text-danger"></i> Personalized attention to each child</li>
                 </ul>
             </div>
@@ -241,239 +160,133 @@ include "header.php";
 </section>
 
 
-<!-- Program Section Start -->
-<!-- <section class="program-sectionv1 overflow-hidden space-bottom position-relative">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-6">
-                    <div class="section-title text-center mb-60">
-                        <span class="sub-title wow fadeInUp p4-clr text">
-                            Educational Programs
-                        </span>
-                        <h3 class="m-title wow fadeInUp black" data-wow-delay=".3s">
-                            Strong Foundation for Success For
-                            Nurturing Curiosity
-                        </h3>
-                    </div>
-                </div>
-            </div>
-            <div class="row align-items-center g-4">
-            <div class="col-lg-6 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".6s">
-                    <div class="program-item gra-border">
-                        <div class="icons gra-border round10 d-center">
-                            <img src="assets/img/aicon/car-icons4.png" alt="img">
-                        </div>
-                        <div class="content">
-                            <h4>
-                                <a href="playgroup.php">Playgroup</a>
-                            </h4>
-                            <p>
-                            A playgroup is an informal early learning environment where young children (usually aged 1.5 to 3 years) gather to play, explore, and socialize under the supervision of caregivers, teachers, or parents.
-                            </p>
-                            <a href="playgroup.php" class="readmore d-flex align-items-center gap-2">
-                                Read More
-                                <span class="arrows mt-1">
-                                    <i class="fa-solid fa-arrow-right"></i>
-                                </span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".4s">
-                    <div class="program-item gra-border">
-                        <div class="icons gra-border round10 d-center">
-                            <img src="assets/img/aicon/car-icons2.png" alt="img">
-                        </div>
-                        <div class="content">
-                            <h4>
-                                <a href="nursery.php">Nursery</a>
-                            </h4>
-                            <p>
-                            A nursery is an early childhood education center designed for children aged 3 to 4 years, preparing them for formal schooling. 
-                            </p>
-                            <a href="nursery.php" class="readmore d-flex align-items-center gap-2">
-                                Read More
-                                <span class="arrows mt-1">
-                                    <i class="fa-solid fa-arrow-right"></i>
-                                </span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".5s">
-                    <div class="program-item gra-border">
-                        <div class="icons gra-border round10 d-center">
-                            <img src="assets/img/aicon/car-icons3.png" alt="img">
-                        </div>
-                        <div class="content">
-                            <h4>
-                                <a href="lkg-ukg.php">LKG</a>
-                            </h4>
-                            <p>
-                            LKG (Lower Kindergarten) and UKG (Upper Kindergarten) are the initial stages of formal schooling, typically for children aged 3.5 to 6 years.
-                            </p>
-                            <a href="lkg-ukg.php" class="readmore d-flex align-items-center gap-2">
-                                Read More
-                                <span class="arrows mt-1">
-                                    <i class="fa-solid fa-arrow-right"></i>
-                                </span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".5s">
-                    <div class="program-item gra-border">
-                        <div class="icons gra-border round10 d-center">
-                            <img src="assets/img/aicon/car-icons3.png" alt="img">
-                        </div>
-                        <div class="content">
-                            <h4>
-                                <a href="lkg-ukg.php">UKG</a>
-                            </h4>
-                            <p>
-                            LKG (Lower Kindergarten) and UKG (Upper Kindergarten) are the initial stages of formal schooling, typically for children aged 3.5 to 6 years.
-                            </p>
-                            <a href="lkg-ukg.php" class="readmore d-flex align-items-center gap-2">
-                                Read More
-                                <span class="arrows mt-1">
-                                    <i class="fa-solid fa-arrow-right"></i>
-                                </span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-              
-               
-            </div>
-        </div>
-        <img src="assets/img/pencil.png" alt="img" class="program-child">
-    </section> -->
+
 
 
 
 <!-- Protfolio Section Start -->
 
-<section class="protfolio-sectionv1 overflow-hidden position-relative ">
+<section class="protfolio-sectionv1 overflow-hidden position-relative ">    
     <div class="container py-5">
         <div class="row justify-content-center">
             <div class="col-lg-6">
-                 <div class="section-title text-center mb-40">
+                <div class="section-title text-center mb-40">
                     <span class="sub-title wow fadeInUp p5-clr text font">
-                        Latest Portfolio
+                        Gallery
                     </span>
-        
-                  
+
+
                 </div>
             </div>
         </div>
         <div class="tabitem active mb-5">
-                        <div class="row align-items-start g-lg-4 g-2">
-                            <div class="col-lg-4 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
-                                <div class="protfolio-itemv1 position-relative overflow-hidden round10">
-                                    <img src="assets/img/port/1.png" alt="img">
-                                    <div class="protfolio-content-box p-lg-2 p-1">
-                                        <div class="box">
-                                            <h4>
-                                                <a href="gallery.php" class="white">
-                                                    Bluecrest Explore & Excell  School
-                                                </a>
-                                            </h4>
-                                            <!-- <p class="white">
+            <div class="row align-items-start g-lg-4 g-2">
+                <div class="col-lg-4 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
+                    <div class="protfolio-itemv1 position-relative overflow-hidden round10">
+                        <img src="assets/img/port/1.png" alt="img">
+                        <div class="protfolio-content-box p-lg-2 p-1">
+                            <div class="box">
+                                <h4>
+                                    <a href="gallery.php" class="white">
+                                       Arts
+                                    </a>
+                                </h4>
+                                <!-- <p class="white">
                                                  Dreamland Elementary 
                                             </p> -->
-                                        </div>
-                                        <a href="gallery.php" class="prot-arrow">
-                                            <i class="fa-solid fa-arrow-right"></i>
-                                        </a>
+                            </div>
+                            <a href="gallery.php" class="prot-arrow">
+                                <i class="fa-solid fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-8 col-md-8 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
+                    <div class="row g-lg-4 g-2">
+                        <div class="col-lg-8 col-md-6">
+                            <div class="protfolio-itemv1 position-relative overflow-hidden round10">
+                                <img src="assets/img/port/2.png" alt="img">
+                                <div class="protfolio-content-box p-lg-2 p-1">
+                                    <div class="box">
+                                        <h4>
+                                            <a href="gallery.php" class="white">
+                                              Playing
+                                            </a>
+                                        </h4>
+                                        <!-- <p class="white">
+                                                        Dreamland Elementary
+                                                    </p> -->
                                     </div>
+                                    <a href="gallery.php" class="prot-arrow">
+                                        <i class="fa-solid fa-arrow-right"></i>
+                                    </a>
                                 </div>
                             </div>
-                            <div class="col-lg-8 col-md-8 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
-                                <div class="row g-lg-4 g-2">
-                                    <div class="col-lg-8 col-md-6">
-                                        <div class="protfolio-itemv1 position-relative overflow-hidden round10">
-                                            <img src="assets/img/port/2.png" alt="img">
-                                            <div class="protfolio-content-box p-lg-2 p-1">
-                                                <div class="box">
-                                                    <h4>
-                                                        <a href="gallery.php" class="white">
-                                                        Bluecrest Explore & Excell  School
-                                                        </a>
-                                                    </h4>
-                                                    <!-- <p class="white">
+                        </div>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="protfolio-itemv1 position-relative overflow-hidden round10">
+                                <img src="assets/img/port/116.png" alt="img">
+                                <div class="protfolio-content-box p-lg-2 p-1">
+                                    <div class="box">
+                                        <h4>
+                                            <a href="gallery.php" class="white">
+                                              Watering for Plants
+                                            </a>
+                                        </h4>
+                                        <!-- <p class="white">
                                                         Dreamland Elementary
                                                     </p> -->
-                                                </div>
-                                                <a href="gallery.php" class="prot-arrow">
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
-                                            </div>
-                                        </div>
                                     </div>
-                                    <div class="col-lg-4 col-md-6">
-                                        <div class="protfolio-itemv1 position-relative overflow-hidden round10">
-                                            <img src="assets/img/port/116.png" alt="img">
-                                            <div class="protfolio-content-box p-lg-2 p-1">
-                                                <div class="box">
-                                                    <h4>
-                                                        <a href="gallery.php" class="white">
-                                                        Bluecrest Explore & Excell  School
-                                                        </a>
-                                                    </h4>
-                                                    <!-- <p class="white">
+                                    <a href="gallery.php" class="prot-arrow">
+                                        <i class="fa-solid fa-arrow-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6">
+                            <div class="protfolio-itemv1 position-relative overflow-hidden round10">
+                                <img src="assets/img/port/222.png" alt="img">
+                                <div class="protfolio-content-box p-lg-2 p-1">
+                                    <div class="box">
+                                        <h4>
+                                            <a href="gallery.php" class="white">
+                                              Discipline
+                                            </a>
+                                        </h4>
+                                        <!-- <p class="white">
                                                         Dreamland Elementary
                                                     </p> -->
-                                                </div>
-                                                <a href="gallery.php" class="prot-arrow">
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
-                                            </div>
-                                        </div>
                                     </div>
-                                    <div class="col-lg-6 col-md-6">
-                                        <div class="protfolio-itemv1 position-relative overflow-hidden round10">
-                                            <img src="assets/img/port/222.png" alt="img">
-                                            <div class="protfolio-content-box p-lg-2 p-1">
-                                                <div class="box">
-                                                    <h4>
-                                                        <a href="gallery.php" class="white">
-                                                        Bluecrest Explore & Excell  School
-                                                        </a>
-                                                    </h4>
-                                                    <!-- <p class="white">
+                                    <a href="gallery.php" class="prot-arrow">
+                                        <i class="fa-solid fa-arrow-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6">
+                            <div class="protfolio-itemv1 position-relative overflow-hidden round10">
+                                <img src="assets/img/port/111.png" alt="img">
+                                <div class="protfolio-content-box p-lg-2 p-1">
+                                    <div class="box">
+                                        <h4>
+                                            <a href="gallery.php" class="white">
+                                               Listening
+                                            </a>
+                                        </h4>
+                                        <!-- <p class="white">
                                                         Dreamland Elementary
                                                     </p> -->
-                                                </div>
-                                                <a href="gallery.php" class="prot-arrow">
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
-                                            </div>
-                                        </div>
                                     </div>
-                                    <div class="col-lg-6 col-md-6">
-                                        <div class="protfolio-itemv1 position-relative overflow-hidden round10">
-                                            <img src="assets/img/port/111.png" alt="img">
-                                            <div class="protfolio-content-box p-lg-2 p-1">
-                                                <div class="box">
-                                                    <h4>
-                                                        <a href="gallery.php" class="white">
-                                                        Bluecrest Explore & Excell  School
-                                                        </a>
-                                                    </h4>
-                                                    <!-- <p class="white">
-                                                        Dreamland Elementary
-                                                    </p> -->
-                                                </div>
-                                                <a href="gallery.php" class="prot-arrow">
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
+                                    <a href="gallery.php" class="prot-arrow">
+                                        <i class="fa-solid fa-arrow-right"></i>
+                                    </a>
                                 </div>
                             </div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
     </div>
     </div>
 </section>
@@ -484,7 +297,7 @@ include "header.php";
 
 <!-- professional Section Start -->
 <section class="professional-sectionv1 overflow-hidden mt-2 space-bottom position-relative">
-    
+
     <div class="container">
         <div class="row justify-content-center mb-60">
             <div class="col-lg-6">
@@ -497,582 +310,204 @@ include "header.php";
                     </h3>
                 </div>
             </div>
-     
-        <div class="row g-lg-4 g-3 justify-content-center">
-     
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="professional-item">
-                    <div class="thumb mb-24">
-                        <img src="assets/img/team/1.png" alt="img">
-                    </div>
-                    <div class="content our_team">
-                        <div class="mb-24">
-                            <h4 class="mb-2 ">
-                                <a href="#" class="black ">
-                                    Director
-                                </a>
-                            </h4>
-                            <!-- <span>
-                                    Marketing Coordinator
-                                </span> -->
+
+            <div class="row g-lg-4 g-3 justify-content-center">
+
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="professional-item">
+                        <div class="thumb mb-24">
+                            <img src="assets/img/team/1.png" alt="img">
                         </div>
-                        <!-- <div class="social-wrapper footer-social d-flex align-items-center">
-                                <a href="#" class="white"><i class="white fab fa-facebook-f"></i></a>
-                                <a href="#" class="white">
-                                    <svg width="11" height="12" viewBox="0 0 11 12" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg">
-                                        <path
-                                            d="M6.55735 5.16157L10.5183 0.65625H9.57971L6.14039 4.56816L3.39341 0.65625H0.225098L4.37906 6.57174L0.225098 11.2963H1.16378L4.79579 7.16516L7.6968 11.2963H10.8651L6.55712 5.16157H6.55735ZM5.2717 6.62386L4.85082 6.03481L1.502 1.34768H2.94375L5.64629 5.13034L6.06717 5.71939L9.58015 10.6363H8.13839L5.2717 6.62409V6.62386Z"
-                                            fill="white" />
-                                    </svg>
-                                </a>
-                                <a href="#" class="white"><i class="white fa-brands fa-linkedin-in"></i></a>
-                                <a href="#" class="white"><i class="white fa-brands fa-pinterest-p"></i></a>
-                            </div> -->
+                        <div class="content our_team">
+                            <div class="mb-24">
+                                <h4 class="mb-2 ">
+                                    <a href="#" class="black ">
+                                        Director
+                                    </a>
+                                </h4>
+
+                            </div>
+
+                        </div>
                     </div>
                 </div>
-            </div>
-        </a>
-           
-      
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="professional-item">
-                    <div class="thumb mb-24">
-                        <img src="assets/img/team/2.png" alt="img">
-                    </div>
-                    <div class="content our_team">
-                        <div class="mb-24">
-                            <h4 class="mb-2">
-                                <a href="#" class="black">
-                                    Director
-                                </a>
-                            </h4>
-                            <!-- <span>
-                                    Marketing Coordinator
-                                </span> -->
+                </a>
+
+
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="professional-item">
+                        <div class="thumb mb-24">
+                            <img src="assets/img/team/2.png" alt="img">
                         </div>
-                        <!-- <div class="social-wrapper footer-social d-flex align-items-center">
-                                <a href="#" class="white"><i class="white fab fa-facebook-f"></i></a>
-                                <a href="#" class="white">
-                                    <svg width="11" height="12" viewBox="0 0 11 12" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg">
-                                        <path
-                                            d="M6.55735 5.16157L10.5183 0.65625H9.57971L6.14039 4.56816L3.39341 0.65625H0.225098L4.37906 6.57174L0.225098 11.2963H1.16378L4.79579 7.16516L7.6968 11.2963H10.8651L6.55712 5.16157H6.55735ZM5.2717 6.62386L4.85082 6.03481L1.502 1.34768H2.94375L5.64629 5.13034L6.06717 5.71939L9.58015 10.6363H8.13839L5.2717 6.62409V6.62386Z"
-                                            fill="white" />
-                                    </svg>
-                                </a>
-                                <a href="#" class="white"><i class="white fa-brands fa-linkedin-in"></i></a>
-                                <a href="#" class="white"><i class="white fa-brands fa-pinterest-p"></i></a>
-                            </div> -->
+                        <div class="content our_team">
+                            <div class="mb-24">
+                                <h4 class="mb-2">
+                                    <a href="#" class="black">
+                                        Director
+                                    </a>
+                                </h4>
+
+                            </div>
+
+                        </div>
                     </div>
                 </div>
-            </div>
-      
-           
-    
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="professional-item">
-                    <div class="thumb mb-24">
-                        <img src="assets/img/team/3.png" alt="img">
-                    </div>
-                    <div class="content our_team">
-                        <div class="mb-24">
-                            <h4 class="mb-2">
-                                <a href="#" class="black">
-                                  Director
-                                </a>
-                            </h4>
-                            <!-- <span>
-                                    Marketing Coordinator
-                                </span> -->
+
+
+
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="professional-item">
+                        <div class="thumb mb-24">
+                            <img src="assets/img/team/3.png" alt="img">
                         </div>
-                        <!-- <div class="social-wrapper footer-social d-flex align-items-center">
-                                <a href="#" class="white"><i class="white fab fa-facebook-f"></i></a>
-                                <a href="#" class="white">
-                                    <svg width="11" height="12" viewBox="0 0 11 12" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg">
-                                        <path
-                                            d="M6.55735 5.16157L10.5183 0.65625H9.57971L6.14039 4.56816L3.39341 0.65625H0.225098L4.37906 6.57174L0.225098 11.2963H1.16378L4.79579 7.16516L7.6968 11.2963H10.8651L6.55712 5.16157H6.55735ZM5.2717 6.62386L4.85082 6.03481L1.502 1.34768H2.94375L5.64629 5.13034L6.06717 5.71939L9.58015 10.6363H8.13839L5.2717 6.62409V6.62386Z"
-                                            fill="white" />
-                                    </svg>
-                                </a>
-                                <a href="#" class="white"><i class="white fa-brands fa-linkedin-in"></i></a>
-                                <a href="#" class="white"><i class="white fa-brands fa-pinterest-p"></i></a>
-                            </div> -->
+                        <div class="content our_team">
+                            <div class="mb-24">
+                                <h4 class="mb-2">
+                                    <a href="#" class="black">
+                                        Director
+                                    </a>
+                                </h4>
+
+                            </div>
+
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    </a>
+        </a>
 </section>
 
-<!-- Knowledge Section Start -->
-<section class="knowledge-section cmn-bg  overflow-hidden space-bottom position-relative">
+
+
+
+
+<section class="knowledge-section cmn-bg overflow-hidden position-relative">
     <div class="container">
-        <div class="row justify-content-md-between justify-content-center align-items-center g-4">
-            <div class="col-lg-5 col-md-5 col-sm-10">
+        <div class="row justify-content-center align-items-center g-4">
+            <div class="col-lg-5 col-md-6 col-sm-12 text-center text-md-start">
                 <div class="knowledge-content">
                     <div class="section-title">
-                        <span class="sub-title wow fadeInUp p5-clr text font">
-                            Student knowledge
-                        </span>
+                        <span class="sub-title wow fadeInUp p5-clr text font">Student knowledge</span>
                         <h3 class="m-title wow fadeInUp black mb-sm-3 mb-2" data-wow-delay=".3s">
-                            Knowledge for All learn design Excellence for Everyone
+                            Knowledge for All, Learn Design Excellence for Everyone
                         </h3>
                         <p class="mb-24 wow fadeInUp" data-wow-delay=".4s">
-                            Children between the ages of 3 to 10 years go through significant cognitive, social, emotional, and physical development. Their learning needs change as they progress through early childhood, primary, and middle school years.
+                            Children between the ages of 3 to 15 years go through significant cognitive, social, emotional, and physical development. Their learning needs change as they progress through early childhood, primary, and middle school years.
                         </p>
                         <a href="about.php" class="theme-btn p3-bg py-3">
-                            <button class="btn_bg">
-                                Learn More
-                            </button>
+                            <button class="btn_bg">Learn More</button>
                         </a>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-7 col-md-7">
+            <div class="col-lg-7 col-md-6 col-sm-12">
                 <div class="knowledge-box-wrap">
-                    <div class="knowledge-inner d-grid gap-xxl-4 gap-xl-3 gap-2">
-                        <div class="knowledge-big-item d-center left">
-                            <h2 class="white">
-                                1-2
-                                <span class="d-block">
-                                    Years
-                                </span>
-                            </h2>
+                    <div class="d-flex flex-wrap justify-content-center gap-3">
+                        <div class="knowledge-big-item">
+                            <img src="assets/img/port/1.png" class="img-fluid rounded" alt="" style="max-width: 230px;">
                         </div>
-                        <div class="knowledge-item knowledge-left d-center or_clr">
-                            <div class="box">
-                                <h3 class="white">
-                                    12-15
-                                    <span class="d-block">
-                                        Years
-                                    </span>
-                                </h3>
-                            </div>
+                        <div class="knowledge-item">
+                            <img src="assets/img/port/116.png" class="img-fluid rounded" alt="" style="max-width: 130px;">
                         </div>
                     </div>
-
-                    <div class="knowledge-inner d-grid gap-xxl-4 gap-xl-3 gap-2">
-                        <div class="knowledge-item d-center og_clr">
-                            <div class="box">
-                                <h3 class="white">
-                                    3-5
-                                    <span class="d-block">
-                                        Years
-                                    </span>
-                                </h3>
-                            </div>
+                    <div class="d-flex flex-wrap justify-content-center gap-3 mt-3">
+                        <div class="knowledge-item">
+                            <img src="assets/img/port/3.png" class="img-fluid rounded" alt="" style="max-width: 130px;">
                         </div>
-                        <div class="knowledge-item d-center top">
-                            <div class="box">
-                                <h3 class="white">
-                                    6-8
-                                    <span class="d-block">
-                                        Years
-                                    </span>
-                                </h3>
-                            </div>
+                        <div class="knowledge-item">
+                            <img src="assets/img/port/6.png" class="img-fluid rounded" alt="" style="max-width: 130px;">
                         </div>
-                        <div class="knowledge-item d-center down">
-                            <div class="box">
-                                <h3 class="white">
-                                    16-18
-                                    <span class="d-block">
-                                        Years
-                                    </span>
-                                </h3>
-                            </div>
+                        <div class="knowledge-item">
+                            <img src="assets/img/port/444.png" class="img-fluid rounded" alt="" style="max-width: 130px;">
                         </div>
                     </div>
-                    <div class="knowledge-inner d-grid gap-xxl-4 gap-xl-3 gap-2">
-                        <div class="knowledge-item d-center right">
-                            <div class="box">
-                                <h3 class="white">
-                                    9-11
-                                    <span class="d-block">
-                                        Years
-                                    </span>
-                                </h3>
-                            </div>
+                    <div class="d-flex flex-wrap justify-content-center gap-3 mt-3">
+                        <div class="knowledge-item">
+                            <img src="assets/img/port/118.png" class="img-fluid rounded" alt="" style="max-width: 130px;">
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- Element -->
     <img src="assets/img/about/knowledge-lshpe.png" alt="img" class="knowledge-shapeleft d-xl-block d-none">
     <img src="assets/img/tortose.png" alt="img" class="knowledge-animal">
 </section>
 
-<!-- Testimonial V1 Section Start -->
-<!-- <section class="testimonial-sectionv1 section-padding overflow-hidden white-bg">
-        <div class="container">
-            <div class="row g-2 justify-content-between mb-60">
-                <div class="col-lg-4 col-md-5">
-                    <div class="section-title">
-                        <span class="sub-title wow fadeInUp p5-clr text">
-                            Clients Testimonial
-                        </span>
-                        <h3 class="m-title wow fadeInUp black" data-wow-delay=".3s">
-                            Unlocking the Power of Wonderworks Child
-                        </h3>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    Use receiving accounts a number a currencies and get paid like a local Use receivin accounts a
-                    number paid the most
-                    beautiful think
-                </div>
-            </div>
-            <div class="testimonial-innerbox">
-                <div class="row justify-content-end">
-                    <div class="col-lg-6 col-md-7 col-sm-8">
-                        <div class="swiper testimonial-slidewrap01">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <div class="testimonial-item01">
-                                        <div class="d-flex align-items-center justify-content-between gap-1">
-                                            <div class="man-info d-flex align-items-center">
-                                                <div class="thumb">
-                                                    <img src="assets/img/alexa.png" alt="" class="radius">
-                                                </div>
-                                                <div class="cont">
-                                                    <h4 class="black mb-1">
-                                                        Alex smith
-                                                    </h4>
-                                                    <span class="black fw-normal">
-                                                        Marketing manager
-                                                    </span>
-                                                </div>
-                                            </div>
-                                            <img src="assets/img/atestimonial/quote.png" alt="img" class="quote-testi">
-                                        </div>
-                                        <p class="pra mt-24 mb-40">
-                                            Their product exceeded his my routi expectations. The the quality and
-                                            attention to detail a the a
-                                            most outstanding and
-                                            it has become an essential most a education the man who can do
-                                        </p>
-                                        <div class="ratting-area d-flex align-items-center gap-2">
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star-half-alt"></i>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+
+
+
+
+
+
+<section class="py-5">
+    <div class="container">
+        <div class="section-title text-center mb-40 mt-5">
+            <span class="sub-title p5-clr text font">
+                Our Testimonials
+            </span>
+        </div>
+
+        <div class="row">
+            <!-- Testimonial Card 1 -->
+            <div class="col-12 col-md-6 col-lg-4 mb-3">
+                <div class="testimonial-card p-4 shadow rounded bg-white">
+                    <div class="d-flex align-items-center">
+                        <img src="assets/img/team/4.png" alt="Madhavi S.B.S" class="rounded-circle" width="60">
+                        <div class="ms-3">
+                            <h5 class="mb-1">Madhavi S.B.S</h5>
                         </div>
                     </div>
+                    <p class="mt-3">Bluecrest School is one of the best in Kakinada. The teachers are supportive and
+                        easy to reach. Love the individual attention given to my daughter.</p>
+                    <div class="text-warning">
+                        ★★★★★
+                    </div>
                 </div>
             </div>
+
+            <!-- Testimonial Card 2 -->
+            <div class="col-12 col-md-6 col-lg-4 mb-3">
+                <div class="testimonial-card p-4 shadow rounded bg-white">
+                    <div class="d-flex align-items-center">
+                        <img src="assets/img/team/6.png" alt="Gayathri" class="rounded-circle" width="60">
+                        <div class="ms-3">
+                            <h5 class="mb-1">Gayathri</h5>
+                        </div>
+                    </div>
+                    <p class="mt-3">Best school in Kakinada with a beautiful environment. Excellent studies and
+                        extracurricular activities.</p>
+                    <div class="text-warning">
+                        ★★★★☆
+                    </div>
+                </div>
+            </div>
+
+            <!-- Testimonial Card 3 -->
+            <div class="col-12 col-md-6 col-lg-4 mb-3">
+                <div class="testimonial-card p-4 shadow rounded bg-white">
+                    <div class="d-flex align-items-center">
+                        <img src="assets/img/team/7.png" alt="Durga Deepika Kannaji" class="rounded-circle" width="60">
+                        <div class="ms-3">
+                            <h5 class="mb-1">Durga Deepika Kannaji</h5>
+                        </div>
+                    </div>
+                    <p class="mt-3">Great facilities and a caring environment. My child loves coming to school every
+                        day.</p>
+                    <div class="text-warning">
+                        ★★★★★
+                    </div>
+                </div>
+            </div>
+
+
+
+
         </div>
-    </section> -->
-
-
-    <div class="section-title text-center mb-40">
-                    <span class="sub-title wow fadeInUp p5-clr text font">
-                        Our Testimonials
-                    </span>
-                  
     </div>
-
-<section>
-    <div class="container ">
-        <div class="container-fluid py-5">
-
-            <div class="custom-slide-container swiper">
-                <div class="custom-slide-content">
-                    <div class="custom-card-wrapper swiper-wrapper py-5 sliders">
-
-
-
-
-
-
-
-
-                        <div class="custom-card custom_card_bg_two swiper-slide col-12 col-md-6 col-lg-4">
-                            <div class="testimonial-item01">
-                                <div class="d-flex align-items-center justify-content-between gap-1">
-                                    <div class="man-info d-flex align-items-center">
-                                        <div class="thumb">
-                                            <img src="assets/img/team/4.png" alt="" class="radius">
-                                        </div>
-                                        <div class="cont">
-                                            <h4 class="black mb-1">
-                                                Madhavi S.B.S
-                                            </h4>
-                                            <span class="black fw-normal">
-
-                                            </span>
-                                        </div>
-                                    </div>
-                                    <img src="assets/img/atestimonial/quote.png" alt="img" class="quote-testi">
-                                </div>
-                                <p class="pra mt-24 mb-40">
-
-                                    Bluecrest School is one of the best in kakinada. It has been a great experience for our kid and us. The staff and teachers r supportive and easy to reach. Love the individual attention given to my daughter.
-                                </p>
-                                <div class="ratting-area d-flex align-items-center gap-2">
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star-half-alt"></i>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="custom-card custom_card_bg_two swiper-slide col-12 col-md-6 col-lg-4">
-                            <div class="testimonial-item01">
-                                <div class="d-flex align-items-center justify-content-between gap-1">
-                                    <div class="man-info d-flex align-items-center">
-                                        <div class="thumb">
-                                            <img src="assets/img/team/6.png" alt="" class="radius">
-                                        </div>
-                                        <div class="cont">
-                                            <h4 class="black mb-1">
-                                                Gayathri
-                                            </h4>
-                                            <!-- <span class="black fw-normal">
-                                                        Marketing manager
-                                                    </span> -->
-                                        </div>
-                                    </div>
-                                    <img src="assets/img/atestimonial/quote.png" alt="img" class="quote-testi">
-                                </div>
-                                <p class="pra mt-24 mb-40">
-                                    I never saw such a wost school. please don't take admission in this school. my daughter suffered a lot. They will not take care of the child so many accidents took place in the school even they don't care. worst school. High fee will be charged. No Ac will work. They blame parents with words. Think future of your kid before stepping into this school. Even they ask parents to give positive reviews. Please think once and twice.
-                                </p>
-                                <div class="ratting-area d-flex align-items-center gap-2">
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star-half-alt"></i>
-                                </div>
-                            </div>
-
-                        </div>
-
-                        <div class="custom-card custom_card_bg_two swiper-slide col-12 col-md-6 col-lg-4">
-
-                            <div class="testimonial-item01">
-                                <div class="d-flex align-items-center justify-content-between gap-1">
-                                    <div class="man-info d-flex align-items-center">
-                                        <div class="thumb">
-                                            <img src="assets/img/team/7.png" alt="" class="radius">
-                                        </div>
-                                        <div class="cont">
-                                            <h4 class="black mb-1">
-                                                Durga Deepika Kannaji
-                                            </h4>
-
-                                        </div>
-                                    </div>
-                                    <img src="assets/img/atestimonial/quote.png" alt="img" class="quote-testi">
-                                </div>
-                                <p class="pra mt-24 mb-40">
-                                    Best school in kakinada with beautiful environment. Best in studies and extracircular activities and taking care of kids.
-                                </p>
-                                <div class="ratting-area d-flex align-items-center gap-2">
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star-half-alt"></i>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="custom-card custom_card_bg_two swiper-slide col-12 col-md-6 col-lg-4">
-                            <div class="testimonial-item01">
-                                <div class="d-flex align-items-center justify-content-between gap-1">
-                                    <div class="man-info d-flex align-items-center">
-                                        <div class="thumb">
-                                            <img src="assets/img/team/4.png" alt="" class="radius">
-                                        </div>
-                                        <div class="cont">
-                                            <h4 class="black mb-1">
-                                                BHAVANI 
-                                            </h4>
-
-                                        </div>
-                                    </div>
-                                    <img src="assets/img/atestimonial/quote.png" alt="img" class="quote-testi">
-                                </div>
-                                <p class="pra mt-24 mb-40">
-                                    Good study &Good communication skills and excellent teaching & Non teaching staff
-                                    My choice only The bluecrest school
-                                </p>
-                                <div class="ratting-area d-flex align-items-center gap-2">
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star-half-alt"></i>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="custom-card custom_card_bg_two swiper-slide col-12 col-md-6 col-lg-4">
-                            <div class="testimonial-item01">
-                                <div class="d-flex align-items-center justify-content-between gap-1">
-                                    <div class="man-info d-flex align-items-center">
-                                        <div class="thumb">
-                                            <img src="assets/img/team/5.png" alt="" class="radius">
-                                        </div>
-                                        <div class="cont">
-                                            <h4 class="black mb-1">
-
-                                                Veerayya Chowdary
-
-                                            </h4>
-
-                                        </div>
-                                    </div>
-                                    <img src="assets/img/atestimonial/quote.png" alt="img" class="quote-testi">
-                                </div>
-                                <p class="pra mt-24 mb-40">
-                                    Great facilities. Children love the pets.
-                                </p>
-                                <div class="ratting-area d-flex align-items-center gap-2">
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star-half-alt"></i>
-                                </div>
-                            </div>
-                        </div>
-
-
-
-
-
-
-
-
-
-
-
-                        <script>
-                            var swiper = new Swiper(".custom-slide-content", {
-                                slidesPerView: 3,
-                                spaceBetween: 25,
-                                loop: true,
-                                centerSlide: 'true',
-                                fade: 'true',
-                                grabCursor: 'true',
-                                pagination: {
-                                    el: ".custom-swiper-pagination",
-                                    clickable: true,
-                                    dynamicBullets: true,
-                                },
-                                autoplay: {
-                                    delay: 3000, // Time in milliseconds between automatic slides (3 seconds here)
-                                    disableOnInteraction: false, // Keeps autoplay active even after manual swiping
-                                },
-                                navigation: {
-                                    nextEl: ".swiper-button-next.custom-swiper-navBtn",
-                                    prevEl: ".swiper-button-prev.custom-swiper-navBtn",
-                                },
-
-                                breakpoints: {
-                                    0: {
-                                        slidesPerView: 1,
-                                    },
-                                    520: {
-                                        slidesPerView: 2,
-                                    },
-                                    950: {
-                                        slidesPerView: 3,
-                                    },
-                                },
-                            });
-                        </script>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-
 </section>
 
-
-
-
-
-<!-- <section class="stay-section pt-50 pb-50 cmn-bg overflow-hidden position-relative stay_bg">
-        <div class="container ">
-            <div class="row justify-content-between align-items-center g-4">
-                <div class="col-lg-5 col-md-6 col-sm-7">
-                    <div class="stay-content">
-                        <div class="section-title">
-                            <span class="sub-title wow fadeInUp black text">
-                                Stay With Us
-                            </span>
-                            <h3 class="m-title wow fadeInUp black mb-sm-3 mb-2" data-wow-delay=".3s">
-                                The path to success starts with education
-                            </h3>
-                            <p class="mb-24 pra wow fadeInUp" data-wow-delay=".4s">
-                            At [The BlueCrest School], we create a loving and nurturing environment where your little one learns, plays, and grows every day. With our fun-filled activities, caring teachers, and a safe space to explore, your child’s first learning experience will be full of joy and excitement!
-                            </p>
-                            <a href="contact.php" class="theme-btn round100 p2-bg py-3">
-                            <button class="btn_bg">
-                                    Read More
-                                </button>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 me-xl-5 col-sm-5">
-                    <div class="stay-thumb w-100">
-                        <img src="assets/img/Untitled_design__23_-removebg-preview.png" alt="img" class="w-100">
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Element-->
-<!--<img src="assets/img/aservices/stay-shape.png" alt="img" class="stay-element">
-    </section> -->
-
-<!--<< Inspair Section Start >>-->
-<!-- <section class="inspair-section position-relative overflow-hidden">
-        <div class="container">
-            <div class="row flex-row-reverse g-4 align-items-end justify-content-between">
-                <div class="col-lg-5 col-md-6 col-sm-7">
-                    <div class="inspair-content">
-                        <div class="section-title mb-40">
-                            <span class="sub-title wow fadeInUp black">Get Connected</span>
-                            <h3 class="m-title wow fadeInUp black" data-wow-delay=".3s">
-                                Education That Sparks Imaginat Nurturing Curiosity Inspire
-                            </h3>
-                        </div>
-                        <form action="#" class="footer-form wow fadeInUp" data-wow-delay=".4s">
-                            <input type="text" placeholder="Enter Your Email">
-                            <button type="button" class="white d-flex align-content-center gap-2">
-                                Submit
-                                <i class="fa-solid fa-arrow-right"></i>
-                            </button>
-                        </form>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-5">
-                    <div class="inspainr-thumb-box">
-                        <div class="inspair-thumb">
-                            <img src="assets/img/ainspair/inspair-thumb.png" alt="img">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
 
 
 

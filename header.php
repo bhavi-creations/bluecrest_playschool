@@ -33,24 +33,24 @@
     <link rel="stylesheet" href="assets/css/main.css">
 
     <link rel="stylesheet" href="style.css">
-     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 
-     <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"> -->
+    <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"> -->
 
 
 
-     
-        <!-- imageslider -->
 
-        <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/freeps2/a7rarpress@main/swiper-bundle.min.css">
-            <!-- imageslider -->
+    <!-- imageslider -->
+
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/freeps2/a7rarpress@main/swiper-bundle.min.css">
+    <!-- imageslider -->
 
 
 </head>
 
 <body>
- 
+
     <!-- Offcanvas Area Start -->
     <div class="fix-area">
         <div class="offcanvas__info">
@@ -59,8 +59,8 @@
                     <div class="offcanvas__top mb-4 d-flex justify-content-between align-items-center">
                         <div class="offcanvas__logo">
                             <a href="index.php">
-                            <img src="assets/img/Blue_logo-removebg-preview.png" alt="logo-img" class="img-fluid "    style="width:250px" >
-  
+                                <img src="assets/img/nnnnnnn.png" alt="logo-img" class="img-fluid ">
+
                             </a>
                         </div>
                         <div class="offcanvas__close">
@@ -86,7 +86,7 @@
                                     <i class="fal fa-envelope text"></i>
                                 </div>
                                 <div class="offcanvas__contact-text">
-                                    <a href="mailto:info@example.com" ><span
+                                    <a href="mailto:info@example.com"><span
                                             class="mailto:info@example.com">info@example.com</span></a>
                                 </div>
                             </li>
@@ -135,28 +135,32 @@
     <div class="header-top-section d-lg-block d-none  head-top">
         <div class="container">
             <div class="header-top-wrapper">
-                 <div class="header-left">
-                        <div class="logo">
-                            <a href="index.php" class="header-logo">
-                            <img src="assets/img/Blue_logo-removebg-preview.png" alt="logo-img" class="img-fluid"   style="width:250px"  >
-                            </a>
-                        </div>
-                    </div> 
+                <div class="header-left">
+                    <div class="logo">
+                        <a href="index.php" class="header-logo">
+                            <img src="assets/img/nnnnnnn.png" alt="logo-img" class="img-fluid">
+                        </a>
+                    </div>
+                </div>
                 <ul class="contact-list">
                     <li>
                         <i class="fal fa-phone text-black"><span class="family"> 7993116666,7993118888</span></i>
-                        
+
                     </li>
                     <li>
                         <i class="far fa-envelope text-black"></i>
                         <a href="info@example.com" class="link text-black">thebluecrestschool@gmail.com</a>
                     </li>
-                  
+
                 </ul>
                 <div class="social-wrapper d-flex align-items-center">
 
-                    <a href="https://www.facebook.com/thebluecrestschool/" class="white "><i class="fa-brands fa-facebook-f"></i></a>
-                    <a href="https://www.youtube.com/@bluecrestschool6685/" class="white"><i class="fa-brands fa-youtube"></i></i></a>
+                    <a href="https://www.facebook.com/thebluecrestschool/" class="white "><i
+                            class="fa-brands fa-facebook-f"></i></a>
+                    <a href="https://www.youtube.com/@bluecrestschool6685/" class="white"><i
+                            class="fa-brands fa-youtube"></i></i></a>
+                    <a href="https://www.youtube.com/@bluecrestschool6685/" class="white"><i
+                            class="fa-brands fa-instagram"></i></i></a>
 
 
                 </div>
@@ -166,7 +170,16 @@
 
 
 
-<!-- 
+
+
+  
+
+
+
+
+
+
+    <!-- 
     <div class="header-top-section d-lg-block d-none top ">
         <div class="container">
              <div class="header-top-wrapper"> 
@@ -216,13 +229,13 @@
         <div class="container">
             <div class="mega-menu-wrapper">
                 <div class="header-main style-2">
-                    <!-- <div class="header-left">
-                        <div class="logo">
+                    <div class="header-left">
+                        <div class="logo d-block  d-lg-none">
                             <a href="index.php" class="header-logo">
-                            <img src="assets/img/crestlogo-removebg.png" alt="logo-img" class="img-fluid " style="width:200px">
+                                <img src="assets/img/nnnnnnn.png" alt="logo-img" class="img-fluid ">
                             </a>
                         </div>
-                    </div> -->
+                    </div>
                     <div class="header-right d-flex justify-content-end align-items-center">
                         <div class="mean__menu-wrapper">
                             <div class="main-menu">
@@ -231,9 +244,9 @@
                                         <li class="has-dropdown active menu-thumb">
                                             <a href="index.php" class="text-white">
                                                 Home
-                                              
+
                                             </a>
-                                           
+
                                         </li>
                                         <li>
                                             <a href="about.php" class="text-white">
@@ -246,24 +259,24 @@
                                                         Vission and Values
 
                                                     </a>
-                                          
+
                                                 </li>
                                                 <li>
                                                     <a href="ourteam.php">
                                                         Our Team
                                                     </a>
                                                 </li>
-                                              
 
-                                            
-                                               
-                                
+
+
+
+
 
                                                 <li><a href="achievments.php">Achievments</a></li>
-                                              
+
                                             </ul>
                                         </li>
-                                     
+
                                         <li>
                                             <a href="academics.php" class="text-white">
                                                 Academics
@@ -275,11 +288,11 @@
 
 
                                                     </a>
-                                        
+
                                                 </li>
                                                 <li><a href="primary.php">Primary</a></li>
 
-                                              
+
 
                                             </ul>
                                         </li>
@@ -289,7 +302,8 @@
                                                 <i class="fas fa-angle-down"></i>
                                             </a>
                                             <ul class="submenu">
-                                                <li><a href="daycare&enrichmentcentre.php">Day care & Enrichment Center</a></li>
+                                                <li><a href="daycare&enrichmentcentre.php">Day care & Enrichment
+                                                        Center</a></li>
                                                 <li>
                                                     <a href="co-curricularactivities.php" class="letter">
                                                         Co-Curricular Activities
@@ -297,39 +311,39 @@
 
                                                     </a>
                                                     <ul class="submenu">
-                                                           <li><a href="computerliteracy.php">Computer Literacy</a></li>
-                                                           <li><a href="sports.php">Sports</a></li>
-                                                           
-                                                        
-                                                        </ul>
+                                                        <li><a href="computerliteracy.php">Computer Literacy</a></li>
+                                                        <li><a href="sports.php">Sports</a></li>
+
+
+                                                    </ul>
 
                                                 </li>
 
                                                 <li>
                                                     <a href="extra-curricular.php">
                                                         Extra-Curricular
-                                                    
-                                                    
-                                                        
-                                                    </a>      
-                                                    
+
+
+
+                                                    </a>
+
 
                                                 </li>
                                                 <li>
                                                     <a href="events.php">
                                                         Events
-                                                       
-                                                    </a>    
-                                                    
-                                                 
+
+                                                    </a>
+
+
                                                 </li>
                                                 <li>
                                                     <a href="celebrations.php">
                                                         Celebrations
-                                                        
-                                                     
+
+
                                                     </a>
-                                                  
+
                                                 </li>
 
                                             </ul>
@@ -342,7 +356,7 @@
                                         <li>
                                             <a href="testimonials.php" class="text-white">Testimonials</a>
                                         </li>
-                                      
+
                                         <li>
                                             <a href="contact.php" class="text-white">Get in touch</a>
                                         </li>
@@ -350,17 +364,18 @@
                                 </nav>
                             </div>
                         </div>
-                     
+
                         <div class="header-button d-sm-block d-none">
-                        <a href="https://api.whatsapp.com/send?phone=9848424956" style="color: #fff;"  target="_blank">
+                            <a href="https://api.whatsapp.com/send?phone=9848424956" style="color: #fff;"
+                                target="_blank">
 
                                 <button class="whatsapp">
                                     Enquire Now
                                 </button>
-                              
-                        </a>
 
-                             
+                            </a>
+
+
                         </div>
                         <div class="header__hamburger d-xl-none my-auto">
                             <div class="sidebar__toggle">

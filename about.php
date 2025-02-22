@@ -45,12 +45,10 @@
                         </h3>
                         <p class="mb-24 wow fadeInUp" data-wow-delay=".4s">
                             BlueCrest School offers a comprehensive early childhood education program designed to foster holistic development in young learners. The school's playgroup and nursery sections provide a nurturing environment where children engage in activities that promote cognitive, social, emotional, and physical growth.
+                            we believe that the early years of a child’s life are the most crucial for building a strong foundation for lifelong learning. Our play school is designed to provide a safe, nurturing, and stimulating environment where children can explore, learn, and grow through play-based activities.
+
                         </p>
-                        <a href="about.php" class=" gra-border2">
-                            <button class="btn_bg">
-                                Read More
-                            </button>
-                        </a>
+                     
                     </div>
                 </div>
             </div>

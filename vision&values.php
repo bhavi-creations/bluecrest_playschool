@@ -2,9 +2,9 @@
 include "header.php";
 ?>
 <section class="mb-5">
-  <div class="container">
+  <div class="container mt-4">
     <div class="row mt-3">
-      <div class="container-fluid py-4">
+      <div class="container-fluid ">
         <!-- <h2 class="text-center">Vision</h2> -->
 
         <div class="section-title text-center mb-40 ">
@@ -34,9 +34,12 @@ include "header.php";
       </div>
     </div>
   </div>
+  <img src="assets/img/about/knowledge-lshpe.png" alt="img" class="knowledge-shapeleft d-xl-block d-none" class="img-fluid">
+
 </section>
 
-<section class="mb-5">
+
+<section class="mb-5 top_space">
   <div class="container">
     <div class="row ">
       <div class="container-fluid py-4">
@@ -131,10 +134,12 @@ include "header.php";
 
     </div>
   </div>
+  <!-- <img src="assets/img/about/knowledge-lshpe.png" alt="img" class="knowledge-shapeleft d-xl-block d-none" class="img-fluid"> -->
+
 </section>
 
 
-<section class="mb-5">
+<section class="mb-5 ">
   <div class="container">
     <div class="row ">
       <div class="container-fluid py-4">

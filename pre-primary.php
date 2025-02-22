@@ -19,7 +19,7 @@ include "header.php";
 
 <section>
     <div class="container-fluid bottom">
-        <img src="assets/img/testimonial.png" class="img-fluid" alt="">
+        <img src="assets/img/primary.png" class="img-fluid" alt="">
     </div>
 </section>
 
