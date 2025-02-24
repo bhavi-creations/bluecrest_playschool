@@ -2,21 +2,6 @@
 include "header.php";
 ?>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <section>
     <div class="container-fluid bottom">
         <img src="assets/img/primary.png" class="img-fluid" alt="">
@@ -24,9 +9,9 @@ include "header.php";
 </section>
 
 
-<div class="container-fluid ">
+<!-- <div class="container-fluid "> -->
         <!-- <h2 class="text-center">Vision</h2> -->
-
+ 
         <div class="section-title text-center mb-40 ">
 
 
@@ -36,18 +21,18 @@ include "header.php";
             Pre-Primary
 
           </h3>
-        </div>
+       </div>
 
 
 
-<div class="container mt-5 mb-5 space-bottom">
+<div class="container mt-5  space-bottom">
     <div class="row">
 
-        <div class="col-md-6 col-lg-3 col-12">
+        <div class="col-md-6 col-lg-3 col-12 mb-3">
             <div class="flip-card">
                 <div class="flip-card-inner">
 
-                    <div class="flip-card-front primary_bg">
+                    <div class="flip-card-front primary_bg ">
                         <img src="assets/img/beyond/1.png" alt="Playgroup">
                         <div class="card-body">
                             <h5 class="card-title mt-4  ">Playgroup <i class="fa-light fa-circle-plus"></i></h5>
@@ -83,10 +68,10 @@ include "header.php";
         </div>
 
 
-        <div class="col-md-6 col-lg-3 col-12">
+        <div class="col-md-6 col-lg-3 col-12 mb-3">
             <div class="flip-card">
                 <div class="flip-card-inner">
-                    <div class="flip-card-front primary_bg">
+                    <div class="flip-card-front primary_bg ">
                         <img src="assets/img/beyond/6.png" alt="Nursery">
                         <div class="card-body">
                             <h5 class="card-title mt-4">Nursery <i class="fa-light fa-circle-plus"></i></h5>
@@ -122,10 +107,10 @@ include "header.php";
         </div>
 
 
-        <div class="col-md-6 col-lg-3 col-12">
+        <div class="col-md-6 col-lg-3 col-12 mb-3">
             <div class="flip-card">
                 <div class="flip-card-inner">
-                    <div class="flip-card-front primary_bg">
+                    <div class="flip-card-front primary_bg ">
                         <img src="assets/img/beyond/3.png" alt="LKG">
                         <div class="card-body">
                             <h5 class="card-title mt-4">LKG <i class="fa-light fa-circle-plus"></i></h5>
@@ -161,10 +146,10 @@ include "header.php";
         </div>
 
 
-        <div class="col-md-6 col-lg-3 col-12">
+        <div class="col-md-6 col-lg-3 col-12 mb-3">
             <div class="flip-card">
                 <div class="flip-card-inner">
-                    <div class="flip-card-front primary_bg">
+                    <div class="flip-card-front primary_bg ">
                         <img src="assets/img/beyond/4.png" alt="UKG">
                         <div class="card-body">
                             <h5 class="card-title mt-4">UKG<i class="fa-light fa-circle-plus"></i></h5>

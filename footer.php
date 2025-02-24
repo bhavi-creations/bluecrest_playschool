@@ -121,9 +121,9 @@
                            <div class="footer-content mt-4 ">
                                <div class="social-wrapper d-flex align-items-center ">
 
-                                   <a href="https://www.facebook.com/thebluecrestschool/" class="white"><i class="text-white  fa-brands fa-facebook-f"></i></a>
+                                   <a href="https://www.facebook.com/thebluecrestschool/" target="_blank" class="white"><i class="text-white  fa-brands fa-facebook-f"></i></a>
                                    <a href="#" class="white"><i class="text-white  fa-brands fa-instagram"></i></i></a>
-                                   <a href="https://www.youtube.com/@bluecrestschool6685/" class="white"><i class="text-white  fa-brands fa-youtube"></i></i></a>
+                                   <a href="https://www.youtube.com/@bluecrestschool6685/" target="_blank" class="white"><i class="text-white  fa-brands fa-youtube"></i></i></a>
 
 
 

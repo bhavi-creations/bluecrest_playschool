@@ -382,8 +382,7 @@ include "header.php";
 
 
 
-
-<section class="knowledge-section cmn-bg overflow-hidden position-relative">
+ <!-- <section class="knowledge-section cmn-bg overflow-hidden position-relative">
     <div class="container">
         <div class="row justify-content-center align-items-center g-4">
             <div class="col-lg-5 col-md-6 col-sm-12 text-center text-md-start">
@@ -434,7 +433,155 @@ include "header.php";
     </div>
     <img src="assets/img/about/knowledge-lshpe.png" alt="img" class="knowledge-shapeleft d-xl-block d-none">
     <img src="assets/img/tortose.png" alt="img" class="knowledge-animal">
+</section>  -->
+
+
+
+
+<!-- original -->
+ <section class="knowledge-section cmn-bg  overflow-hidden  position-relative  d-none d-lg-block ">
+    <div class="container">
+        <div class="row justify-content-md-between justify-content-center align-items-center g-4">
+            <div class="col-lg-5 col-md-5 col-sm-10">
+                <div class="knowledge-content">
+                    <div class="section-title">
+                        <span class="sub-title wow fadeInUp p5-clr text">
+                            Student knowledge
+                        </span>
+                        <h3 class="m-title wow fadeInUp black mb-sm-3 mb-2" data-wow-delay=".3s">
+                            Knowledge for All learn design Excellence for Everyone
+                        </h3>
+                        <p class="mb-24 wow fadeInUp" data-wow-delay=".4s">
+                            Children between the ages of 3 to 15 years go through significant cognitive, social, emotional, and physical development. Their learning needs change as they progress through early childhood, primary, and middle school years.
+                        </p>
+                        <a href="about.php" class="theme-btn p3-bg py-3">
+                            <button class="btn_bg">
+                                Learn More
+                            </button>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-7 col-md-7">
+                <div class="knowledge-box-wrap">
+                    <div class="knowledge-inner d-grid gap-xxl-4 gap-xl-3 gap-2">
+                        <div class="knowledge-big-item d-center ">
+                        <img src="assets/img/port/1.png" class="img-fluid  rounded" alt="">
+
+                        </div>
+                        <div class="knowledge-item knowledge-left d-center know ">
+                            <div class="box know">
+                            <img src="assets/img/port/116.png" class="img-fluid rounded" alt="">
+  
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="knowledge-inner d-grid gap-xxl-4 gap-xl-3 gap-2">
+                        <div class="knowledge-item d-center ">
+                            <div class="box">
+                            <img src="assets/img/port/3.png" class="img-fluid rounded" alt="">
+
+                            </div>
+                        </div>
+                        <div class="knowledge-item d-center ">
+                            <div class="box">
+                            <img src="assets/img/port/6.png" class="img-fluid rounded" alt="">
+
+                            </div>
+                        </div>
+                        <div class="knowledge-item d-center  ">
+                            <div class="box mt-4">
+                            <img src="assets/img/port/444.png" class="img-fluid rounded" alt="" >
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="knowledge-inner d-grid gap-xxl-4 gap-xl-3 gap-2">
+                        <div class="knowledge-item d-center ">
+                            <div class="box">
+                            <img src="assets/img/port/118.png" class="img-fluid rounded" alt="">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <img src="assets/img/about/knowledge-lshpe.png" alt="img" class="knowledge-shapeleft d-xl-block d-none">
+    <img src="assets/img/tortose.png" alt="img" class="knowledge-animal">
+</section> 
+
+
+
+
+ 
+ <section class="knowledge-section cmn-bg overflow-hidden position-relative d-lg-none">
+    <div class="container">
+        <div class="row justify-content-center align-items-center g-4">
+            <div class="col-lg-5 col-md-5 col-sm-10">
+                <div class="knowledge-content">
+                    <div class="section-title">
+                        <span class="sub-title wow fadeInUp p5-clr text">Student knowledge</span>
+                        <h3 class="m-title wow fadeInUp black mb-sm-3 mb-2" data-wow-delay=".3s">
+                            Knowledge for All, Learn Design Excellence for Everyone
+                        </h3>
+                        <p class="mb-24 wow fadeInUp" data-wow-delay=".4s">
+                            Children between the ages of 3 to 15 years go through significant cognitive, social, emotional, and physical development. Their learning needs change as they progress through early childhood, primary, and middle school years.
+                        </p>
+                        <a href="about.php" class="theme-btn p3-bg py-3">
+                            <button class="btn_bg">Learn More</button>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-7 col-md-7 col-sm-12">
+                <div class="knowledge-box-wrap">
+                    <div class="d-flex flex-wrap justify-content-center align-items-center gap-2">
+                        <div class="knowledge-big-item">
+                            <img src="assets/img/port/1.png" class="img-fluid rounded" alt="" style="max-width: 220px;">
+                        </div>
+                        <div class="knowledge-item">
+                            <img src="assets/img/port/116.png" class="img-fluid rounded" alt="" style="max-width: 120px;">
+                        </div>
+                    </div>
+
+                    <div class="d-flex flex-wrap justify-content-center align-items-center gap-2 mt-2">
+                        <div class="knowledge-item">
+                            <img src="assets/img/port/3.png" class="img-fluid rounded" alt="" style="max-width: 120px;">
+                        </div>
+                        <div class="knowledge-item">
+                            <img src="assets/img/port/6.png" class="img-fluid rounded" alt="" style="max-width: 120px;">
+                        </div>
+                        <div class="knowledge-item">
+                            <img src="assets/img/port/444.png" class="img-fluid rounded" alt="" style="max-width: 120px;">
+                        </div>
+                    </div>
+
+                    <div class="d-flex flex-wrap justify-content-center align-items-center gap-2 mt-2">
+                        <div class="knowledge-item">
+                            <img src="assets/img/port/118.png" class="img-fluid rounded" alt="" style="max-width: 120px;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <img src="assets/img/about/knowledge-lshpe.png" alt="img" class="knowledge-shapeleft d-xl-block d-none">
+    <img src="assets/img/tortose.png" alt="img" class="knowledge-animal">
 </section>
+
+
+
+
+
+
+
+
 
 
 

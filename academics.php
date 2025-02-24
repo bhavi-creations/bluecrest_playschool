@@ -3,11 +3,11 @@ include "header.php";
 ?>
 
 <section class="mb-5">
-   <div class="container">
-      <div class="row space">
+   <div class="container mt-4">
+      <div class="row ">
          <!-- <div class="container-fluid "> -->
             <!-- <h2 class="text-center"> Academics</h2> -->
-            <div class="section-title text-center mb-40 py-5">
+            <div class="section-title text-center mb-40 ">
                        
                        
                    
@@ -16,7 +16,7 @@ include "header.php";
                        </h3>
                    </div>
               
-         <div class="col-md-8">
+         <div class="col-md-8 space ">
             <p>
 
 
@@ -37,12 +37,20 @@ include "header.php";
 
             </p>
          </div>
-         <div class="col-md-4">
+         <div class="col-md-4 mt-2 ">
             <img src="assets/img/achievment.png" alt="" class="img-fluid">
          </div>
       </div>
    </div>
 </section>
+
+
+
+
+
+
+
+
 
 
 

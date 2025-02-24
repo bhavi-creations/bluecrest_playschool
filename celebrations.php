@@ -42,7 +42,7 @@ include "header.php";
 
             </p>
          </div>
-         <div class="col-md-4">
+         <div class="col-md-4 mt-2">
             <img src="assets/img/beyond/7.png" alt="" class="img-fluid">
          </div>
       </div>

@@ -2,11 +2,11 @@
    include "header.php";
    ?>
 
-<section class="protfolio-sectionv1 overflow-hidden space-bottom position-relative mt-5">
-        <div class="container">
+<section class="protfolio-sectionv1 overflow-hidden space-bottom position-relative ">
+        <div class="container mt-4">
             <div class="row justify-content-center">
                 <div class="col-lg-6">
-                <div class="section-title text-center mb-40 py-4">
+                <div class="section-title text-center mb-40 ">
                        
                        
                    

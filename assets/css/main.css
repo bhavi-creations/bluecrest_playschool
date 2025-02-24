@@ -997,7 +997,7 @@ span {
 .knowledge-section .knowledge-animal {
   position: absolute;
   top: 100px;
-  right: 60px;
+  right: 30px;
   animation: lf 2s linear infinite;
 }
 .knowledge-section .knowledge-box-wrap {
@@ -1040,7 +1040,7 @@ span {
     z-index: -1;
   }
   .knowledge-section .knowledge-animal {
-    top: 100px;
+    top: 0px;
     right: 30px;
     width: 180px;
   }
@@ -1105,7 +1105,7 @@ span {
     margin-left: auto;
   }
   .knowledge-section .knowledge-animal {
-    top: 30px;
+    top: 100px !important;
     right: 30px;
     width: 120px;
   }
@@ -4115,7 +4115,8 @@ iframe {
 .mean-container .mean-nav ul li a {
   width: 100%;
   padding: 10px 0;
-  color: var(--header);
+  color: #ffffff;
+  /* color: var(--header); */
   font-size: 16px;
   line-height: 1.5;
   font-weight: 500;
@@ -5850,9 +5851,15 @@ overflow: visible !important;
 
 
 .space{
-  padding-right: 50px !important;
-  padding-left: 50px !important;
-  /* justify-content: center; */
+  /* padding: 100px !important; */
+  /* padding-left: 50px !important; */
+}
+
+@media(min-width:768px) and (max-width:1600px){
+  .space{
+    padding-left: 60px;
+    padding-right: 60px;
+  }
 }
 
 
@@ -5862,7 +5869,9 @@ overflow: visible !important;
 }
 
 
-
+.know{
+  margin-top: 35px !important;
+}
 
 
 
@@ -6014,3 +6023,12 @@ margin-top: -600px !important;
     font-size: 14px !important; 
   }
 }
+
+
+.para{
+  justify-content: center;
+  align-items: center;
+}
+
+
+

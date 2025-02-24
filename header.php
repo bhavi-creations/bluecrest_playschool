@@ -87,7 +87,7 @@
                                 </div>
                                 <div class="offcanvas__contact-text">
                                     <a href="mailto:info@example.com"><span
-                                            class="mailto:info@example.com">info@example.com</span></a>
+                                            class="mailto:info@example.com">thebluecrestschool@gmail.com</span></a>
                                 </div>
                             </li>
                             <li class="d-flex align-items-center text-white">
@@ -95,7 +95,7 @@
                                     <i class="fal fa-clock text"></i>
                                 </div>
                                 <div class="offcanvas__contact-text">
-                                    <a target="_blank" href="#">Mod-friday, 06am -02pm</a>
+                                    <a target="_blank" href="#">Mon-friday, 9am -02pm</a>
                                 </div>
                             </li>
                             <li class="d-flex align-items-center text-white">
@@ -155,12 +155,12 @@
                 </ul>
                 <div class="social-wrapper d-flex align-items-center">
 
-                    <a href="https://www.facebook.com/thebluecrestschool/" class="white "><i
-                            class="fa-brands fa-facebook-f"></i></a>
-                    <a href="https://www.youtube.com/@bluecrestschool6685/" class="white"><i
-                            class="fa-brands fa-youtube"></i></i></a>
-                    <a href="https://www.youtube.com/@bluecrestschool6685/" class="white"><i
-                            class="fa-brands fa-instagram"></i></i></a>
+                    <a href="https://www.facebook.com/thebluecrestschool/" target="_blank" class="white "><i
+                            class="fa-brands fa-facebook-f"  ></i></a>
+                    <a href="https://www.youtube.com/@bluecrestschool6685/" target="_blank" class="white"><i
+                            class="fa-brands fa-youtube"  ></i></a>
+                    <a href="/" target="_blank" class="white"><i
+                            class="fa-brands fa-instagram" ></i></a>
 
 
                 </div>
@@ -253,7 +253,7 @@
                                                 About Us
                                                 <i class="fas fa-angle-down"></i>
                                             </a>
-                                            <ul class="submenu">
+                                            <ul class="submenu text-white">
                                                 <li>
                                                     <a href="vision&values.php">
                                                         Vission and Values

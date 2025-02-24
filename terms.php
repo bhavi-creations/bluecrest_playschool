@@ -2,10 +2,10 @@
    include "header.php";
    ?>
    
-<div class="container">
+<div class="container mt-3 mb-3">
     <div class="row">
         <p>
-        <h1>Terms and Conditions</h1>
+        <h2 class="mt-3">Terms and Conditions</h2>
 <p>Last updated: February 07, 2025</p>
 <p>Please read these terms and conditions carefully before using Our Service.</p>
 <h2>Interpretation and Definitions</h2>
@@ -36,7 +36,7 @@
 <p><strong>Third-party Social Media Service</strong> means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.</p>
 </li>
 <li>
-<p><strong>Website</strong> refers to school, accessible from <a href="http://localhost/blue%20crest/blue%20crest/index.php" rel="external nofollow noopener" target="_blank">http://localhost/blue%20crest/blue%20crest/index.php</a></p>
+<!-- <p><strong>Website</strong> refers to school, accessible from <a href="http://localhost/blue%20crest/blue%20crest/index.php" rel="external nofollow noopener" target="_blank">http://localhost/blue%20crest/blue%20crest/index.php</a></p> -->
 </li>
 <li>
 <p><strong>You</strong> means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.</p>
@@ -52,14 +52,14 @@
 <p>Our Service may contain links to third-party web sites or services that are not owned or controlled by the Company.</p>
 <p>The Company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that the Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services.</p>
 <p>We strongly advise You to read the terms and conditions and privacy policies of any third-party web sites or services that You visit.</p>
-<h2>Termination</h2>
+<h2 class="mt-3 mb-3">Termination</h2>
 <p>We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.</p>
 <p>Upon termination, Your right to use the Service will cease immediately.</p>
 <h2>Limitation of Liability</h2>
 <p>Notwithstanding any damages that You might incur, the entire liability of the Company and any of its suppliers under any provision of this Terms and Your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by You through the Service or 100 USD if You haven't purchased anything through the Service.</p>
 <p>To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of this Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.</p>
 <p>Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party's liability will be limited to the greatest extent permitted by law.</p>
-<h2>&quot;AS IS&quot; and &quot;AS AVAILABLE&quot; Disclaimer</h2>
+<h2 class="mt-3 mb-3">&quot;AS IS&quot; and &quot;AS AVAILABLE&quot; Disclaimer</h2>
 <p>The Service is provided to You &quot;AS IS&quot; and &quot;AS AVAILABLE&quot; and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, the Company, on its own behalf and on behalf of its Affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the Service, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Service will meet Your requirements, achieve any intended results, be compatible or work with any other software, applications, systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.</p>
 <p>Without limiting the foregoing, neither the Company nor any of the company's provider makes any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the Service, or the information, content, and materials or products included thereon; (ii) that the Service will be uninterrupted or error-free; (iii) as to the accuracy, reliability, or currency of any information or content provided through the Service; or (iv) that the Service, its servers, the content, or e-mails sent from or on behalf of the Company are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.</p>
 <p>Some jurisdictions do not allow the exclusion of certain types of warranties or limitations on applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to You. But in such a case the exclusions and limitations set forth in this section shall be applied to the greatest extent enforceable under applicable law.</p>
@@ -85,7 +85,7 @@ You agree that the original English text shall prevail in the case of a dispute.
 <h2>Contact Us</h2>
 <p>If you have any questions about these Terms and Conditions, You can contact us:</p>
 <ul>
-<li>By visiting this page on our website: <a href="http://localhost/blue%20crest/blue%20crest/index.php" rel="external nofollow noopener" target="_blank">http://localhost/blue%20crest/blue%20crest/index.php</a></li>
+<!-- <li class=" mb-3">By visiting this page on our website: <a href="http://localhost/blue%20crest/blue%20crest/index.php" rel="external nofollow noopener" target="_blank">http://localhost/blue%20crest/blue%20crest/index.php</a></li> -->
 </ul>
         </p>
     </div>

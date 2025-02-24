@@ -29,13 +29,13 @@ include "header.php";
                Counting with Beads Learning numbers by moving colorful beads.
                Simple Addition & Subtraction Hands-on calculations to understand basic math.
                Pattern Recognition Identifying and creating patterns with beads.
-            
+
 
 
 
             </p>
          </div>
-         <div class="col-md-4">
+         <div class="col-md-4 mt-2">
             <img src="assets/img/beyond/1.png" alt="" class="img-fluid">
          </div>
       </div>
@@ -60,7 +60,7 @@ include "header.php";
                </h3>
             </div>
          </div>
-         <div class="col-md-4">
+         <div class="col-md-4 mt-2">
             <img src="assets/img/beyond/2.png" alt="" class="img-fluid">
          </div>
          <div class="col-md-8 space">
@@ -76,7 +76,7 @@ include "header.php";
                Simple Addition & Subtraction Hands-on calculations to understand basic math.
                Pattern Recognition Identifying and creating patterns with beads.
                Memory Games Fun exercises to boost recall and mental calculations.
-          
+
 
 
 
@@ -108,21 +108,21 @@ include "header.php";
          <div class="col-md-8 space">
             <p>
 
-            At Blue Crest Play School, we believe that learning should go beyond books and classrooms. Our carefully planned field trips offer young learners exciting hands-on experiences that spark curiosity, creativity, and social development.
-             Visit to a Farm
-Children can interact with farm animals, learn about plants, and understand how food grows. A fun way to introduce them to nature!
+               At Blue Crest Play School, we believe that learning should go beyond books and classrooms. Our carefully planned field trips offer young learners exciting hands-on experiences that spark curiosity, creativity, and social development.
+               Visit to a Farm
+               Children can interact with farm animals, learn about plants, and understand how food grows. A fun way to introduce them to nature!
 
- Trip to the Zoo 
-A wonderful opportunity to see and learn about different animals, their habitats, and sounds they make.
+               Trip to the Zoo
+               A wonderful opportunity to see and learn about different animals, their habitats, and sounds they make.
 
- Picnic in the Park
-A refreshing outdoor experience with games, storytelling, and fun group activities to boost teamwork and creativity.
+               Picnic in the Park
+               A refreshing outdoor experience with games, storytelling, and fun group activities to boost teamwork and creativity.
 
- Fire Station Visit
-A thrilling trip where kids can meet firefighters, see fire trucks, and learn about fire safety in an interactive way.
+               Fire Station Visit
+               A thrilling trip where kids can meet firefighters, see fire trucks, and learn about fire safety in an interactive way.
 
-Supermarket Tour 
-A guided trip to a supermarket to introduce children to different food groups, healthy eating, and basic shopping skills.
+               Supermarket Tour
+               A guided trip to a supermarket to introduce children to different food groups, healthy eating, and basic shopping skills.
 
 
 
@@ -130,7 +130,7 @@ A guided trip to a supermarket to introduce children to different food groups, h
 
             </p>
          </div>
-         <div class="col-md-4">
+         <div class="col-md-4 mt-2">
             <img src="assets/img/beyond/4.png" alt="" class="img-fluid">
          </div>
       </div>

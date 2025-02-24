@@ -3,7 +3,7 @@ include "header.php";
 ?>
 <section class="mb-5">
   <div class="container mt-4">
-    <div class="row mt-3">
+    <div class="row ">
       <div class="container-fluid ">
         <!-- <h2 class="text-center">Vision</h2> -->
 
@@ -18,7 +18,7 @@ include "header.php";
           </h3>
         </div>
       </div>
-      <div class="col-md-8 space justify-content-center">
+      <div class="col-md-8 space ">
 
         <p>At Bluecrest School, we envision a nurturing and stimulating environment where young minds blossom, curiosity thrives, and a love for learning is instilled from the very beginning. Our goal is to create a safe, inclusive, and joyful space where children develop holistically—intellectually, emotionally, socially, and physically.
 
@@ -29,7 +29,7 @@ include "header.php";
           At Bluecrest School, we don't just prepare children for school; we prepare them for life.</p>
 
       </div>
-      <div class="col-md-4">
+      <div class="col-md-4 mt-2">
         <img src="assets/img/vision/1.png" alt="" class="img-fluid">
       </div>
     </div>
@@ -39,10 +39,10 @@ include "header.php";
 </section>
 
 
-<section class="mb-5 top_space">
-  <div class="container">
+<section class="mb-5 top_space ">
+  <div class="container mt-4">
     <div class="row ">
-      <div class="container-fluid py-4">
+      <div class="container-fluid ">
 
         <!-- <h2 class="text-center">Values</h2> -->
 
@@ -57,7 +57,7 @@ include "header.php";
           </h3>
         </div>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-4 mt-2">
         <img src="assets/img/vision/2.png" alt="" class="img-fluid">
       </div>
       <div class="col-md-8 space">
@@ -92,9 +92,9 @@ include "header.php";
 
 
 <section class="mb-5">
-  <div class="container">
+  <div class="container mt-4">
     <div class="row ">
-      <div class="container-fluid py-4">
+      <div class="container-fluid ">
 
         <!-- <h2 class="text-center">Mission</h2> -->
 
@@ -128,7 +128,7 @@ include "header.php";
         </p>
 
       </div>
-      <div class="col-md-4">
+      <div class="col-md-4 mt-2">
         <img src="assets/img/vision/3.png" alt="" class="img-fluid">
       </div>
 
@@ -140,9 +140,9 @@ include "header.php";
 
 
 <section class="mb-5 ">
-  <div class="container">
+  <div class="container mt-4">
     <div class="row ">
-      <div class="container-fluid py-4">
+      <div class="container-fluid">
 
         <!-- <h2 class="text-center">Methodology</h2> -->
 
@@ -157,7 +157,7 @@ include "header.php";
           </h3>
         </div>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-4 mt-2">
         <img src="assets/img/vision/4.png" alt="" class="img-fluid">
       </div>
       <div class="col-md-8 space">
