@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Krishnadentacure </title>
+    <title> Blue Crest  - Dashboard</title>
 
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -43,7 +43,7 @@
                 ?>
                 <?php
 
-                include '../../db.connection/db.php';
+                include '../includes/db.php';
                 $id = $_SESSION['user_id'];
                 $stmt = $pdo->prepare("SELECT * FROM users WHERE id = ? ");
                 $stmt->execute([$id]);
@@ -59,7 +59,6 @@
                     <!-- Page Heading -->
                     <div class="row justify-content-between">
 
-                     
 
                         <div class="    mb-4">
                             <h1 class="h3 mb-0 text-gray-800">Profile </h1>
@@ -113,7 +112,7 @@
                 <div class="container my-auto">
                     <div class="copyright text-center my-auto">
                         <div class="footer-widget__copyright">
-                            <p class="mini_text" style="color:black"> ©2024 Krishnadentacure . All Rights Reserved. Designed &
+                            <p class="mini_text" style="color:black"> ©2025 Blue Crest . All Rights Reserved. Designed &
                                 Developed by <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none;color:black">Bhavi
                                     Creations</a></p>
                         </div>

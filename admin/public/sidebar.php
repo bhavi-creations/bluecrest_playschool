@@ -1,13 +1,13 @@
-<ul class="navbar-nav   sidebar sidebar-dark accordion" id="accordionSidebar" style="background-color: #A9A8D4;">
+<ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 
     <!-- Sidebar - Brand -->
     <a class="sidebar-brand d-flex align-items-center justify-content-center  bg-light text-primary" href="./index.php">
-        <div class="sidebar-brand-icon  ">
-            <i class="fas fa-stethoscope"></i>
+        <div class="sidebar-brand-icon rotate-n-15">
+         
         </div>
-        <div class="sidebar-brand-text mx-3">Krishna <br> Dentacure</div>
+        <div class="sidebar-brand-text mx-3">Blue Crest</div>
     </a>
- 
+
     <!-- Divider -->
     <hr class="sidebar-divider my-0">
 
@@ -23,20 +23,20 @@
 
     <!-- Heading -->
     <div class="sidebar-heading">
-        Blog
+        posts
     </div>
 
     <!-- Nav Item - Pages Collapse Menu -->
     <li class="nav-item">
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
             <i class="fas fa-fw fa-blog"></i>
-            <span>BLOGS</span>
+            <span>posts</span>
         </a>
         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
             <div class="bg-white py-2 collapse-inner rounded">
                 <h6 class="collapse-header">NEW BLOG</h6>
-                <a class="collapse-item" href="newBlog.php"> <i class="fas fa-fw fa-blog"></i> CREATE BLOG</a>
-                <a class="collapse-item" href="allBlog.php"> <i class="fas fa-fw fa-edit"></i> All BLOGS</a>
+                <a class="collapse-item" href="newpost.php"> <i class="fas fa-fw fa-blog"></i> UPLOAD images</a>
+                <a class="collapse-item" href="allimages.php"> <i class="fas fa-fw fa-edit"></i> All Posts</a>
             </div>
         </div>
     </li>

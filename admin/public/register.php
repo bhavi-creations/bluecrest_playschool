@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title> Krishnadentacure</title>
+    <title>Blue Crest - Register</title>
 
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -22,7 +22,7 @@
 
 </head>
 
-<body style="background: #A9A8D4;"  >
+<body class="bg-gradient-primary">
 
     <div class="container">
 
@@ -30,8 +30,8 @@
             <div class="card-body p-0">
                 <!-- Nested Row within Card Body -->
                 <div class="row">
-                <div class="col-lg-6 d-none d-lg-block  ">
-                                <img src="img/register.jpg" alt="login image" class="img-fluid">
+                <div class="col-lg-6 d-flex justify-content-center align-items-center ">
+                                <img src="img/nnnnnnn.png" alt="login image" class="img-fluid d-none d-lg-block">
                             </div>
                     <div class="col-lg-6">
                         <div class="p-5">
