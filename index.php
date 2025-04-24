@@ -140,19 +140,20 @@ include "header.php";
 
             <!-- Content Section -->
             <div class="col-md-8 mt-5 why_space">
+                <p><strong>confident learners for 10 years</strong></p>
                 <p>
-                    At <strong>Blue Crest Play School</strong>, we believe in nurturing young minds in a
-                    <strong>safe, fun, and stimulating</strong> environment. Our curriculum is designed to foster
-                    creativity, social skills, and early learning through interactive and engaging activities.
+                At<strong> BlueCrest</strong>, we create a joyful and secure space where every child is encouraged to explore, imagine, and grow. Our thoughtfully designed curriculum blends fun with foundational learning, helping children build confidence and curiosity from the very start.
+
+
                 </p>
 
                 <ul class="list-unstyled">
-                    <li><i class="fas fa-chalkboard-teacher text-primary"></i> Experienced and caring teachers</li>
-                    <li><i class="fas fa-shield-alt text-success"></i> Safe and hygienic environment</li>
-                    <li><i class="fas fa-gamepad text-warning"></i> Interactive and play-based learning approach</li>
-                    <li><i class="fas fa-brain text-info"></i> Focus on social, emotional, and cognitive development
+                    <li><i class="fas fa-chalkboard-teacher text-primary"></i> Warm, qualified, and caring educators</li>
+                    <li><i class="fas fa-shield-alt text-success"></i> Safe, clean, and child-friendly environment</li>
+                    <li><i class="fas fa-gamepad text-warning"></i> Hands-on, play-based learning every day</li>
+                    <li><i class="fas fa-brain text-info"></i> Focus on emotional, social, and mental growth
                     </li>
-                    <li><i class="fas fa-user-friends text-danger"></i> Personalized attention to each child</li>
+                    <li><i class="fas fa-user-friends text-danger"></i> Individual attention to support each child’s journeygbfhb</li>
                 </ul>
             </div>
         </div>

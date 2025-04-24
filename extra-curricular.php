@@ -20,18 +20,8 @@ include "header.php";
          <div class="col-md-8 space">
             <p>
 
-               At Bluecrest Playschool, we introduce young learners to Abacus-based learning, a fun and interactive way to develop early math skills, concentration, and mental agility. Through hands-on activities and playful exercises, children build a strong foundation in numbers while enhancing their cognitive abilities.
-               Boosts Early Math Skills Helps children understand numbers, counting, and basic arithmetic.
-               Improves Memory & Concentration Enhances focus through visualization and finger movements.
-               Develops Logical Thinking Encourages problem-solving and quick decision-making.
-               Strengthens Hand-Eye Coordination Using an abacus improves fine motor skills.
-               Encourages Confidence & Independence Kids feel empowered as they solve math problems on their own.
-               Counting with Beads Learning numbers by moving colorful beads.
-               Simple Addition & Subtraction Hands-on calculations to understand basic math.
-               Pattern Recognition Identifying and creating patterns with beads.
-
-
-
+            At Bluecrest Playschool, we turn numbers into playtime with our exciting Abacus Learning Program. Kids slide colorful beads to master counting, addition, and subtraction while boosting memory, focus, and problem-solving skills. T
+            through engaging hands-on activities, they build math confidence and cognitive abilities - setting them up for lifelong success.
 
             </p>
          </div>
