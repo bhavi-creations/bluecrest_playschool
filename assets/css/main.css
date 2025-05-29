@@ -6031,4 +6031,31 @@ margin-top: -600px !important;
 }
 
 
+.about_section11{
+  font-family:'Gill Sans';
+}
+
+
+.testimonial-card{
+  background-color: #dbd3f5 !important;
+  /* box-shadow: 2 ,2 ,5 grey; */
+  /* opacity: 0.6; */
+  transform: translateY(10px);
+}
+
+
+.testimonials_section{
+  background-color: #fff6f6 !important;
+}
+
+.why_choose_section{
+  background-color: rgb(234, 226, 226);
+  padding: 50px 0px ;
+}
+
+
+
+
+
+
 

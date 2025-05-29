@@ -1,6 +1,6 @@
    <!--<< Footer Section Start >>-->
-   <footer class="footer-section overflow-hidden position-relative footer-style1 new_footer foooter ">
-       <div class="footer-widgets-wrapper">
+   <footer class=" last_footer_section footer-section overflow-hidden position-relative footer-style1 new_footer foooter ">
+       <div class="   last_footer_content footer-widgets-wrapper">
            <div class="container">
                <div class="row ">
 

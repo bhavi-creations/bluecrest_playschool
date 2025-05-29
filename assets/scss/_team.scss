@@ -3,10 +3,10 @@
 	position: relative;
 	padding: 40px;
 	border-radius: 50px 10px;
-	background: $white;
+	background: rgb(255, 255, 255) !important;
 	box-shadow: 0px 4.8px 24.4px -6px rgba(19, 16, 34, 0.1);
 	transition: all 0.4s;
-	border: 2px solid $white;
+	// border: 2px solid $white;
 	.thumb {
 		width: 100%;
 		overflow: hidden;

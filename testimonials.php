@@ -6,7 +6,7 @@
     </div>
 </section>
 
-<section class="py-5">
+<section class="py-5  testimonials_section">
     <div class="container">
         <div class="section-title text-center mb-40 mt-5">
             <span class="sub-title p5-clr text font">

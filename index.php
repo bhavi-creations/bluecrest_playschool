@@ -50,7 +50,7 @@ include "header.php";
                     </div>
                 </div>
             </div>
-            <img src="assets/img/Untitled_design__29_-removebg-preview.png" alt="img" class="rainbow-shape">
+            <!-- <img src="assets/img/Untitled_design__29_-removebg-preview.png" alt="img" class="rainbow-shape"> -->
         </div>
     </div>
     <!-- Element -->
@@ -64,7 +64,7 @@ include "header.php";
 
 
 <!-- Aboutv1 Section Start -->
-<section class="about-sectionv1 space-top overflow-hidden space-bottom">
+<section class="about-sectionv1 space-top overflow-hidden space-bottom about_section11">
     <div class="container">
         <div class="row align-items-center g-4">
             <div class="col-lg-6 col-md-6 col-sm-6">
@@ -123,7 +123,7 @@ include "header.php";
     </div>
 </section>
 
-<section class="mb-4">
+<section class="mb-4 why_choose_section">
     <div class="container">
         <div class="row">
             <!-- Section Title -->
@@ -590,7 +590,7 @@ include "header.php";
 
 
 
-<section class="py-5">
+<section class="py-5 testimonials_section">
     <div class="container">
         <div class="section-title text-center mb-40 mt-5">
             <span class="sub-title p5-clr text font">
