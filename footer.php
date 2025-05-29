@@ -171,7 +171,7 @@
            </div>
 
 
-           <a href="https://api.whatsapp.com/send?phone=9848424956" style="color: #fff;" class="whatsapp-link" target="_blank">
+           <a href="https://api.whatsapp.com/send?phone=7993118888" style="color: #fff;" class="whatsapp-link" target="_blank">
                <i class="fab fa-whatsapp"></i>
            </a>
            <a href="#" id="scrollUp" class="scroll-icon">

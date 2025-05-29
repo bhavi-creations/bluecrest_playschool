@@ -3,7 +3,7 @@ include "header.php";
 ?>
 
 <section>
-    <div class="container-fluid bottom">
+    <div class="container-fluid ">
         <img src="assets/img/primary.png" class="img-fluid" alt="">
     </div>
 </section>
@@ -12,18 +12,22 @@ include "header.php";
 <!-- <div class="container-fluid "> -->
         <!-- <h2 class="text-center">Vision</h2> -->
  
-        <div class="section-title text-center mb-40 ">
+       
+
+<section class="primary_section">
+    
+
+
+ <div class="section-title text-center mb-40 ">
 
 
 
-          <h3 class=" p5-clr text wow fadeInUp text-center  font">
+          <h3 class=" p5-clr text wow fadeInUp text-center  font pt-5">
 
             Pre-Primary
 
           </h3>
        </div>
-
-
 
 <div class="container mt-5  space-bottom">
     <div class="row">
@@ -186,6 +190,7 @@ include "header.php";
         </div>
     </div>
 </div>
+</section>
 
 
 

@@ -5898,7 +5898,7 @@ overflow: visible !important;
 
 
 .primary_bg{
-  background: yellow !important;
+  background:#f0f01963 !important;
 }
 
 
@@ -6183,7 +6183,7 @@ margin-top: -600px !important;
     bottom: 0;
     left: 0;
     /* background: var(--bs-light); before color of images  */
-    background: #dada7e;
+    background: #FFECF2;
     border-radius: 10px;
     transition: 0.5s;
     z-index: -1;
@@ -6298,6 +6298,7 @@ margin-top: -600px !important;
 
 .achievements_para_space {
   background-color: 	#f7f2f2 !important;
+  padding: 40px 0px;
 
 }
 .achievements_para_space_2 p{
@@ -6341,4 +6342,34 @@ margin-top: -600px !important;
     right: 30px !important;
   
 
+}
+
+.about-contentv1{
+transition: transform 0.5s ease;
+    display: block;
+    width: 100%; /* Adjust as needed */
+    height: auto;
+}
+
+.about-contentv1 :hover{
+    transform: translateY(-10px) !important;
+}
+
+.primary_section{
+  background-color: #FFECF2 !important;
+  /* padding-top: -100px !important; */
+}
+
+.primary_setion{
+  background-color: #fce1e4 !important	;
+ padding: 20px 0px  ;
+}
+
+.Testimonials_section{
+  background-color: #D6ECFF	!important;
+  
+}
+.contact_section{
+  background-color: #FFE5B4	;
+  padding: 30px 0px;
 }

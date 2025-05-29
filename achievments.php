@@ -2,7 +2,7 @@
 include "header.php";
 ?>
 
-<section class=" achievements_para_space" >
+<section class=" achievements_para_space primary_section" >
    <div class="container ">
       <div class="row ">
          <div class="container-fluid">
