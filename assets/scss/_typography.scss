@@ -140,7 +140,7 @@ a {
 p {
 	margin: 0px;
 	@include transition;
-	font-family: $body-font;
+	// font-family: $body-font;
 	font-size: 16px;
 	line-height: 25.6px;
 }

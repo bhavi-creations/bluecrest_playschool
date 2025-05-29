@@ -1,5 +1,8 @@
    <!--<< Footer Section Start >>-->
-   <footer class=" last_footer_section footer-section overflow-hidden position-relative footer-style1 new_footer foooter ">
+
+
+
+   <footer class=" last_footer_section footer-section overflow-hidden position-relative footer-style1 new_footer foooter   section sec-cta overlay" style="background-image: url('./assets/img/footer_img_5.png')">
        <div class="   last_footer_content footer-widgets-wrapper">
            <div class="container">
                <div class="row ">

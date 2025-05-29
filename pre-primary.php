@@ -43,7 +43,7 @@ include "header.php";
                     <div class="flip-card-back">
 
 
-                        <h3 class="text-white card_icon mb-4">Playgroup <i class="fa-regular fa-circle-xmark"></i></h3>
+                        <h3 class="text-white card_icon mb-4">Playgroup </h3>
 
                         <div class="icon-text mb-3">
                             <i class="fa-regular fa-face-kiss mt-2"> </i>
@@ -82,7 +82,8 @@ include "header.php";
                     <div class="flip-card-back">
 
 
-                        <h3 class="text-white card_icon mb-4">Nursery<i class="fa-regular fa-circle-xmark"></i></h3>
+                        <h3 class="text-white card_icon mb-4">Nursery</h3> 
+                        <!-- <i class="fa-regular fa-circle-xmark"></i> -->
 
                         <div class="icon-text mb-3">
                             <i class="fa-regular fa-face-kiss mt-2"> </i>
@@ -121,7 +122,7 @@ include "header.php";
                     <div class="flip-card-back">
 
 
-                        <h3 class="text-white card_icon mb-4">LKG <i class="fa-regular fa-circle-xmark"></i></h3>
+                        <h3 class="text-white card_icon mb-4">LKG </h3>
 
                         <div class="icon-text mb-3">
                             <i class="fa-regular fa-face-kiss mt-2"> </i>
@@ -160,7 +161,7 @@ include "header.php";
                     <div class="flip-card-back">
 
 
-                        <h3 class="text-white card_icon mb-4">UKG <i class="fa-regular fa-circle-xmark"></i></h3>
+                        <h3 class="text-white card_icon mb-4">UKG </h3>
 
                         <div class="icon-text mb-3">
                             <i class="fa-regular fa-face-kiss mt-2"> </i>

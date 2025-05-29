@@ -8,7 +8,40 @@ Version: 1.0.0
 /*CSS Table Of Content Ends Here*/
   /* @import url("https://fonts.googleapis.com/css2?family=Bubblegum+Sans&family=Jost:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap"); */
   @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
+
+
+
+body{
+
+  font-family: 'Poppins', sans-serif !important; 
+  /* font-family: 'Merriweather', serif; */
+  /* font-family: 'Raleway', sans-serif; */
+    /* font-family: 'Roboto', sans-serif; */
+   /* font-family: 'Poppins', sans-serif; */
+   /* font-family: 'Montserrat', sans-serif; */
+    /* font-family: 'Open Sans', sans-serif; */
+}
+
+p{
+     font-family: "fredoka",sans-serif !important;
+     /* font-family: 'Montserrat', sans-serif; */
+    
+     font-size: 1rem !important;
+     font-weight: 400 !important;
+     line-height: 1.5 !important;
+     -webkit-text-size-adjust: 100%;
+     -webkit-tap-highlight-color: rgba(0,0,0,0);
+     
+}
+
+
+h1,h2,h3,h4,h5,h6{
+      font-family: 'Montserrat', sans-serif;
+}
 :root {
   --body: #fff;
   --black: #000;
@@ -5970,13 +6003,29 @@ overflow: visible !important;
   margin-bottom: 80px !important;
 }
 
-
-
-
+@media (min-width:375px) and (max-width:1200px) {
+  
 .top_space{
+margin-top: 0px !important;
+}
+  
+}
+@media (min-width:1200px)  {
+  .top_space{
 margin-top: -600px !important;
 }
-@media(min-width:375px) and (max-width:768px){
+  
+}
+
+@media (min-width:1200px) {
+  .vision_third_section{
+    margin-top: 150px !important;
+  }
+  
+}
+
+
+/* @media(min-width:375px) and (max-width:768px){
   .top_space{
     margin-top: 0px !important;
   }
@@ -5985,7 +6034,7 @@ margin-top: -600px !important;
   .top_space{
     margin-top: 50px !important;
   }
-}
+} */
 
 .header-1{
   padding: 0px 0;
@@ -6036,11 +6085,13 @@ margin-top: -600px !important;
 }
 
 
+
+
+
+
 .testimonial-card{
   background-color: #dbd3f5 !important;
-  /* box-shadow: 2 ,2 ,5 grey; */
-  /* opacity: 0.6; */
-  transform: translateY(10px);
+
 }
 
 
@@ -6056,6 +6107,238 @@ margin-top: -600px !important;
 
 
 
+/* footer bg images stylings  */
+
+/* .section {
+
+	.heading {
+		font-size: 30px;
+		font-weight: 700;
+	}
+} */
 
 
 
+.sec-cta {
+	background-size: cover;
+	background-position: 100% center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	&.overlay {
+		position: relative;
+		&:before {
+			background: #dada7e;
+			background: linear-gradient(140deg, #dada7e 0%, #dada7e 100%);
+			opacity: .9;
+			overflow: hidden;
+			content: "";
+			position: absolute;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			top: 0;
+			z-index: 1;
+		}
+	}
+	> .container {
+		position: relative;
+		z-index: 2;
+	}
+	.heading {
+		color: $white;
+	}
+	p {
+		color: $white;
+	}
+}
+
+
+
+
+
+
+/* teMeet Our Directors  */
+
+
+.team .team-item {
+    position: relative;
+    padding: 0 25px 25px 25px;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+
+
+.team .team-item {
+    position: relative;
+    padding: 0 25px 25px 25px;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+
+.team .team-item::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    bottom: 0;
+    left: 0;
+    /* background: var(--bs-light); before color of images  */
+    background: #dada7e;
+    border-radius: 10px;
+    transition: 0.5s;
+    z-index: -1;
+}
+
+.team .team-item:hover::before {
+    height: 0;
+}
+
+.team .team-item::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 10px;
+    transition: 0.5s;
+    z-index: -1;
+}
+
+.team .team-item:hover::after {
+    height: 100%;
+    background: #9387c0; /* hover color  */
+    /* background: var(--bs-primary); hover color  */
+}
+
+.team .team-item .team-img {
+    width: 100%; 
+    height: 100%;
+    border-radius: 100%;
+    position: relative;
+    margin-top: 50%;
+    transform: translateY(-50%);
+    margin-bottom: -50%;
+    display: flex;
+    justify-content: center;
+    border: 4px solid var(--bs-primary);/* dots before color  */
+    /* border: 4px solid #9387c0 ; dots before color  */
+    border-style: dotted;
+    padding: 4px;
+    background: var(--bs-white); /* dots imagews between color  */
+    transition: 0.5s;
+}
+
+.team .team-item:hover .team-img {
+    border: 4px solid var(--bs-white); /*dots color */
+    /* border: 4px solid var(--bs-white); dots color */
+    border-style: dotted;
+    background: 0;
+}
+
+.team .team-item .team-img img  {
+    width: 100%;
+    height: 100%;
+    border-radius: 60%;
+    transition: 0.5s;
+}
+
+
+
+
+.team .team-item .team-title {
+    padding: 25px 0 25px 0;
+    text-align: center;
+}
+
+.team .team-item .team-title h4,
+.team .team-item .team-title p {
+    transition: 0.5s;
+}
+
+.team .team-item:hover .team-title h4,
+.team .team-item:hover .team-title p {
+    color: var(--bs-white);  /* directory namese ccolor  */
+}
+
+.team .team-item .team-icon {
+    display: flex;
+    justify-content: center;
+}
+
+.team .team-item .team-icon a {
+    transition: 0.5s;
+}
+
+.team .team-item:hover .team-icon a {
+    color: red;
+    background: red;
+}
+
+.team .team-item:hover .team-icon a:hover {
+    color: red;
+    background: red;
+}
+
+
+
+
+
+
+
+
+.content_center_section{
+  padding: 50px !important;
+}
+
+.space p {
+  padding: 50px !important;
+}
+
+
+.achievements_para_space {
+  background-color: 	#f7f2f2 !important;
+
+}
+.achievements_para_space_2 p{
+  padding: 10px !important;
+}
+.achievements_para_space_2{
+  background-color: 	#f7f2f8 !important;
+}
+.achievements_para_space_3 p{
+  padding: 10px !important;
+}
+
+.achievements_para_space_4 p{
+  padding: 10px !important;
+}
+.achievements_para_space_3{
+  background-color: 	#ebe6e1 !important;
+}
+.achievements_para_space_4{
+  background-color: 	#e2dbd1 !important;
+}
+
+@media (min-width:) {
+  
+}
+
+
+
+
+
+
+
+
+.kite_section{
+
+
+
+    position: absolute;
+    /* top: 900px; */
+    bottom: -550px;
+    right: 30px !important;
+  
+
+}

@@ -16,7 +16,7 @@
 
         <div class="row">
             <!-- Testimonial Card 1 -->
-            <div class="col-12 col-md-6 col-lg-4 mb-3">
+            <div class="col-12 col-md-6 col-lg-4 mb-3 ">
                 <div class="testimonial-card p-4 shadow rounded bg-white">
                     <div class="d-flex align-items-center">
                         <img src="assets/img/team/4.png" alt="Madhavi S.B.S" class="rounded-circle" width="60">

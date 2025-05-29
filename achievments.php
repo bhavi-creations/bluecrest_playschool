@@ -2,8 +2,8 @@
 include "header.php";
 ?>
 
-<section class="mb-5">
-   <div class="container mt-4">
+<section class=" achievements_para_space" >
+   <div class="container ">
       <div class="row ">
          <div class="container-fluid">
             <!-- <h2 class="text-center"> Achievements</h2> -->
@@ -19,20 +19,20 @@ include "header.php";
                </h3>
             </div>
          </div>
-         <div class="col-md-8 space">
+         <div class="col-md-8  ">
             <p>
 
 
                BlueCrest School blends interactive learning with creativity, offering strong early literacy and numeracy programs alongside art, music, and storytelling.
                Our students shine in events like Sports Day, talent shows, and inter-school competitions.
                With a safe, child-friendly campus, sensory play zones, and modern teaching tools, we ensure a fun and secure learning space.
-               Our well-trained teachers and low student–teacher ratio help provide focused, personalized attention.
+               Our well-trained teachers and low student–teacher ratio help provide focused, personalized attention.</p>
             <p>
                <strong>At Bluecrest Playschool, learning is an adventure!</strong>
-</p>
+            </p>
                We believe every child learns best through play, exploration, and joyful discovery.
                Our special mix of fun activities and gentle guidance helps little ones grow in every way – their thinking skills, social confidence, big feelings, and healthy bodies.</p>
-            <p><strong>Picture this:</strong> </p>
+            <p ><strong>Picture this:</strong> </p> 
             <p> • Storytime magic that brings books to life 🧚♂️</p>
             <p>• Hands-on science with bubbles and blocks 🧪</p>
             <p>• Music and art that make learning colorful 🎨</p>
@@ -44,7 +44,7 @@ include "header.php";
             <p> We don’t just teach ABCs – we help children become kind, curious, and confident little learners, ready to take on the world!</p>
             </p>
 
-            </p>
+            
          </div>
          <div class="col-md-4 mt-2">
             <img src="assets/img/achievment.png" alt="" class="img-fluid">

@@ -1,9 +1,9 @@
 <?php
 include "header.php";
-?>
-<section class="mb-5">
-  <div class="container mt-4">
-    <div class="row ">
+?> 
+<section class=" pt-5  achievements_para_space">
+  <div class="container m">
+    <div class="row   ">
       <div class="container-fluid ">
         <!-- <h2 class="text-center">Vision</h2> -->
 
@@ -18,9 +18,9 @@ include "header.php";
           </h3>
         </div>
       </div>
-      <div class="col-md-8 space ">
+      <div class="col-md-8 col-12 vision_section ">
 
-        <p>At BlueCrest School, 
+        <p >At BlueCrest School, 
           
         we envision a joyful learning space where every child feels safe, valued, and inspired to grow.
         
@@ -30,7 +30,7 @@ include "header.php";
         
         preparing them not just for school, but for a happy and successful life ahead.
       </div>
-      <div class="col-md-4 mt-2">
+      <div class="col-md-4 col-12 mt-2">
         <img src="assets/img/vision/1.png" alt="" class="img-fluid">
       </div>
     </div>
@@ -40,7 +40,16 @@ include "header.php";
 </section>
 
 
-<section class="mb-5 top_space ">
+
+
+
+
+
+
+
+
+
+<section class="mb-5 top_space achievements_para_space_2 ">
   <div class="container mt-4">
     <div class="row ">
       <div class="container-fluid ">
@@ -85,13 +94,15 @@ include "header.php";
 
     </div>
   </div>
+
+  <!-- <img src="./assets/img/abanner/kyte.png" alt="" class="kite_section d-none d-lg-block" style="opacity: 0;"> -->
 </section>
 
 
 
 
-<section class="mb-5">
-  <div class="container mt-4">
+<section class="py-5 vision_third_section achievements_para_space_3"  >
+  <div class="container ">
     <div class="row ">
       <div class="container-fluid ">
 
@@ -135,8 +146,8 @@ include "header.php";
 </section>
 
 
-<section class="mb-5 ">
-  <div class="container mt-4">
+<section class="py-5 achievements_para_space_4">
+  <div class="container ">
     <div class="row ">
       <div class="container-fluid">
 

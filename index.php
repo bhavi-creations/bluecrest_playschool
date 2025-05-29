@@ -50,7 +50,7 @@ include "header.php";
                     </div>
                 </div>
             </div>
-            <!-- <img src="assets/img/Untitled_design__29_-removebg-preview.png" alt="img" class="rainbow-shape"> -->
+            <img src="assets/img/children_images.png" alt="img" class="rainbow-shape">
         </div>
     </div>
     <!-- Element -->
@@ -297,19 +297,12 @@ include "header.php";
 
 
 <!-- professional Section Start -->
-<section class="professional-sectionv1 overflow-hidden  space-bottom position-relative">
+<!-- <section class="professional-sectionv1 overflow-hidden  space-bottom position-relative">
 
     <div class="container mt-5">
         <div class="row justify-content-center mb-60">
             <div class="col-lg-6">
-                <div class="section-title text-center">
-                    <span class="sub-title wow fadeInUp p5-clr text font">
-                        Meet Our Directors
-                    </span>
-                    <h3 class="m-title wow fadeInUp black" data-wow-delay=".3s">
-                        <!-- Joyful Journeys Childcare and the Of a Education -->
-                    </h3>
-                </div>
+               
             </div>
 
             <div class="row g-lg-4 g-3 justify-content-center">
@@ -339,6 +332,7 @@ include "header.php";
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="professional-item">
                         <div class="thumb mb-24">
+                          
                             <img src="assets/img/team/2.png" alt="img">
                         </div>
                         <div class="content our_team">
@@ -378,7 +372,84 @@ include "header.php";
             </div>
         </div>
         </a>
-</section>
+</section> -->
+
+
+
+<div class="team pb-5">
+            <div class="container pb-5">
+
+             <div class="section-title text-center">
+                    <span class="sub-title wow fadeInUp p5-clr text font">
+                        Meet Our Directors
+                    </span>
+                    <h3 class="m-title wow fadeInUp black" data-wow-delay=".3s">
+                        <!-- Joyful Journeys Childcare and the Of a Education -->
+                    </h3>
+                </div>
+               
+                <div class="row g-4">
+                    <div class="col-12 col-md-4  " >
+                        <div class="team-item">
+                            <div class="team-img ">
+                                  <img src="assets/img/team/1.png" alt="img">
+                                <!-- <img src="img/team-1.jpg" class="img-fluid" alt=""> -->
+                            </div>
+                            <div class="team-title">
+                                <h4 class="mb-0 mt-3">Director</h4>
+                                <p class="mb-0">Alex Carey</p>
+                            </div>
+                            <!-- <div class="team-icon">
+                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-linkedin-in"></i></a>
+                                <a class="btn btn-primary btn-sm-square rounded-circle me-0" href=""><i class="fab fa-instagram"></i></a>
+                            </div> -->
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-4 wow fadeInUp" data-wow-delay="0.4s">
+                        <div class="team-item">
+                            <div class="team-img">
+                                <!-- <img src="img/team-2.jpg" class="img-fluid" alt=""> -->
+                                   <img src="assets/img/team/2.png" alt="img">
+                            </div>
+                            <div class="team-title">
+                                <h4 class="mb-0 mt-3">Director</h4>
+                                <p class="mb-0">Smith</p>
+                            </div>
+                            <!-- <div class="team-icon">
+                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-linkedin-in"></i></a>
+                                <a class="btn btn-primary btn-sm-square rounded-circle me-0" href=""><i class="fab fa-instagram"></i></a>
+                            </div> -->
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-4 wow fadeInUp" data-wow-delay="0.6s">
+                        <div class="team-item">
+                            <div class="team-img">
+                                <!-- <img src="img/team-3.jpg" class="img-fluid" alt=""> -->
+                                   <img src="assets/img/team/3.png" alt="img">
+                            </div>
+                            <div class="team-title">
+                                <h4 class="mb-0 mt-3">Director</h4>
+                                <p class="mb-0">Andreia</p>
+                            </div>
+                            <!-- <div class="team-icon">
+                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-linkedin-in"></i></a>
+                                <a class="btn btn-primary btn-sm-square rounded-circle me-0" href=""><i class="fab fa-instagram"></i></a>
+                            </div> -->
+                        </div>
+                    </div>
+                  
+                </div>
+            </div>
+</div>
+
+
+
 
 
 
@@ -573,13 +644,131 @@ include "header.php";
     </div>
 
     <img src="assets/img/about/knowledge-lshpe.png" alt="img" class="knowledge-shapeleft d-xl-block d-none">
-    <img src="assets/img/tortose.png" alt="img" class="knowledge-animal">
+    <!-- <img src="assets/img/tortose.png" alt="img" class="knowledge-animal"> -->
 </section>
 
 
 
 
 
+<div class="team-content-wrapper">
+    <div class="container">
+          <div class="section-title text-center  mt-5">
+            <span class="sub-title p5-clr text font">
+                Our Testimonials
+            </span>
+        </div>
+        <div class="team-content-wrapper">
+          
+          <div class="custom-slide-container swiper">
+        <div class="custom-slide-content   ">
+          <div class="custom-card-wrapper swiper-wrapper py-5">
+
+           <div class="custom-card custom_card_bg_three swiper-slide">
+                  <div class="testimonial-card p-4 shadow rounded bg-white">
+                    <div class="d-flex align-items-center">
+                        <img src="assets/img/team/6.png" alt="Gayathri" class="rounded-circle" width="60">
+                        <div class="ms-3">
+                            <h5 class="mb-1">Gayathri</h5>
+                        </div>
+                    </div>
+                    <p class="mt-3">Best school in Kakinada with a beautiful environment. Excellent studies and
+                        extracurricular activities.</p>
+                    <div class="text-warning">
+                        ★★★★☆
+                    </div>
+                </div>
+
+              <!-- <img src="assets/images/services/equipment6.png" alt="Garuda  Trades" class="img-fluid custom-card-img "> -->
+            </div>
+               <div class="custom-card custom_card_bg_three swiper-slide">
+                <div class="testimonial-card p-4 shadow rounded bg-white">
+                    <div class="d-flex align-items-center">
+                        <img src="assets/img/team/7.png" alt="Durga Deepika Kannaji" class="rounded-circle" width="60">
+                        <div class="ms-3">
+                            <h5 class="mb-1">Durga Deepika Kannaji</h5>
+                        </div>
+                    </div>
+                    <p class="mt-3">Great facilities and a caring environment. My child loves coming to school every
+                        day.</p>
+                    <div class="text-warning">
+                        ★★★★★
+                    </div>
+                </div>
+
+              <!-- <img src="./assets/img/contact.png" alt="Garuda  Trades" class="img-fluid custom-card-img "> -->
+            </div>
+            <div class="custom-card custom_card_bg_three swiper-slide">
+                 <div class="testimonial-card p-4 shadow rounded bg-white">
+                    <div class="d-flex align-items-center">
+                        <img src="assets/img/team/4.png" alt="Madhavi S.B.S" class="rounded-circle" width="60">
+                        <div class="ms-3">
+                            <h5 class="mb-1">Madhavi S.B.S</h5>
+                        </div>
+                    </div>
+                    <p class="mt-3">Bluecrest School is one of the best in Kakinada. The teachers are supportive and
+                        easy to reach. Love the individual attention given to my daughter.</p>
+                    <div class="text-warning">
+                        ★★★★★
+                    </div>
+                </div>
+
+              <!-- <img src="./assets/img/contact.png"alt="Garuda  Trades" class="img-fluid custom-card-img "> -->
+            </div>
+        <div class="custom-card custom_card_bg_three swiper-slide">
+                  <div class="testimonial-card p-4 shadow rounded bg-white">
+                    <div class="d-flex align-items-center">
+                        <img src="assets/img/team/6.png" alt="Gayathri" class="rounded-circle" width="60">
+                        <div class="ms-3">
+                            <h5 class="mb-1">Gayathri</h5>
+                        </div>
+                    </div>
+                    <p class="mt-3">Best school in Kakinada with a beautiful environment. Excellent studies and
+                        extracurricular activities.</p>
+                    <div class="text-warning">
+                        ★★★★☆
+                    </div>
+                </div>
+
+              <!-- <img src="assets/images/services/equipment6.png" alt="Garuda  Trades" class="img-fluid custom-card-img "> -->
+            </div>
+            <div class="custom-card custom_card_bg_three swiper-slide">
+                  <div class="testimonial-card p-4 shadow rounded bg-white">
+                    <div class="d-flex align-items-center">
+                        <img src="assets/img/team/6.png" alt="Gayathri" class="rounded-circle" width="60">
+                        <div class="ms-3">
+                            <h5 class="mb-1">Gayathri</h5>
+                        </div>
+                    </div>
+                    <p class="mt-3">Best school in Kakinada with a beautiful environment. Excellent studies and
+                        extracurricular activities.</p>
+                    <div class="text-warning">
+                        ★★★★☆
+                    </div>
+                </div>
+
+              <!-- <img src="assets/images/services/equipment6.png" alt="Garuda  Trades" class="img-fluid custom-card-img "> -->
+            </div>
+            <div class="custom-card custom_card_bg_three swiper-slide">
+                <div class="testimonial-card p-4 shadow rounded bg-white">
+                    <div class="d-flex align-items-center">
+                        <img src="assets/img/team/7.png" alt="Durga Deepika Kannaji" class="rounded-circle" width="60">
+                        <div class="ms-3">
+                            <h5 class="mb-1">Durga Deepika Kannaji</h5>
+                        </div>
+                    </div>
+                    <p class="mt-3">Great facilities and a caring environment. My child loves coming to school every
+                        day.</p>
+                    <div class="text-warning">
+                        ★★★★★
+                    </div>
+                </div>
+
+              <!-- <img src="./assets/img/contact.png" alt="Garuda  Trades" class="img-fluid custom-card-img "> -->
+            </div>
+
+          </div>
+        </div>
 
 
 
@@ -590,7 +779,20 @@ include "header.php";
 
 
 
-<section class="py-5 testimonials_section">
+      </div>
+        </div>
+      </div>
+      </div>
+
+
+
+
+
+
+
+
+
+<!-- <section class="py-5 testimonials_section">
     <div class="container">
         <div class="section-title text-center mb-40 mt-5">
             <span class="sub-title p5-clr text font">
@@ -599,7 +801,7 @@ include "header.php";
         </div>
 
         <div class="row">
-            <!-- Testimonial Card 1 -->
+      
             <div class="col-12 col-md-6 col-lg-4 mb-3">
                 <div class="testimonial-card p-4 shadow rounded bg-white">
                     <div class="d-flex align-items-center">
@@ -616,7 +818,7 @@ include "header.php";
                 </div>
             </div>
 
-            <!-- Testimonial Card 2 -->
+            
             <div class="col-12 col-md-6 col-lg-4 mb-3">
                 <div class="testimonial-card p-4 shadow rounded bg-white">
                     <div class="d-flex align-items-center">
@@ -633,7 +835,7 @@ include "header.php";
                 </div>
             </div>
 
-            <!-- Testimonial Card 3 -->
+          
             <div class="col-12 col-md-6 col-lg-4 mb-3">
                 <div class="testimonial-card p-4 shadow rounded bg-white">
                     <div class="d-flex align-items-center">
@@ -655,9 +857,45 @@ include "header.php";
 
         </div>
     </div>
-</section>
+</section> -->
 
 
+
+<script>
+  var swiper = new Swiper(".custom-slide-content", {
+    slidesPerView: 3,
+    spaceBetween: 25,
+    loop: true,
+    centerslide: 'true',
+    fade: 'true',
+    grabCursor: 'true',
+    pagination: {
+      el: ".custom-swiper-pagination",
+      clickable: true,
+      dynamicBullets: true,
+    },
+    autoplay: {
+      delay: 3000, // Time in milliseconds between automatic slides (3 seconds here)
+      disableOnInteraction: false, // Keeps autoplay active even after manual swiping
+    },
+    navigation: {
+      nextEl: ".swiper-button-next.custom-swiper-navBtn",
+      prevEl: ".swiper-button-prev.custom-swiper-navBtn",
+    },
+
+    breakpoints: {
+      0: {
+        slidesPerView: 1,
+      },
+      520: {
+        slidesPerView: 2,
+      },
+      950: {
+        slidesPerView: 3,
+      },
+    },
+  });
+</script>
 
 
 <?php include 'footer.php'; ?>
