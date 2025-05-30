@@ -50,7 +50,7 @@ include "header.php";
                     </div>
                 </div>
             </div>
-            <img src="assets/img/children_images.png" alt="img" class="rainbow-shape">
+            <img src="assets/img/footer_img_4.png" alt="img" class="rainbow-shape">
         </div>
     </div>
     <!-- Element -->
@@ -135,7 +135,7 @@ include "header.php";
 
             <!-- Image Section -->
             <div class="col-md-4 mt-5 text-center">
-                <img src="assets/img/team/1.png" alt="Why Choose Us" class="why_pic img-fluid">
+                <img src="assets/img/team/17.png" alt="Why Choose Us" class="why_pic img-fluid">
             </div>
 
             <!-- Content Section -->
@@ -376,77 +376,77 @@ include "header.php";
 
 
 
-<div class="team pb-5">
-            <div class="container pb-5">
+                <div class="team pb-5">
+                            <div class="container pb-5">
 
-             <div class="section-title text-center">
-                    <span class="sub-title wow fadeInUp p5-clr text font">
-                        Meet Our Directors
-                    </span>
-                    <h3 class="m-title wow fadeInUp black" data-wow-delay=".3s">
-                        <!-- Joyful Journeys Childcare and the Of a Education -->
-                    </h3>
+                            <div class="section-title text-center">
+                                    <span class="sub-title wow fadeInUp p5-clr text font">
+                                        Meet Our Directors
+                                    </span>
+                                    <h3 class="m-title wow fadeInUp black" data-wow-delay=".3s">
+                                        <!-- Joyful Journeys Childcare and the Of a Education -->
+                                    </h3>
+                                </div>
+                            
+                                <div class="row g-4">
+                                    <div class="col-12 col-md-4  " >
+                                        <div class="team-item">
+                                            <div class="team-img ">
+                                                <img src="assets/img/team/1.png" alt="img">
+                                                <!-- <img src="img/team-1.jpg" class="img-fluid" alt=""> -->
+                                            </div>
+                                            <div class="team-title">
+                                                <h4 class="mb-0 mt-3">Director</h4>
+                                                <p class="mb-0">Alex Carey</p>
+                                            </div>
+                                            <!-- <div class="team-icon">
+                                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-facebook-f"></i></a>
+                                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-twitter"></i></a>
+                                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-linkedin-in"></i></a>
+                                                <a class="btn btn-primary btn-sm-square rounded-circle me-0" href=""><i class="fab fa-instagram"></i></a>
+                                            </div> -->
+                                        </div>
+                                    </div>
+                                    <div class="col-12 col-md-4 wow fadeInUp" data-wow-delay="0.4s">
+                                        <div class="team-item">
+                                            <div class="team-img">
+                                                <!-- <img src="img/team-2.jpg" class="img-fluid" alt=""> -->
+                                                <img src="assets/img/team/2.png" alt="img">
+                                            </div>
+                                            <div class="team-title">
+                                                <h4 class="mb-0 mt-3">Director</h4>
+                                                <p class="mb-0">Smith</p>
+                                            </div>
+                                            <!-- <div class="team-icon">
+                                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-facebook-f"></i></a>
+                                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-twitter"></i></a>
+                                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-linkedin-in"></i></a>
+                                                <a class="btn btn-primary btn-sm-square rounded-circle me-0" href=""><i class="fab fa-instagram"></i></a>
+                                            </div> -->
+                                        </div>
+                                    </div>
+                                    <div class="col-12 col-md-4 wow fadeInUp" data-wow-delay="0.6s">
+                                        <div class="team-item">
+                                            <div class="team-img">
+                                                <!-- <img src="img/team-3.jpg" class="img-fluid" alt=""> -->
+                                                <img src="assets/img/team/3.png" alt="img">
+                                            </div>
+                                            <div class="team-title">
+                                                <h4 class="mb-0 mt-3">Director</h4>
+                                                <p class="mb-0">Andreia</p>
+                                            </div>
+                                            <!-- <div class="team-icon">
+                                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-facebook-f"></i></a>
+                                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-twitter"></i></a>
+                                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-linkedin-in"></i></a>
+                                                <a class="btn btn-primary btn-sm-square rounded-circle me-0" href=""><i class="fab fa-instagram"></i></a>
+                                            </div> -->
+                                        </div>
+                                    </div>
+                                
+                                </div>
+                            </div>
                 </div>
-               
-                <div class="row g-4">
-                    <div class="col-12 col-md-4  " >
-                        <div class="team-item">
-                            <div class="team-img ">
-                                  <img src="assets/img/team/1.png" alt="img">
-                                <!-- <img src="img/team-1.jpg" class="img-fluid" alt=""> -->
-                            </div>
-                            <div class="team-title">
-                                <h4 class="mb-0 mt-3">Director</h4>
-                                <p class="mb-0">Alex Carey</p>
-                            </div>
-                            <!-- <div class="team-icon">
-                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-linkedin-in"></i></a>
-                                <a class="btn btn-primary btn-sm-square rounded-circle me-0" href=""><i class="fab fa-instagram"></i></a>
-                            </div> -->
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-4 wow fadeInUp" data-wow-delay="0.4s">
-                        <div class="team-item">
-                            <div class="team-img">
-                                <!-- <img src="img/team-2.jpg" class="img-fluid" alt=""> -->
-                                   <img src="assets/img/team/2.png" alt="img">
-                            </div>
-                            <div class="team-title">
-                                <h4 class="mb-0 mt-3">Director</h4>
-                                <p class="mb-0">Smith</p>
-                            </div>
-                            <!-- <div class="team-icon">
-                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-linkedin-in"></i></a>
-                                <a class="btn btn-primary btn-sm-square rounded-circle me-0" href=""><i class="fab fa-instagram"></i></a>
-                            </div> -->
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-4 wow fadeInUp" data-wow-delay="0.6s">
-                        <div class="team-item">
-                            <div class="team-img">
-                                <!-- <img src="img/team-3.jpg" class="img-fluid" alt=""> -->
-                                   <img src="assets/img/team/3.png" alt="img">
-                            </div>
-                            <div class="team-title">
-                                <h4 class="mb-0 mt-3">Director</h4>
-                                <p class="mb-0">Andreia</p>
-                            </div>
-                            <!-- <div class="team-icon">
-                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-linkedin-in"></i></a>
-                                <a class="btn btn-primary btn-sm-square rounded-circle me-0" href=""><i class="fab fa-instagram"></i></a>
-                            </div> -->
-                        </div>
-                    </div>
-                  
-                </div>
-            </div>
-</div>
 
 
 

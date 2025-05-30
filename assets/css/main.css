@@ -33,8 +33,8 @@ p{
      font-size: 1rem !important;
      font-weight: 400 !important;
      line-height: 1.5 !important;
-     -webkit-text-size-adjust: 100%;
-     -webkit-tap-highlight-color: rgba(0,0,0,0);
+     /* -webkit-text-size-adjust: 100%;
+     -webkit-tap-highlight-color: rgba(0,0,0,0); */
      
 }
 
@@ -5624,9 +5624,10 @@ input.main-search-input::placeholder {
 }
 .banner_bg{
  
-  background:
- 
-#dada7e ;
+  background:#FFECF2;
+ ;
+  /* background:#dada7e ; */
+
 
 }
 .foooter{
@@ -6296,17 +6297,20 @@ margin-top: -600px !important;
 }
 
 
-.achievements_para_space {
-  background-color: 	#f7f2f2 !important;
-  padding: 40px 0px;
+
+
+
+.achievements_para_space p {
+  /* background-color: 	#f7f2f2 !important; */
+  /* padding: 40px 80px; */
 
 }
 .achievements_para_space_2 p{
   padding: 10px !important;
 }
-.achievements_para_space_2{
+/* .achievements_para_space_2{
   background-color: 	#f7f2f8 !important;
-}
+} */
 .achievements_para_space_3 p{
   padding: 10px !important;
 }
@@ -6314,17 +6318,39 @@ margin-top: -600px !important;
 .achievements_para_space_4 p{
   padding: 10px !important;
 }
+/* }
 .achievements_para_space_3{
   background-color: 	#ebe6e1 !important;
 }
 .achievements_para_space_4{
   background-color: 	#e2dbd1 !important;
-}
+} */
 
-@media (min-width:) {
+@media (min-width:375px) and (max-width:768px) {
+  .achievements_para_space p {
+  /* background-color: 	#f7f2f2 !important; */
+  padding: 40px 0px;
+
+}
   
 }
 
+@media (min-width:768px) and (max-width:998px) {
+  .achievements_para_space p {
+ 
+  padding: 0px 80px;
+
+}
+  
+}
+@media (min-width:992px) and (max-width:1600px) {
+  .achievements_para_space p {
+ 
+  padding: 40px 100px !important;
+
+}
+  
+}
 
 
 
@@ -6357,7 +6383,7 @@ transition: transform 0.5s ease;
 
 .primary_section{
   background-color: #FFECF2 !important;
-  /* padding-top: -100px !important; */
+
 }
 
 .primary_setion{
@@ -6366,10 +6392,35 @@ transition: transform 0.5s ease;
 }
 
 .Testimonials_section{
-  background-color: #D6ECFF	!important;
+  /* background-color: #D6ECFF	!important; */
+  background: linear-gradient(to right, #fff3f5, #fff9d5) !important;
+
   
 }
 .contact_section{
   background-color: #FFE5B4	;
   padding: 30px 0px;
+}
+
+
+
+
+.team-img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin: 0 auto; /* center align */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 4px solid #fff; /* optional border */
+  box-shadow: 0 0 10px rgba(0,0,0,0.1); /* optional shadow */
+}
+
+.team-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
 }

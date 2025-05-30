@@ -49,7 +49,7 @@ include "header.php";
 
 
 
-<section class="mb-5 top_space achievements_para_space_2 ">
+<section class="mb-5 top_space achievements_para_space_2 achievements_para_space">
   <div class="container mt-4">
     <div class="row ">
       <div class="container-fluid ">
@@ -101,7 +101,7 @@ include "header.php";
 
 
 
-<section class="py-5 vision_third_section achievements_para_space_3"  >
+<section class="py-5 vision_third_section achievements_para_space_3 achievements_para_space"  >
   <div class="container ">
     <div class="row ">
       <div class="container-fluid ">
@@ -120,7 +120,7 @@ include "header.php";
         </div>
       </div>
 
-      <div class="col-md-8 space">
+      <div class="col-md-8 space  ">
         <p>
 
         At BlueCrest School, our mission is to ignite the joy of learning and build confident, independent learners. 
@@ -146,7 +146,7 @@ include "header.php";
 </section>
 
 
-<section class="py-5 achievements_para_space_4">
+<section class="py-5 achievements_para_space_4 achievements_para_space">
   <div class="container ">
     <div class="row ">
       <div class="container-fluid">
