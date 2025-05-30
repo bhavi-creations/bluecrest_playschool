@@ -6094,7 +6094,35 @@ margin-top: -600px !important;
 .testimonial-card{
   background-color: #dbd3f5 !important;
 
+
 }
+
+
+
+
+.testimonial-card {
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .testimonial-card:hover {
+        transform: translateY(-10px);
+        /* box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15); */
+    }
+
+
+
+.hover-pop {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+}
+
+.hover-pop:hover {
+    transform: scale(1.1); /* 10% zoom */
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    z-index: 10;
+    position: relative;
+}
+
 
 
 .testimonials_section{
@@ -6425,3 +6453,10 @@ transition: transform 0.5s ease;
   object-fit: cover;
   display: block;
 }
+
+
+
+
+
+
+

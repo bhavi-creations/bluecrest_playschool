@@ -67,8 +67,8 @@ include "header.php";
           </h3>
         </div>
       </div>
-      <div class="col-md-4 mt-2">
-        <img src="assets/img/vision/2.png" alt="" class="img-fluid">
+      <div class="col-md-4 mt-2 ">
+        <img src="assets/img/vision/2.png" alt="" class="img-fluid ">
       </div>
       <div class="col-md-8 space">
 

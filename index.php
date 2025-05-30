@@ -70,7 +70,7 @@ include "header.php";
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <div class="about-one-thumbs">
                     <div class="thumbs position-relative wow fadeInUp" data-wow-delay="1200">
-                        <img src="assets/img/teacher.png" alt="img" class="round10 main-img">
+                        <img src="assets/img/teacher.png" alt="img" class="round10 main-img hover-pop">
                         <!-- Element -->
                         <img src="assets/img/about/lighing-cmn.png" alt="img" class="about-light1">
                         <img src="assets/img/about/arrows-cmn.png" alt="img" class="about-arrows">
