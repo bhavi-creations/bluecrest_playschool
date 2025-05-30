@@ -37,10 +37,27 @@
                 <h6 class="collapse-header">NEW BLOG</h6>
                 <a class="collapse-item" href="newpost.php"> <i class="fas fa-fw fa-blog"></i> UPLOAD images</a>
                 <a class="collapse-item" href="allimages.php"> <i class="fas fa-fw fa-edit"></i> All Posts</a>
+               
             </div>
         </div>
     </li>
 
+
+
+    <li class="nav-item">
+        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
+            <i class="fas fa-fw fa-blog"></i>
+            <span>Staff</span>
+        </a>
+        <div id="collapseThree" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
+            <div class="bg-white py-2 collapse-inner rounded">
+                <h6 class="collapse-header">NEW BLOG</h6>
+                <a class="collapse-item" href="staff_new.php"> <i class="fas fa-fw fa-blog"></i> UPLOAD images</a>
+                <a class="collapse-item" href="staff_allimages.php"> <i class="fas fa-fw fa-edit"></i> All Posts</a>
+               
+            </div>
+        </div>
+    </li>
 
 
 

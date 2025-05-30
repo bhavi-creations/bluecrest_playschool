@@ -87,8 +87,8 @@
                                     <i class="fal fa-envelope text"></i>
                                 </div>
                                 <div class="offcanvas__contact-text">
-                                    <a href="mailto:info@example.com"><span
-                                            class="mailto:info@example.com">thebluecrestschool@gmail.com</span></a>
+                                    <span
+                                          >thebluecrestschool@gmail.com</span>
                                 </div>
                             </li>
                             <li class="d-flex align-items-center text-white">
@@ -104,7 +104,7 @@
                                     <i class="far fa-phone text"></i>
                                 </div>
                                 <div class="offcanvas__contact-text">
-                                    <a href="tel:+11002345909">7993116666,7993118888</a>
+                                    <a href="tel:+917993116666">7993116666 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,  &nbsp; 7993118888</a>
                                 </div>
                             </li>
                         </ul>
@@ -145,12 +145,12 @@
                 </div>
                 <ul class="contact-list">
                     <li>
-                        <i class="fal fa-phone text-black"><span class="family"> 7993116666,7993118888</span></i>
+                        <i class="fal fa-phone text-black"><span class="family"> 7993116666 &nbsp;,&nbsp; 7993118888</span></i>
 
                     </li>
                     <li>
                         <i class="far fa-envelope text-black"></i>
-                        <a href="info@example.com" class="link text-black">thebluecrestschool@gmail.com</a>
+                        <a  class="link text-black">thebluecrestschool@gmail.com</a>
                     </li>
 
                 </ul>
@@ -160,7 +160,7 @@
                             class="fa-brands fa-facebook-f"  ></i></a>
                     <a href="https://www.youtube.com/@bluecrestschool6685/" target="_blank" class="white"><i
                             class="fa-brands fa-youtube"  ></i></a>
-                    <a href="/" target="_blank" class="white"><i
+                    <a href="https://www.instagram.com/thebluecrestschool/" target="_blank" class="white"><i
                             class="fa-brands fa-instagram" ></i></a>
 
 

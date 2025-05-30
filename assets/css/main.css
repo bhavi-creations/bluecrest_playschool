@@ -5968,7 +5968,8 @@ overflow: visible !important;
 
 
 .flip-card-back {
-    background: #007bff;
+    background: #007bffa4 !important;
+    /* background: #007bff; */
     color: white;
     transform: rotateY(180deg);
     display: flex;

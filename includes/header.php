@@ -151,7 +151,7 @@
                 <div class="social-wrapper d-flex align-items-center">
 
                     <a href="https://www.facebook.com/thebluecrestschool/" class="white "><i class="fa-brands fa-facebook-f"></i></a>
-                    <!-- <a href="#" class="white"><i class="fa-brands fa-instagram"></i></i></a> -->
+                    <a href="https://www.instagram.com/thebluecrestschool/ " class="white"><i class="fa-brands fa-instagram"></i></i></a>
                     <a href="https://www.youtube.com/@bluecrestschool6685/" class="white"><i class="fa-brands fa-youtube"></i></i></a>
 
 

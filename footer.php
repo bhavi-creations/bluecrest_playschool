@@ -112,20 +112,22 @@
                                        70-14-16/4,Jayendra Nagar,D-Mart Road,Kakinada 533003
                                    </span>
                                </li>
+                               
+
                                <li>
                                    <i class="far fa-envelope  scn_bg text-white"></i>
-                                   <a href="info@example.com" class="link   sub_style">thebluecrestschool@gmail.com</a>
+                                   <a  class="link   sub_style">thebluecrestschool@gmail.com</a>
                                </li>
                                <li>
                                    <i class="fa-solid fa-phone  scn_bg text-white"></i>
-                                   <a href="#" class="link">7993116666,7993118888</a>
+                                   <a  class="link">7993116666&nbsp;,&nbsp;7993118888</a>
                                </li>
                            </ul>
                            <div class="footer-content mt-4 ">
                                <div class="social-wrapper d-flex align-items-center ">
 
                                    <a href="https://www.facebook.com/thebluecrestschool/" target="_blank" class="white"><i class="text-white  fa-brands fa-facebook-f"></i></a>
-                                   <a href="#" class="white"><i class="text-white  fa-brands fa-instagram"></i></i></a>
+                                   <a href="https://www.instagram.com/thebluecrestschool/" class="white"><i class="text-white  fa-brands fa-instagram"></i></i></a>
                                    <a href="https://www.youtube.com/@bluecrestschool6685/" target="_blank" class="white"><i class="text-white  fa-brands fa-youtube"></i></i></a>
 
 
