@@ -640,7 +640,7 @@ include "header.php";
     </div>
 
     <img src="assets/img/about/knowledge-lshpe.png" alt="img" class="knowledge-shapeleft d-xl-block d-none">
-    <img src="assets/img/tortose.png" alt="img" class="knowledge-animal">
+    <!-- <img src="assets/img/tortose.png" alt="img" class="knowledge-animal"> -->
 </section>
 
 
