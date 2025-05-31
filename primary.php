@@ -19,7 +19,7 @@ include "header.php";
                </h3>
             </div>
          </div>
-         <div class="col-md-8 space">
+         <div class="col-md-8 space primary_section">
             <p>
                At Bluecrest Playschool, we lay a strong foundation for lifelong learning through a well-rounded primary education program. Our approach blends play-based learning, interactive experiences, and structured development to ensure that children grow intellectually, socially, emotionally, and physically.
                Holistic Development

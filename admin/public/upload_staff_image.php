@@ -1,14 +1,5 @@
 <?php
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "bluecrest";
-
-// Connect to database
-$conn = new mysqli($servername, $username, $password, $dbname);
-if ($conn->connect_error) {
-    die("❌ Connection failed: " . $conn->connect_error);
-}
+include '../../db.connection/db_connection.php';
 
 // Handle form submission
 if ($_SERVER["REQUEST_METHOD"] === "POST") {

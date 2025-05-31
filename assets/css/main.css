@@ -6318,9 +6318,9 @@ margin-top: -600px !important;
   padding: 50px !important;
 }
 
-.space p {
-  padding: 50px !important;
-}
+/* .space p {
+  padding: 10px !important;
+} */
 
 
 
@@ -6461,3 +6461,6 @@ margin-top: -600px !important;
 
 
 
+.primary_section p {
+  padding: 10px !important;
+}
