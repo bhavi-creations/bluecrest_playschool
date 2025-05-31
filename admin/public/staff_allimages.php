@@ -76,7 +76,7 @@ include '../../db.connection/db_connection.php';
                                             </p>
                                             <div class='row'>
                                                 <a href='edit_staff_image.php?id=" . intval($staff['id']) . "' class='btn btn-warning col-xl-4 mx-3 my-2'>Edit</a>
-                                                <a href='delete_staff.php?id=" . intval($staff['id']) . "' class='btn btn-danger col-xl-4 mx-3 my-2'>Delete</a>
+                                                <a href='delete_staff_image.php?id=" . intval($staff['id']) . "' class='btn btn-danger col-xl-4 mx-3 my-2'>Delete</a>
                                             </div>
                                         </div>
                                     </div>
