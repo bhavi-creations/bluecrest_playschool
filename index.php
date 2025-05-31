@@ -135,7 +135,7 @@ include "header.php";
 
             <!-- Image Section -->
             <div class="col-md-4 mt-5 text-center">
-                <img src="assets/img/team/17.png" alt="Why Choose Us" class="why_pic img-fluid">
+                <img src="assets/img/team/17.png" alt="Why Choose Us" class="why_pic img-fluid ">
             </div>
 
             <!-- Content Section -->

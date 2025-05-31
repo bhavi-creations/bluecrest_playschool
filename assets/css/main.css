@@ -6400,14 +6400,15 @@ margin-top: -600px !important;
 }
 
 .about-contentv1{
-transition: transform 0.5s ease;
-    display: block;
-    width: 100%; /* Adjust as needed */
-    height: auto;
+/* transition: transform 0.5s ease; */
+    /* display: block;
+    width: 100%; 
+    height: auto; */
 }
 
+
 .about-contentv1 :hover{
-    transform: translateY(-10px) !important;
+    /* transform: translateY(-10px) !important; */
 }
 
 .primary_section{
@@ -6454,7 +6455,9 @@ transition: transform 0.5s ease;
   display: block;
 }
 
-
+.achievements_para_space p{
+  padding: 5px !important  ;
+}
 
 
 

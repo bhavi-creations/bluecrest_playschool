@@ -12,7 +12,7 @@ include "header.php";
 
 
 
-               <h3 class=" p5-clr text wow fadeInUp text-center font">
+               <h3 class=" p5-clr text wow fadeInUp text-center font pt-5">
 
                   Achievements
 
@@ -31,9 +31,8 @@ include "header.php";
                <strong>At Bluecrest Playschool, learning is an adventure!</strong>
             </p>
                We believe every child learns best through play, exploration, and joyful discovery.
-               Our special mix of fun activities and gentle guidance helps little ones grow in every way – their thinking skills, social confidence, big feelings, and healthy bodies.</p>
-            <p ><strong>Picture this:</strong> </p> 
-            <p> • Storytime magic that brings books to life 🧚♂️</p>
+               Our special mix of fun activities and gentle guidance helps little ones grow in every way – their thinking skills, social confidence, big feelings, and healthy bodies.</p> <br>
+            <p ><strong>Picture this:</strong> </p><p> • Storytime magic that brings books to life 🧚♂️</p>
             <p>• Hands-on science with bubbles and blocks 🧪</p>
             <p>• Music and art that make learning colorful 🎨</p>
             <p>• Team games that teach friendship 🤝</p>
