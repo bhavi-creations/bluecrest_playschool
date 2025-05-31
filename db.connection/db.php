@@ -6,9 +6,9 @@ if ($_SERVER['SERVER_NAME'] == 'localhost') {
     $pass = "";
     $db = "bluecrest";
 } else {
-    $user = "bhavicreations";
-    $pass = "d8Az75YlgmyBnVM";
-    $db = "bluecrest";
+    $user = "bluecrestschools";
+    $pass = "2dExjsHyN7dUYZU";
+    $db = "bluecrestschools";
 }
 
 
