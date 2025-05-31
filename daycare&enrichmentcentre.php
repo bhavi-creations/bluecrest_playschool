@@ -2,7 +2,7 @@
 include "header.php";
 ?>
 
-<section class="  Testimonials_section">
+<section class="  Testimonials_section py-5">
    <div class="container ">
       <div class="row ">
          <div class="container-fluid">
