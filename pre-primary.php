@@ -47,16 +47,16 @@ include "header.php";
                     <div class="flip-card-back">
 
 
-                        <h3 class="text-white card_icon mb-4">Playgroup </h3>
+                        <h3 class="text-white card_icon ">Playgroup </h3>
 
-                        <div class="icon-text mb-3">
+                        <div class="icon-text">
                             <i class="fa-regular fa-face-kiss mt-2"> </i>
                             <p class="side">4-5 years <br>kids</p>
 
                         </div>
 
 
-                        <div class="icon-text mb-3">
+                        <div class="icon-text ">
                             <i class="fa-regular fa-calendar-days mt-2"></i>
                             <p class="side">5 days <br> a week </p>
 
@@ -86,17 +86,17 @@ include "header.php";
                     <div class="flip-card-back">
 
 
-                        <h3 class="text-white card_icon mb-4">Nursery</h3> 
+                        <h3 class="text-white card_icon ">Nursery</h3> 
                         <!-- <i class="fa-regular fa-circle-xmark"></i> -->
 
-                        <div class="icon-text mb-3">
+                        <div class="icon-text ">
                             <i class="fa-regular fa-face-kiss mt-2"> </i>
                             <p class="side">4-5 years <br>kids</p>
 
                         </div>
 
 
-                        <div class="icon-text mb-3">
+                        <div class="icon-text ">
                             <i class="fa-regular fa-calendar-days mt-2"></i>
                             <p class="side">5 days <br> a week </p>
 
@@ -126,16 +126,16 @@ include "header.php";
                     <div class="flip-card-back">
 
 
-                        <h3 class="text-white card_icon mb-4">LKG </h3>
+                        <h3 class="text-white card_icon ">LKG </h3>
 
-                        <div class="icon-text mb-3">
+                        <div class="icon-text ">
                             <i class="fa-regular fa-face-kiss mt-2"> </i>
                             <p class="side">4-5 years <br>kids</p>
 
                         </div>
 
 
-                        <div class="icon-text mb-3">
+                        <div class="icon-text ">
                             <i class="fa-regular fa-calendar-days mt-2"></i>
                             <p class="side">5 days <br> a week </p>
 
@@ -165,16 +165,16 @@ include "header.php";
                     <div class="flip-card-back">
 
 
-                        <h3 class="text-white card_icon mb-4">UKG </h3>
+                        <h3 class="text-white card_icon ">UKG </h3>
 
-                        <div class="icon-text mb-3">
+                        <div class="icon-text ">
                             <i class="fa-regular fa-face-kiss mt-2"> </i>
                             <p class="side">4-5 years <br>kids</p>
 
                         </div>
 
 
-                        <div class="icon-text mb-3">
+                        <div class="icon-text ">
                             <i class="fa-regular fa-calendar-days mt-2"></i>
                             <p class="side">5 days <br> a week </p>
 
