@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="mugli">
 
-    <meta name="title" content="BlueCrest School – Best Play School & Pre School in Kakinada">
+    <meta name="title" content="BlueCrest School – Best Play School & Pre School in Kakinada">
     <meta name="description" content="Enroll your child at BlueCrest School, the best play school and pre school in Kakinada, where we prioritize holistic development and create a stimulating environment for lifelong learning.">
     <!-- ======== Page title ============ -->
-    <title>Blue crest</title>
+    <title>BlueCrest School – Best Play School & Pre School in Kakinada</title>
     <!--<< Favcion >>-->
     <link rel="shortcut icon" href="assets/img/1.png">
     <!--<< Bootstrap min.css >>-->
