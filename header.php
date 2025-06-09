@@ -8,11 +8,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="mugli">
-    <meta name="description" content="Ascent - Kids Kindergarden School php Template">
+
+    <meta name="title" content="BlueCrest School – Best Play School & Pre School in Kakinada">
+    <meta name="description" content="Enroll your child at BlueCrest School, the best play school and pre school in Kakinada, where we prioritize holistic development and create a stimulating environment for lifelong learning.">
     <!-- ======== Page title ============ -->
     <title>Blue crest</title>
     <!--<< Favcion >>-->
-    <link rel="shortcut icon" href="assets/img/crestlogo-removebg.png">
+    <link rel="shortcut icon" href="assets/img/1.png">
     <!--<< Bootstrap min.css >>-->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <!--<< All Min Css >>-->
@@ -37,17 +39,75 @@
 
     <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"> -->
 
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
 
 
- 
+
     <!-- imageslider -->
 
-<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/freeps2/a7rarpress@main/swiper-bundle.min.css">
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/freeps2/a7rarpress@main/swiper-bundle.min.css">
 
 
+
+
+
+
+    <meta name="keywords" content="BlueCrest School, best play school in Kakinada, pre school in Kakinada, early childhood education Kakinada, nursery school Kakinada, playgroup Kakinada, kids school Kakinada, top preschool in Kakinada, best kindergarten Kakinada, Montessori preschool, best day care center in Kakinada, best CBSE school in Kakinada">
+
+
+
+
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Preschool",
+  "name": "BlueCrest School",
+  "url": "https://bluecrestschools.com/",
+  "logo": "https://bluecrestschools.com/path-to-logo.jpg",
+  "image": "https://bluecrestschools.com/path-to-main-image.jpg",
+  "description": "BlueCrest School is the best play school and pre school in Kakinada, offering quality early childhood education in a nurturing environment.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "70-14-16/4, Jayendra Nagar, D-Mart Road",
+    "addressLocality": "Kakinada",
+    "addressRegion": "Andhra Pradesh",
+    "postalCode": "533003",
+    "addressCountry": "IN"
+  },
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "telephone": "+91-7993116666",
+      "contactType": "Customer Service",
+      "areaServed": "IN"
+    },
+    {
+      "@type": "ContactPoint",
+      "telephone": "+91-7993118888",
+      "contactType": "Admissions",
+      "areaServed": "IN"
+    }
+  ],
+  "email": "mailto:thebluecrestschool@gmail.com",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 16.9762984,
+    "longitude": 82.245679
+  },
+  "sameAs": [
+    "https://www.facebook.com/thebluecrestschool/",
+    "https://www.instagram.com/thebluecrestschool/",
+    "https://www.youtube.com/@bluecrestschool6685"
+  ]
+}
+</script>
+
+
+
+
+    <link rel="canonical" href="https://bluecrestschools.com/" />
 </head>
 
 <body>
@@ -87,8 +147,7 @@
                                     <i class="fal fa-envelope text"></i>
                                 </div>
                                 <div class="offcanvas__contact-text">
-                                    <span
-                                          >thebluecrestschool@gmail.com</span>
+                                    <span>thebluecrestschool@gmail.com</span>
                                 </div>
                             </li>
                             <li class="d-flex align-items-center text-white">
@@ -104,7 +163,7 @@
                                     <i class="far fa-phone text"></i>
                                 </div>
                                 <div class="offcanvas__contact-text">
-                                    <a href="tel:+917993116666">7993116666 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,  &nbsp; 7993118888</a>
+                                    <a href="tel:+917993116666">7993116666 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;, &nbsp; 7993118888</a>
                                 </div>
                             </li>
                         </ul>
@@ -150,18 +209,18 @@
                     </li>
                     <li>
                         <i class="far fa-envelope text-black"></i>
-                        <a  class="link text-black">thebluecrestschool@gmail.com</a>
+                        <a class="link text-black">thebluecrestschool@gmail.com</a>
                     </li>
 
                 </ul>
                 <div class="social-wrapper d-flex align-items-center">
 
                     <a href="https://www.facebook.com/thebluecrestschool/" target="_blank" class="white "><i
-                            class="fa-brands fa-facebook-f"  ></i></a>
+                            class="fa-brands fa-facebook-f"></i></a>
                     <a href="https://www.youtube.com/@bluecrestschool6685/" target="_blank" class="white"><i
-                            class="fa-brands fa-youtube"  ></i></a>
+                            class="fa-brands fa-youtube"></i></a>
                     <a href="https://www.instagram.com/thebluecrestschool/" target="_blank" class="white"><i
-                            class="fa-brands fa-instagram" ></i></a>
+                            class="fa-brands fa-instagram"></i></a>
 
 
                 </div>
@@ -173,7 +232,7 @@
 
 
 
-  
+
 
 
 

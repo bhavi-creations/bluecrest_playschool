@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /includes/
+Disallow: /config/
+Disallow: /tmp/
+Disallow: /private/
+
+Allow: /
+
+Sitemap: https://bluecrestschools.com/sitemap.xml 
