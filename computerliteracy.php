@@ -44,7 +44,7 @@ include "header.php";
             </p>
          </div>
          <div class="col-md-4 mt-2">
-            <img src="assets/img/beyond/2.png" alt="" class="img-fluid">
+            <img src="assets/img/beyond/8.png" alt="" class="img-fluid">
          </div>
       </div>
    </div>

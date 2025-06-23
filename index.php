@@ -476,16 +476,26 @@ include "header.php";
                     ?>
                         <div class="col-md-4">
                             <div class="team-item text-center mb-4">
-                                <div class="team-img">
+                                <!-- <div class="team-img">
                                     <img src="<?= $imagePath ?>"
                                         alt="<?= htmlspecialchars($row['name']) ?>"
-                                        class="img-fluid rounded shadow"
+                                        class="img-fluid rounded-circle shadow"
                                         style="max-height: 250px; object-fit: cover; width: 100%;">
                                 </div>
                                 <div class="team-title mt-3">
                                     <h4 class="mb-1"><?= htmlspecialchars($row['role']) ?></h4>
                                     <p class="mb-0"><?= htmlspecialchars($row['name']) ?></p>
+                                </div> -->
+
+                                <div class="team-img">
+                                    <img src="<?= $imagePath ?>"
+                                        alt="<?= htmlspecialchars($row['name']) ?>">
                                 </div>
+                                <div class="team-title">
+                                    <h4 class="mb-1"><?= htmlspecialchars($row['role']) ?></h4>
+                                    <p class="mb-0"><?= htmlspecialchars($row['name']) ?></p>
+                                </div>
+
                             </div>
                         </div>
                     <?php

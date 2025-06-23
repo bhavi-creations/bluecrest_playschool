@@ -63,7 +63,7 @@
 	}
 	@include breakpoint(max-xl) {
 		gap: 19px;
-		display: grid;
+		// display: grid;
 		.thumbs {
 			max-width: 320px;
 			.main-img {

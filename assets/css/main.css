@@ -6270,11 +6270,35 @@ margin-top: -600px !important;
     transition: 0.5s;
 }
 
+@media (max-width:560px) {
+  .team .team-item .team-title {
+    padding: 40px 0 25px 0;
+    /* text-align: center; */
+}
+}
+
+
+
+
+@media (min-width:560px) and (max-width:768px) {
+  .team .team-item .team-title {
+    padding: 60px 0 25px 0;
+    /* text-align: center; */
+}
+}
+
+
+@media (min-width:768px) and (max-width:1600px) {
+  .team .team-item .team-title {
+    padding: 35px 0 25px 0;
+    /* text-align: center; */
+}
+}
 
 
 
 .team .team-item .team-title {
-    padding: 25px 0 25px 0;
+    /* padding: 25px 0 25px 0; */
     text-align: center;
 }
 

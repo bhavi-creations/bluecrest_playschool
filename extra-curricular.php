@@ -26,7 +26,7 @@ include "header.php";
             </p>
          </div>
          <div class="col-md-4 mt-2">
-            <img src="assets/img/beyond/1.png" alt="" class="img-fluid">
+            <img src="assets/img/beyond/9.png" alt="" class="img-fluid">
          </div>
       </div>
    </div>
@@ -51,7 +51,7 @@ include "header.php";
             </div>
          </div>
          <div class="col-md-4 mt-2">
-            <img src="assets/img/beyond/2.png" alt="" class="img-fluid">
+            <img src="assets/img/beyond/10.png" alt="" class="img-fluid">
          </div>
          <div class="col-md-8 space">
             <p>
@@ -121,7 +121,7 @@ include "header.php";
             </p>
          </div>
          <div class="col-md-4 mt-2">
-            <img src="assets/img/beyond/4.png" alt="" class="img-fluid">
+            <img src="assets/img/beyond/11.png" alt="" class="img-fluid">
          </div>
       </div>
    </div>
