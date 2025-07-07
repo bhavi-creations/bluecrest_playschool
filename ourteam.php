@@ -213,7 +213,8 @@ include "header.php";
                                     <img src="<?= $imagePath ?>"
                                         alt="<?= htmlspecialchars($row['name']) ?>"
                                         class="img-fluid rounded-circle shadow"
-                                        style="max-height: 250px; object-fit: cover; width: 100%;">
+                                        style=" object-fit: cover; width: 100%;">
+                                        <!-- style="max-height: 250px; object-fit: cover; width: 100%;"> -->
                                 </div>
                                 <div class="team-title mt-3">
                                     <h4 class="mb-1"><?= htmlspecialchars($row['role']) ?></h4>
@@ -325,7 +326,8 @@ include "header.php";
                                     <img src="<?= $imagePath ?>"
                                         alt="<?= htmlspecialchars($row['name']) ?>"
                                         class="img-fluid rounded-circle shadow"
-                                        style="max-height: 250px; object-fit: cover; width: 100%;">
+                                        style=" object-fit: cover; width: 100%;">
+                                        <!-- style="max-height: 250px; object-fit: cover; width: 100%;"> -->
                                 </div>
                                 <div class="team-title mt-3">
                                     <h4 class="mb-1"><?= htmlspecialchars($row['role']) ?></h4>
