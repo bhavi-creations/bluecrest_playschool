@@ -36,7 +36,7 @@
                                </li>
 
                                <li>
-                                   <a href="Gallery.php">
+                                   <a href="gallery.php">
                                        Gallery
                                    </a>
                                </li>
