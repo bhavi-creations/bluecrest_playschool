@@ -16,7 +16,7 @@
 
 <body>
 
-    <img src="img3.png" alt="" class="img-fluid img_section">
+    <img src="./assets/img.png" alt="" class="img-fluid img_section">
 </body>
 
 </html>
